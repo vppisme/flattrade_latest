@@ -62,6 +62,7 @@ trades_logger.setLevel(logging.INFO)
 trades_file_handler = logging.FileHandler(trade_log_file)
 trades_file_handler.setLevel(logging.INFO)
 
+
 # Create formatter and add it to the handler
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(message)s')
 trades_file_handler.setFormatter(formatter)
