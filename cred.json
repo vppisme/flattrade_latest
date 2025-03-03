@@ -1,0 +1,15 @@
+{
+  "telegram": {
+    "token": "7217489619:AAFSzDg0nkQCUCShkWDH0ty-y4t2Quervdo",
+    "chat_id": 5327035146
+  },
+  "flattrade": {
+    "api_key": "e8c681301a3049e3b1b73a535b8439a2",
+    "secret_key": "2024.093e95a6cca548efbed2b1e74433aac2394915746d478b95",
+    "token_url": "https://authapi.flattrade.in/trade/apitoken",
+    "api_url": "https://auth.flattrade.in/?app_key=e8c681301a3049e3b1b73a535b8439a2",
+    "user_id": "FT035389",
+    "password": "nVp@02098412",
+    "totp_key": "6W37CN226GUKXM3Q64A4525J63GA2H45"
+  }
+}

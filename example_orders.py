@@ -32,7 +32,7 @@ def open_callback():
     socket_opened = True
     print('app is connected')
     #api.subscribe_orders()
-    api.subscribe('NSE|22')
+    api.subscribe('NSE|11840')
     #api.subscribe(['NSE|22', 'BSE|522032'])
 
 #end of callbacks
@@ -44,8 +44,8 @@ api = NorenApiPy()
 #set token and user id
 #paste the token generated using the login flow described 
 # in LOGIN FLOW of https://pi.flattrade.in/docs
-usersession='token here'
-userid = 'user id here'
+usersession='5651ffb55b1802b8b68ce6a5d60889d075d12d5bf13ba14f15bf365dbf20abeb'
+userid = 'FT035389'
 
 ret = api.set_session(userid= userid, password = '', usertoken= usersession)
 
@@ -66,10 +66,14 @@ if ret != None:
         prompt1=input('what shall we do? ').lower()        
             
         if prompt1 == 'p':
-            ret = api.place_order(buy_or_sell='B', product_type='C',
-                        exchange='NSE', tradingsymbol='INFY-EQ', 
-                        quantity=1, discloseqty=0,price_type='LMT', price=1500.00, trigger_price=None,
-                        retention='DAY', remarks='my_order_001')
+            # ret = api.place_order(buy_or_sell='B', product_type='C',
+            #             exchange='NSE', tradingsymbol='INFY-EQ',
+            #             quantity=1, discloseqty=0,price_type='LMT', price=1500.00, trigger_price=None,
+            #             retention='DAY', remarks='my_order_001')
+            ret = api.place_order(buy_or_sell='B', product_type='B',
+                        exchange='NSE', tradingsymbol='NH-EQ',
+                        quantity=1, discloseqty=0,price_type='LMT', price=1551, trigger_price=None,
+                        retention='DAY', remarks='my_order_001', bookloss_price = 1530, bookprofit_price = 1554)
             print(ret)
 
         elif prompt1 == 'm':

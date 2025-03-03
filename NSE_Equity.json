@@ -1,0 +1,7070 @@
+{
+    "NIFTY INDIA MFG": {
+        "NIFTY INDIA MFG": "26080"
+    },
+    "NIFTY M150 QLTY50": {
+        "NIFTY M150 QLTY50": "26079"
+    },
+    "NIFTY100 ESG": {
+        "NIFTY100 ESG": "26078"
+    },
+    "NIFTY IND DIGITAL": {
+        "NIFTY IND DIGITAL": "26077"
+    },
+    "NIFTY MICROCAP250": {
+        "NIFTY MICROCAP250": "26076"
+    },
+    "NIFTY TOTAL MKT": {
+        "NIFTY TOTAL MKT": "26075"
+    },
+    "NIFTY MID SELECT": {
+        "NIFTY MID SELECT": "26074"
+    },
+    "NIFTY LARGEMID250": {
+        "NIFTY LARGEMID250": "26073"
+    },
+    "NIFTY500 MULTICAP": {
+        "NIFTY500 MULTICAP": "26072"
+    },
+    "NIFTY OIL AND GAS": {
+        "NIFTY OIL AND GAS": "26071"
+    },
+    "NIFTY CONSR DURBL": {
+        "NIFTY CONSR DURBL": "26070"
+    },
+    "NIFTY HEALTHCARE": {
+        "NIFTY HEALTHCARE": "26069"
+    },
+    "Nifty100ESGSecLdr": {
+        "Nifty100ESGSecLdr": "26068"
+    },
+    "Nifty200Momentm30": {
+        "Nifty200Momentm30": "26067"
+    },
+    "NIFTY AlphaLowVol": {
+        "NIFTY AlphaLowVol": "26066"
+    },
+    "Nifty FinSrv25 50": {
+        "Nifty FinSrv25 50": "26065"
+    },
+    "NIFTY200 QUALTY30": {
+        "NIFTY200 QUALTY30": "26064"
+    },
+    "NIFTY MIDSML 400": {
+        "NIFTY MIDSML 400": "26063"
+    },
+    "NIFTY SMLCAP 250": {
+        "NIFTY SMLCAP 250": "26062"
+    },
+    "NIFTY SMLCAP 50": {
+        "NIFTY SMLCAP 50": "26061"
+    },
+    "NIFTY MIDCAP 150": {
+        "NIFTY MIDCAP 150": "26060"
+    },
+    "NIFTY Alpha 50": {
+        "NIFTY Alpha 50": "26059"
+    },
+    "NIFTY100 LowVol30": {
+        "NIFTY100 LowVol30": "26058"
+    },
+    "NIFTY100 EQL Wgt": {
+        "NIFTY100 EQL Wgt": "26057"
+    },
+    "NIFTY50 EQL Wgt": {
+        "NIFTY50 EQL Wgt": "26056"
+    },
+    "Nifty GS Compsite": {
+        "Nifty GS Compsite": "26055"
+    },
+    "Nifty GS 15YrPlus": {
+        "Nifty GS 15YrPlus": "26054"
+    },
+    "Nifty GS 11 15Yr": {
+        "Nifty GS 11 15Yr": "26053"
+    },
+    "Nifty GS 4 8Yr": {
+        "Nifty GS 4 8Yr": "26052"
+    },
+    "Nifty GS 10Yr Cln": {
+        "Nifty GS 10Yr Cln": "26051"
+    },
+    "Nifty GS 10Yr": {
+        "Nifty GS 10Yr": "26050"
+    },
+    "Nifty GS 8 13Yr": {
+        "Nifty GS 8 13Yr": "26049"
+    },
+    "NIFTY SMLCAP 100": {
+        "NIFTY SMLCAP 100": "26032"
+    },
+    "NIFTY MIDCAP 100": {
+        "NIFTY MIDCAP 100": "26011"
+    },
+    "NIFTY100 Qualty30": {
+        "NIFTY100 Qualty30": "26048"
+    },
+    "Nifty Pvt Bank": {
+        "Nifty Pvt Bank": "26047"
+    },
+    "Nifty Mid Liq 15": {
+        "Nifty Mid Liq 15": "26046"
+    },
+    "Nifty50 Value 20": {
+        "Nifty50 Value 20": "26045"
+    },
+    "Nifty50 TR 1x Inv": {
+        "Nifty50 TR 1x Inv": "26044"
+    },
+    "Nifty50 TR 2x Lev": {
+        "Nifty50 TR 2x Lev": "26043"
+    },
+    "Nifty50 PR 1x Inv": {
+        "Nifty50 PR 1x Inv": "26042"
+    },
+    "Nifty50 PR 2x Lev": {
+        "Nifty50 PR 2x Lev": "26002"
+    },
+    "Nifty GrowSect 15": {
+        "Nifty GrowSect 15": "26001"
+    },
+    "Nifty CPSE": {
+        "Nifty CPSE": "26041"
+    },
+    "Nifty100 Liq 15": {
+        "Nifty100 Liq 15": "26040"
+    },
+    "Nifty50 Div Point": {
+        "Nifty50 Div Point": "26038"
+    },
+    "Nifty Consumption": {
+        "Nifty Consumption": "26036"
+    },
+    "Nifty Commodities": {
+        "Nifty Commodities": "26035"
+    },
+    "Nifty Div Opps 50": {
+        "Nifty Div Opps 50": "26034"
+    },
+    "Nifty 200": {
+        "Nifty 200": "26033"
+    },
+    "Nifty Media": {
+        "Nifty Media": "26031"
+    },
+    "Nifty Metal": {
+        "Nifty Metal": "26030"
+    },
+    "Nifty Auto": {
+        "Nifty Auto": "26029"
+    },
+    "Nifty Serv Sector": {
+        "Nifty Serv Sector": "26026"
+    },
+    "Nifty PSU Bank": {
+        "Nifty PSU Bank": "26025"
+    },
+    "Nifty PSE": {
+        "Nifty PSE": "26024"
+    },
+    "Nifty Pharma": {
+        "Nifty Pharma": "26023"
+    },
+    "Nifty MNC": {
+        "Nifty MNC": "26022"
+    },
+    "Nifty FMCG": {
+        "Nifty FMCG": "26021"
+    },
+    "Nifty Energy": {
+        "Nifty Energy": "26020"
+    },
+    "Nifty Infra": {
+        "Nifty Infra": "26019"
+    },
+    "Nifty Realty": {
+        "Nifty Realty": "26018"
+    },
+    "Nifty Midcap 50": {
+        "Nifty Midcap 50": "26014"
+    },
+    "Nifty 100": {
+        "Nifty 100": "26012"
+    },
+    "Nifty 500": {
+        "Nifty 500": "26004"
+    },
+    "Nifty Next 50": {
+        "Nifty Next 50": "26013"
+    },
+    "Nifty IT": {
+        "Nifty IT": "26008"
+    },
+    "FINNIFTY": {
+        "Nifty Fin": "26037"
+    },
+    "INDIAVIX": {
+        "INDIAVIX": "26017"
+    },
+    "BANKNIFTY": {
+        "Nifty Bank": "26009"
+    },
+    "NIFTY": {
+        "Nifty 50": "26000"
+    },
+    "ZYDUSWELL": {
+        "ZYDUSWELL-EQ": "17635"
+    },
+    "ZYDUSLIFE": {
+        "ZYDUSLIFE-EQ": "7929"
+    },
+    "ZUARIIND": {
+        "ZUARIIND-EQ": "3827"
+    },
+    "ZUARI": {
+        "ZUARI-EQ": "29050"
+    },
+    "ZOTA": {
+        "ZOTA-EQ": "11394"
+    },
+    "ZOMATO": {
+        "ZOMATO-EQ": "5097"
+    },
+    "ZODIACLOTH": {
+        "ZODIACLOTH-EQ": "3821"
+    },
+    "ZODIAC": {
+        "ZODIAC-EQ": "7129"
+    },
+    "ZIMLAB": {
+        "ZIMLAB-EQ": "12384"
+    },
+    "ZFCVINDIA": {
+        "ZFCVINDIA-EQ": "16915"
+    },
+    "ZENTEC": {
+        "ZENTEC-EQ": "7508"
+    },
+    "ZENSARTECH": {
+        "ZENSARTECH-EQ": "1076"
+    },
+    "ZENITHSTL": {
+        "ZENITHSTL-EQ": "14562"
+    },
+    "ZENITHEXPO": {
+        "ZENITHEXPO-EQ": "4176"
+    },
+    "ZEEMEDIA": {
+        "ZEEMEDIA-EQ": "14003"
+    },
+    "ZEELEARN": {
+        "ZEELEARN-EQ": "20852"
+    },
+    "ZEEL": {
+        "ZEEL-EQ": "3812"
+    },
+    "YUKEN": {
+        "YUKEN-EQ": "5501"
+    },
+    "YESBANK": {
+        "YESBANK-EQ": "11915"
+    },
+    "YAARI": {
+        "YAARI-EQ": "24999"
+    },
+    "XPROINDIA": {
+        "XPROINDIA-EQ": "11407"
+    },
+    "XELPMOC": {
+        "XELPMOC-EQ": "8477"
+    },
+    "XCHANGING": {
+        "XCHANGING-EQ": "11705"
+    },
+    "WSTCSTPAPR": {
+        "WSTCSTPAPR-EQ": "3799"
+    },
+    "WORTH": {
+        "WORTH-EQ": "22277"
+    },
+    "WONDERLA": {
+        "WONDERLA-EQ": "3002"
+    },
+    "WOCKPHARMA": {
+        "WOCKPHARMA-EQ": "7506"
+    },
+    "WIPRO": {
+        "WIPRO-EQ": "3787"
+    },
+    "WINDMACHIN": {
+        "WINDMACHIN-EQ": "24969"
+    },
+    "WINDLAS": {
+        "WINDLAS-EQ": "5366"
+    },
+    "WILLAMAGOR": {
+        "WILLAMAGOR-EQ": "3772"
+    },
+    "WHIRLPOOL": {
+        "WHIRLPOOL-EQ": "18011"
+    },
+    "WHEELS": {
+        "WHEELS-EQ": "3766"
+    },
+    "WEWIN": {
+        "WEWIN-EQ": "9862"
+    },
+    "WESTLIFE": {
+        "WESTLIFE-EQ": "11580"
+    },
+    "WENDT": {
+        "WENDT-EQ": "4235"
+    },
+    "WELSPUNIND": {
+        "WELSPUNIND-EQ": "11253"
+    },
+    "WELINV": {
+        "WELINV-EQ": "19800"
+    },
+    "WELENT": {
+        "WELENT-EQ": "11626"
+    },
+    "WELCORP": {
+        "WELCORP-EQ": "11821"
+    },
+    "WEL": {
+        "WEL-EQ": "7835"
+    },
+    "WEIZMANIND": {
+        "WEIZMANIND-EQ": "3748"
+    },
+    "WEBELSOLAR": {
+        "WEBELSOLAR-EQ": "14602"
+    },
+    "WEALTH": {
+        "WEALTH-EQ": "1923"
+    },
+    "WATERBASE": {
+        "WATERBASE-EQ": "3745"
+    },
+    "WALCHANNAG": {
+        "WALCHANNAG-EQ": "3736"
+    },
+    "WABAG": {
+        "WABAG-EQ": "20188"
+    },
+    "VTL": {
+        "VTL-EQ": "2073"
+    },
+    "VSTTILLERS": {
+        "VSTTILLERS-EQ": "24292"
+    },
+    "VSTIND": {
+        "VSTIND-EQ": "3724"
+    },
+    "VSSL": {
+        "VSSL-EQ": "27067"
+    },
+    "VRLLOG": {
+        "VRLLOG-EQ": "8696"
+    },
+    "VOLTAS": {
+        "VOLTAS-EQ": "3718"
+    },
+    "VOLTAMP": {
+        "VOLTAMP-EQ": "13577"
+    },
+    "VMART": {
+        "VMART-EQ": "29284"
+    },
+    "VLSFINANCE": {
+        "VLSFINANCE-EQ": "3715"
+    },
+    "VIVIDHA": {
+        "VIVIDHA-EQ": "29877"
+    },
+    "VISHWARAJ": {
+        "VISHWARAJ-EQ": "13702"
+    },
+    "VISHNU": {
+        "VISHNU-EQ": "6908"
+    },
+    "VISHAL": {
+        "VISHAL-EQ": "11773"
+    },
+    "VISESHINFO": {
+        "VISESHINFO-EQ": "7303"
+    },
+    "VISAKAIND": {
+        "VISAKAIND-EQ": "4221"
+    },
+    "VIRINCHI": {
+        "VIRINCHI-EQ": "15295"
+    },
+    "VIPULLTD": {
+        "VIPULLTD-EQ": "8424"
+    },
+    "VIPIND": {
+        "VIPIND-EQ": "3703"
+    },
+    "VIPCLOTHNG": {
+        "VIPCLOTHNG-EQ": "14843"
+    },
+    "VINYLINDIA": {
+        "VINYLINDIA-EQ": "16821"
+    },
+    "VINNY": {
+        "VINNY-EQ": "12490"
+    },
+    "VINEETLAB": {
+        "VINEETLAB-EQ": "3807"
+    },
+    "VINDHYATEL": {
+        "VINDHYATEL-EQ": "3694"
+    },
+    "VINATIORGA": {
+        "VINATIORGA-EQ": "17364"
+    },
+    "VIMTALABS": {
+        "VIMTALABS-EQ": "13101"
+    },
+    "VIKASLIFE": {
+        "VIKASLIFE-EQ": "9931"
+    },
+    "VIKASECO": {
+        "VIKASECO-EQ": "25756"
+    },
+    "VIJIFIN": {
+        "VIJIFIN-EQ": "17691"
+    },
+    "VIJAYA": {
+        "VIJAYA-EQ": "5585"
+    },
+    "VIDHIING": {
+        "VIDHIING-EQ": "13536"
+    },
+    "VHL": {
+        "VHL-EQ": "11892"
+    },
+    "VGUARD": {
+        "VGUARD-EQ": "15362"
+    },
+    "VETO": {
+        "VETO-EQ": "8652"
+    },
+    "VESUVIUS": {
+        "VESUVIUS-EQ": "3676"
+    },
+    "VERTOZ": {
+        "VERTOZ-EQ": "18863"
+    },
+    "VERANDA": {
+        "VERANDA-EQ": "8890"
+    },
+    "VENUSREM": {
+        "VENUSREM-EQ": "13859"
+    },
+    "VENUSPIPES": {
+        "VENUSPIPES-EQ": "9592"
+    },
+    "VENKEYS": {
+        "VENKEYS-EQ": "3757"
+    },
+    "VEDL": {
+        "VEDL-EQ": "3063"
+    },
+    "VCL": {
+        "VCL-EQ": "9020"
+    },
+    "VBL": {
+        "VBL-EQ": "18921"
+    },
+    "VASWANI": {
+        "VASWANI-EQ": "25340"
+    },
+    "VASCONEQ": {
+        "VASCONEQ-EQ": "18110"
+    },
+    "VARROC": {
+        "VARROC-EQ": "3857"
+    },
+    "VARDMNPOLY": {
+        "VARDMNPOLY-EQ": "3646"
+    },
+    "VARDHACRLC": {
+        "VARDHACRLC-EQ": "11220"
+    },
+    "VALIANTORG": {
+        "VALIANTORG-EQ": "330"
+    },
+    "VAKRANGEE": {
+        "VAKRANGEE-EQ": "13342"
+    },
+    "VAISHALI": {
+        "VAISHALI-EQ": "16589"
+    },
+    "VAIBHAVGBL": {
+        "VAIBHAVGBL-EQ": "11364"
+    },
+    "VADILALIND": {
+        "VADILALIND-EQ": "24196"
+    },
+    "V2RETAIL": {
+        "V2RETAIL-EQ": "14766"
+    },
+    "V1NSETEST": {
+        "V1NSETEST-EQ": "12863"
+    },
+    "UTTAMSUGAR": {
+        "UTTAMSUGAR-EQ": "13376"
+    },
+    "UTISXN50": {
+        "UTISXN50-EQ": "9168"
+    },
+    "UTISENSETF": {
+        "UTISENSETF-EQ": "10515"
+    },
+    "UTINIFTETF": {
+        "UTINIFTETF-EQ": "10511"
+    },
+    "UTINEXT50": {
+        "UTINEXT50-EQ": "21478"
+    },
+    "UTIBANKETF": {
+        "UTIBANKETF-EQ": "22440"
+    },
+    "UTIAMC": {
+        "UTIAMC-EQ": "527"
+    },
+    "USK": {
+        "USK-EQ": "14871"
+    },
+    "USHAMART": {
+        "USHAMART-EQ": "8840"
+    },
+    "URJA": {
+        "URJA-EQ": "20203"
+    },
+    "UPL": {
+        "UPL-EQ": "11287"
+    },
+    "UNOMINDA": {
+        "UNOMINDA-EQ": "14154"
+    },
+    "UNIVPHOTO": {
+        "UNIVPHOTO-EQ": "17659"
+    },
+    "UNIVCABLES": {
+        "UNIVCABLES-EQ": "3607"
+    },
+    "UNIVASTU": {
+        "UNIVASTU-EQ": "18977"
+    },
+    "UNITEDTEA": {
+        "UNITEDTEA-EQ": "17999"
+    },
+    "UNITEDPOLY": {
+        "UNITEDPOLY-EQ": "7560"
+    },
+    "UNIPARTS": {
+        "UNIPARTS-EQ": "13057"
+    },
+    "UNIONBANK": {
+        "UNIONBANK-EQ": "10753"
+    },
+    "UNIINFO": {
+        "UNIINFO-EQ": "7791"
+    },
+    "UNIENTER": {
+        "UNIENTER-EQ": "11293"
+    },
+    "UNIDT": {
+        "UNIDT-EQ": "201"
+    },
+    "UNICHEMLAB": {
+        "UNICHEMLAB-EQ": "3579"
+    },
+    "UMESLTD": {
+        "UMESLTD-EQ": "19142"
+    },
+    "UMANGDAIRY": {
+        "UMANGDAIRY-EQ": "11387"
+    },
+    "UMAEXPORTS": {
+        "UMAEXPORTS-EQ": "8842"
+    },
+    "ULTRACEMCO": {
+        "ULTRACEMCO-EQ": "11532"
+    },
+    "UJJIVANSFB": {
+        "UJJIVANSFB-EQ": "15228"
+    },
+    "UJJIVAN": {
+        "UJJIVAN-EQ": "17069"
+    },
+    "UGROCAP": {
+        "UGROCAP-EQ": "5313"
+    },
+    "UGARSUGAR": {
+        "UGARSUGAR-EQ": "19578"
+    },
+    "UFO": {
+        "UFO-EQ": "9039"
+    },
+    "UFLEX": {
+        "UFLEX-EQ": "1053"
+    },
+    "UDAICEMENT": {
+        "UDAICEMENT-EQ": "7276"
+    },
+    "UCOBANK": {
+        "UCOBANK-EQ": "11223"
+    },
+    "UCALFUEL": {
+        "UCALFUEL-EQ": "3570"
+    },
+    "UBL": {
+        "UBL-EQ": "16713"
+    },
+    "TWL": {
+        "TWL-EQ": "15414"
+    },
+    "TVVISION": {
+        "TVVISION-EQ": "18504"
+    },
+    "TVTODAY": {
+        "TVTODAY-EQ": "11275"
+    },
+    "TVSSRICHAK": {
+        "TVSSRICHAK-EQ": "14245"
+    },
+    "TVSMOTOR": {
+        "TVSMOTOR-EQ": "8479"
+    },
+    "TVSELECT": {
+        "TVSELECT-EQ": "11265"
+    },
+    "TV18BRDCST": {
+        "TV18BRDCST-EQ": "14208"
+    },
+    "TTML": {
+        "TTML-EQ": "8954"
+    },
+    "TTL": {
+        "TTL-EQ": "14314"
+    },
+    "TTKPRESTIG": {
+        "TTKPRESTIG-EQ": "3546"
+    },
+    "TTKHLTCARE": {
+        "TTKHLTCARE-EQ": "11369"
+    },
+    "TRIVENI": {
+        "TRIVENI-EQ": "13081"
+    },
+    "TRITURBINE": {
+        "TRITURBINE-EQ": "25584"
+    },
+    "TRIL": {
+        "TRIL-EQ": "15174"
+    },
+    "TRIGYN": {
+        "TRIGYN-EQ": "5428"
+    },
+    "TRIDENT": {
+        "TRIDENT-EQ": "9685"
+    },
+    "TRF": {
+        "TRF-EQ": "17987"
+    },
+    "TRENT": {
+        "TRENT-EQ": "1964"
+    },
+    "TREJHARA": {
+        "TREJHARA-EQ": "7518"
+    },
+    "TREEHOUSE": {
+        "TREEHOUSE-EQ": "25082"
+    },
+    "TRACXN": {
+        "TRACXN-EQ": "11582"
+    },
+    "TPLPLASTEH": {
+        "TPLPLASTEH-EQ": "9219"
+    },
+    "TOUCHWOOD": {
+        "TOUCHWOOD-EQ": "16908"
+    },
+    "TOTAL": {
+        "TOTAL-EQ": "22423"
+    },
+    "TORNTPOWER": {
+        "TORNTPOWER-EQ": "13786"
+    },
+    "TORNTPHARM": {
+        "TORNTPHARM-EQ": "3518"
+    },
+    "TOKYOPLAST": {
+        "TOKYOPLAST-EQ": "3837"
+    },
+    "TNPL": {
+        "TNPL-EQ": "3980"
+    },
+    "TNPETRO": {
+        "TNPETRO-EQ": "3509"
+    },
+    "TNIDETF": {
+        "TNIDETF-EQ": "8882"
+    },
+    "TMB": {
+        "TMB-EQ": "10945"
+    },
+    "TITAN": {
+        "TITAN-EQ": "3506"
+    },
+    "TIRUPATIFL": {
+        "TIRUPATIFL-EQ": "22282"
+    },
+    "TIRUMALCHM": {
+        "TIRUMALCHM-EQ": "3496"
+    },
+    "TIPSINDLTD": {
+        "TIPSINDLTD-EQ": "9117"
+    },
+    "TIPSFILMS": {
+        "TIPSFILMS-EQ": "11374"
+    },
+    "TINPLATE": {
+        "TINPLATE-EQ": "3493"
+    },
+    "TIMKEN": {
+        "TIMKEN-EQ": "14198"
+    },
+    "TIMETECHNO": {
+        "TIMETECHNO-EQ": "14707"
+    },
+    "TIMESGTY": {
+        "TIMESGTY-EQ": "10717"
+    },
+    "TIJARIA": {
+        "TIJARIA-EQ": "25482"
+    },
+    "TIINDIA": {
+        "TIINDIA-EQ": "312"
+    },
+    "TIIL": {
+        "TIIL-EQ": "14223"
+    },
+    "TIDEWATER": {
+        "TIDEWATER-EQ": "14019"
+    },
+    "TI": {
+        "TI-EQ": "19196"
+    },
+    "THYROCARE": {
+        "THYROCARE-EQ": "17032"
+    },
+    "THOMASCOOK": {
+        "THOMASCOOK-EQ": "3481"
+    },
+    "THERMAX": {
+        "THERMAX-EQ": "3475"
+    },
+    "THEMISMED": {
+        "THEMISMED-EQ": "14485"
+    },
+    "THANGAMAYL": {
+        "THANGAMAYL-EQ": "18118"
+    },
+    "TFL": {
+        "TFL-EQ": "14319"
+    },
+    "TFCILTD": {
+        "TFCILTD-EQ": "3466"
+    },
+    "TEXRAIL": {
+        "TEXRAIL-EQ": "21828"
+    },
+    "TEXMOPIPES": {
+        "TEXMOPIPES-EQ": "18214"
+    },
+    "TEXINFRA": {
+        "TEXINFRA-EQ": "11549"
+    },
+    "TERASOFT": {
+        "TERASOFT-EQ": "19292"
+    },
+    "TEMBO": {
+        "TEMBO-EQ": "3275"
+    },
+    "TEJASNET": {
+        "TEJASNET-EQ": "21131"
+    },
+    "TEGA": {
+        "TEGA-EQ": "7105"
+    },
+    "TECHNOE": {
+        "TECHNOE-EQ": "6445"
+    },
+    "TECHM": {
+        "TECHM-EQ": "13538"
+    },
+    "TECHIN": {
+        "TECHIN-EQ": "25190"
+    },
+    "TECH": {
+        "TECH-EQ": "6462"
+    },
+    "TEAMLEASE": {
+        "TEAMLEASE-EQ": "12716"
+    },
+    "TDPOWERSYS": {
+        "TDPOWERSYS-EQ": "25178"
+    },
+    "TCS": {
+        "TCS-EQ": "11536"
+    },
+    "TCPLPACK": {
+        "TCPLPACK-EQ": "184"
+    },
+    "TCNSBRANDS": {
+        "TCNSBRANDS-EQ": "4172"
+    },
+    "TCIEXP": {
+        "TCIEXP-EQ": "19223"
+    },
+    "TCI": {
+        "TCI-EQ": "10580"
+    },
+    "TBZ": {
+        "TBZ-EQ": "27037"
+    },
+    "TATVA": {
+        "TATVA-EQ": "5162"
+    },
+    "TATASTLLP": {
+        "TATASTLLP-EQ": "1639"
+    },
+    "TATASTEEL": {
+        "TATASTEEL-EQ": "3499"
+    },
+    "TATAPOWER": {
+        "TATAPOWER-EQ": "3426"
+    },
+    "TATAMTRDVR": {
+        "TATAMTRDVR-EQ": "16965"
+    },
+    "TATAMOTORS": {
+        "TATAMOTORS-EQ": "3456"
+    },
+    "TATAMETALI": {
+        "TATAMETALI-EQ": "3423"
+    },
+    "TATAINVEST": {
+        "TATAINVEST-EQ": "1621"
+    },
+    "TATAELXSI": {
+        "TATAELXSI-EQ": "3411"
+    },
+    "TATACONSUM": {
+        "TATACONSUM-EQ": "3432"
+    },
+    "TATACOMM": {
+        "TATACOMM-EQ": "3721"
+    },
+    "TATACOFFEE": {
+        "TATACOFFEE-EQ": "724"
+    },
+    "TATACHEM": {
+        "TATACHEM-EQ": "3405"
+    },
+    "TASTYBITE": {
+        "TASTYBITE-EQ": "20092"
+    },
+    "TARSONS": {
+        "TARSONS-EQ": "6943"
+    },
+    "TARMAT": {
+        "TARMAT-EQ": "14771"
+    },
+    "TARC": {
+        "TARC-EQ": "1581"
+    },
+    "TANLA": {
+        "TANLA-EQ": "13976"
+    },
+    "TALBROAUTO": {
+        "TALBROAUTO-EQ": "13648"
+    },
+    "TAKE": {
+        "TAKE-EQ": "14917"
+    },
+    "TAJGVK": {
+        "TAJGVK-EQ": "9354"
+    },
+    "TAINWALCHM": {
+        "TAINWALCHM-EQ": "3396"
+    },
+    "SYRMA": {
+        "SYRMA-EQ": "10793"
+    },
+    "SYNGENE": {
+        "SYNGENE-EQ": "10243"
+    },
+    "SYNCOMF": {
+        "SYNCOMF-EQ": "11992"
+    },
+    "SYMPHONY": {
+        "SYMPHONY-EQ": "24190"
+    },
+    "SWSOLAR": {
+        "SWSOLAR-EQ": "12489"
+    },
+    "SWELECTES": {
+        "SWELECTES-EQ": "11909"
+    },
+    "SWARAJENG": {
+        "SWARAJENG-EQ": "3384"
+    },
+    "SWANENERGY": {
+        "SWANENERGY-EQ": "27095"
+    },
+    "SVLL": {
+        "SVLL-EQ": "15121"
+    },
+    "SUZLON": {
+        "SUZLON-EQ": "12018"
+    },
+    "SUVIDHAA": {
+        "SUVIDHAA-EQ": "2998"
+    },
+    "SUVENPHAR": {
+        "SUVENPHAR-EQ": "17945"
+    },
+    "SUVEN": {
+        "SUVEN-EQ": "11233"
+    },
+    "SUULD": {
+        "SUULD-EQ": "638"
+    },
+    "SUTLEJTEX": {
+        "SUTLEJTEX-EQ": "13801"
+    },
+    "SURYODAY": {
+        "SURYODAY-EQ": "2970"
+    },
+    "SURYAROSNI": {
+        "SURYAROSNI-EQ": "3375"
+    },
+    "SURYALAXMI": {
+        "SURYALAXMI-EQ": "11852"
+    },
+    "SURANAT&P": {
+        "SURANAT&P-EQ": "10700"
+    },
+    "SURANASOL": {
+        "SURANASOL-EQ": "21077"
+    },
+    "SUPRIYA": {
+        "SUPRIYA-EQ": "7390"
+    },
+    "SUPREMEINF": {
+        "SUPREMEINF-EQ": "15002"
+    },
+    "SUPREMEIND": {
+        "SUPREMEIND-EQ": "3363"
+    },
+    "SUPRAJIT": {
+        "SUPRAJIT-EQ": "11689"
+    },
+    "SUPERSPIN": {
+        "SUPERSPIN-EQ": "3357"
+    },
+    "SUPERHOUSE": {
+        "SUPERHOUSE-EQ": "20616"
+    },
+    "SUNTV": {
+        "SUNTV-EQ": "13404"
+    },
+    "SUNTECK": {
+        "SUNTECK-EQ": "17641"
+    },
+    "SUNPHARMA": {
+        "SUNPHARMA-EQ": "3351"
+    },
+    "SUNFLAG": {
+        "SUNFLAG-EQ": "3348"
+    },
+    "SUNDRMFAST": {
+        "SUNDRMFAST-EQ": "3345"
+    },
+    "SUNDRMBRAK": {
+        "SUNDRMBRAK-EQ": "4179"
+    },
+    "SUNDARMHLD": {
+        "SUNDARMHLD-EQ": "2183"
+    },
+    "SUNDARMFIN": {
+        "SUNDARMFIN-EQ": "3339"
+    },
+    "SUNDARAM": {
+        "SUNDARAM-EQ": "18931"
+    },
+    "SUNCLAYLTD": {
+        "SUNCLAYLTD-EQ": "29008"
+    },
+    "SUMMITSEC": {
+        "SUMMITSEC-EQ": "21275"
+    },
+    "SUMIT": {
+        "SUMIT-EQ": "11140"
+    },
+    "SUMICHEM": {
+        "SUMICHEM-EQ": "17105"
+    },
+    "SULA": {
+        "SULA-EQ": "13218"
+    },
+    "SUKHJITS": {
+        "SUKHJITS-EQ": "11804"
+    },
+    "SUDARSCHEM": {
+        "SUDARSCHEM-EQ": "3327"
+    },
+    "SUBROS": {
+        "SUBROS-EQ": "3324"
+    },
+    "SUBEXLTD": {
+        "SUBEXLTD-EQ": "967"
+    },
+    "STYRENIX": {
+        "STYRENIX-EQ": "19"
+    },
+    "STYLAMIND": {
+        "STYLAMIND-EQ": "5186"
+    },
+    "STOVEKRAFT": {
+        "STOVEKRAFT-EQ": "2107"
+    },
+    "STLTECH": {
+        "STLTECH-EQ": "9309"
+    },
+    "STERTOOLS": {
+        "STERTOOLS-EQ": "4299"
+    },
+    "STEL": {
+        "STEL-EQ": "21484"
+    },
+    "STEELXIND": {
+        "STEELXIND-EQ": "21339"
+    },
+    "STEELCITY": {
+        "STEELCITY-EQ": "10406"
+    },
+    "STEELCAS": {
+        "STEELCAS-EQ": "6803"
+    },
+    "STCINDIA": {
+        "STCINDIA-EQ": "10948"
+    },
+    "STARTECK": {
+        "STARTECK-EQ": "9305"
+    },
+    "STARPAPER": {
+        "STARPAPER-EQ": "3291"
+    },
+    "STARHEALTH": {
+        "STARHEALTH-EQ": "7083"
+    },
+    "STARCEMENT": {
+        "STARCEMENT-EQ": "21091"
+    },
+    "STAR": {
+        "STAR-EQ": "7374"
+    },
+    "SSWL": {
+        "SSWL-EQ": "11829"
+    },
+    "SRPL": {
+        "SRPL-EQ": "140"
+    },
+    "SRHHYPOLTD": {
+        "SRHHYPOLTD-EQ": "14582"
+    },
+    "SRF": {
+        "SRF-EQ": "3273"
+    },
+    "SREEL": {
+        "SREEL-EQ": "31837"
+    },
+    "SPORTKING": {
+        "SPORTKING-EQ": "10733"
+    },
+    "SPLPETRO": {
+        "SPLPETRO-EQ": "9617"
+    },
+    "SPLIL": {
+        "SPLIL-EQ": "11935"
+    },
+    "SPIC": {
+        "SPIC-EQ": "3252"
+    },
+    "SPENCERS": {
+        "SPENCERS-EQ": "8163"
+    },
+    "SPECIALITY": {
+        "SPECIALITY-EQ": "27107"
+    },
+    "SPCENET": {
+        "SPCENET-EQ": "19372"
+    },
+    "SPARC": {
+        "SPARC-EQ": "14788"
+    },
+    "SPANDANA": {
+        "SPANDANA-EQ": "11435"
+    },
+    "SPAL": {
+        "SPAL-EQ": "18252"
+    },
+    "SOUTHWEST": {
+        "SOUTHWEST-EQ": "9678"
+    },
+    "SOUTHBANK": {
+        "SOUTHBANK-EQ": "5948"
+    },
+    "SOTL": {
+        "SOTL-EQ": "3021"
+    },
+    "SONATSOFTW": {
+        "SONATSOFTW-EQ": "6596"
+    },
+    "SONAMCLOCK": {
+        "SONAMCLOCK-EQ": "8806"
+    },
+    "SONACOMS": {
+        "SONACOMS-EQ": "4684"
+    },
+    "SOMICONVEY": {
+        "SOMICONVEY-EQ": "17794"
+    },
+    "SOMATEX": {
+        "SOMATEX-EQ": "4201"
+    },
+    "SOMANYCERA": {
+        "SOMANYCERA-EQ": "3880"
+    },
+    "SOLARINDS": {
+        "SOLARINDS-EQ": "13332"
+    },
+    "SOLARA": {
+        "SOLARA-EQ": "3672"
+    },
+    "SOFTTECH": {
+        "SOFTTECH-EQ": "8266"
+    },
+    "SOBHA": {
+        "SOBHA-EQ": "13826"
+    },
+    "SNOWMAN": {
+        "SNOWMAN-EQ": "4843"
+    },
+    "SMSPHARMA": {
+        "SMSPHARMA-EQ": "14329"
+    },
+    "SMSLIFE": {
+        "SMSLIFE-EQ": "21551"
+    },
+    "SMLT": {
+        "SMLT-EQ": "6843"
+    },
+    "SMLISUZU": {
+        "SMLISUZU-EQ": "3387"
+    },
+    "SMCGLOBAL": {
+        "SMCGLOBAL-EQ": "2320"
+    },
+    "SMARTLINK": {
+        "SMARTLINK-EQ": "9889"
+    },
+    "SKYGOLD": {
+        "SKYGOLD-EQ": "13631"
+    },
+    "SKMEGGPROD": {
+        "SKMEGGPROD-EQ": "4732"
+    },
+    "SKIPPER": {
+        "SKIPPER-EQ": "9428"
+    },
+    "SKFINDIA": {
+        "SKFINDIA-EQ": "3186"
+    },
+    "SJVN": {
+        "SJVN-EQ": "18883"
+    },
+    "SJS": {
+        "SJS-EQ": "6643"
+    },
+    "SIYSIL": {
+        "SIYSIL-EQ": "14096"
+    },
+    "SITINET": {
+        "SITINET-EQ": "13998"
+    },
+    "SIS": {
+        "SIS-EQ": "21501"
+    },
+    "SIRCA": {
+        "SIRCA-EQ": "11050"
+    },
+    "SINTERCOM": {
+        "SINTERCOM-EQ": "381"
+    },
+    "SIMPLEXINF": {
+        "SIMPLEXINF-EQ": "3162"
+    },
+    "SIMBHALS": {
+        "SIMBHALS-EQ": "14612"
+    },
+    "SILVERTUC": {
+        "SILVERTUC-EQ": "9422"
+    },
+    "SILVERETF": {
+        "SILVERETF-EQ": "15085"
+    },
+    "SILVERBEES": {
+        "SILVERBEES-EQ": "8080"
+    },
+    "SILVER": {
+        "SILVER-EQ": "8003"
+    },
+    "SILLYMONKS": {
+        "SILLYMONKS-EQ": "19097"
+    },
+    "SILINV": {
+        "SILINV-EQ": "4105"
+    },
+    "SILGO": {
+        "SILGO-EQ": "2492"
+    },
+    "SIKKO": {
+        "SIKKO-EQ": "6218"
+    },
+    "SIGIND": {
+        "SIGIND-EQ": "4522"
+    },
+    "SIGACHI": {
+        "SIGACHI-EQ": "6663"
+    },
+    "SIEMENS": {
+        "SIEMENS-EQ": "3150"
+    },
+    "SHYAMTEL": {
+        "SHYAMTEL-EQ": "13740"
+    },
+    "SHYAMMETL": {
+        "SHYAMMETL-EQ": "4693"
+    },
+    "SHYAMCENT": {
+        "SHYAMCENT-EQ": "10188"
+    },
+    "SHRIRAMPPS": {
+        "SHRIRAMPPS-EQ": "7200"
+    },
+    "SHRIRAMFIN": {
+        "SHRIRAMFIN-EQ": "4306"
+    },
+    "SHRIPISTON": {
+        "SHRIPISTON-EQ": "17186"
+    },
+    "SHREYAS": {
+        "SHREYAS-EQ": "3129"
+    },
+    "SHREYANIND": {
+        "SHREYANIND-EQ": "3126"
+    },
+    "SHRENIK": {
+        "SHRENIK-EQ": "11149"
+    },
+    "SHREERAMA": {
+        "SHREERAMA-EQ": "7627"
+    },
+    "SHREEPUSHK": {
+        "SHREEPUSHK-EQ": "10588"
+    },
+    "SHREECEM": {
+        "SHREECEM-EQ": "3103"
+    },
+    "SHREDIGCEM": {
+        "SHREDIGCEM-EQ": "3099"
+    },
+    "SHRADHA": {
+        "SHRADHA-EQ": "708"
+    },
+    "SHOPERSTOP": {
+        "SHOPERSTOP-EQ": "11813"
+    },
+    "SHK": {
+        "SHK-EQ": "11212"
+    },
+    "SHIVATEX": {
+        "SHIVATEX-EQ": "804"
+    },
+    "SHIVAMAUTO": {
+        "SHIVAMAUTO-EQ": "13756"
+    },
+    "SHIVALIK": {
+        "SHIVALIK-EQ": "7016"
+    },
+    "SHILPAMED": {
+        "SHILPAMED-EQ": "17752"
+    },
+    "SHEMAROO": {
+        "SHEMAROO-EQ": "5068"
+    },
+    "SHARIABEES": {
+        "SHARIABEES-EQ": "17044"
+    },
+    "SHAREINDIA": {
+        "SHAREINDIA-EQ": "104"
+    },
+    "SHARDAMOTR": {
+        "SHARDAMOTR-EQ": "10530"
+    },
+    "SHARDACROP": {
+        "SHARDACROP-EQ": "4992"
+    },
+    "SHANTIGEAR": {
+        "SHANTIGEAR-EQ": "3078"
+    },
+    "SHANTI": {
+        "SHANTI-EQ": "5650"
+    },
+    "SHANKARA": {
+        "SHANKARA-EQ": "20321"
+    },
+    "SHALPAINTS": {
+        "SHALPAINTS-EQ": "15342"
+    },
+    "SHALBY": {
+        "SHALBY-EQ": "714"
+    },
+    "SHAKTIPUMP": {
+        "SHAKTIPUMP-EQ": "25574"
+    },
+    "SHAILY": {
+        "SHAILY-EQ": "8727"
+    },
+    "SHAHALLOYS": {
+        "SHAHALLOYS-EQ": "11856"
+    },
+    "SGL": {
+        "SGL-EQ": "13367"
+    },
+    "SGIL": {
+        "SGIL-EQ": "5114"
+    },
+    "SFL": {
+        "SFL-EQ": "19184"
+    },
+    "SETFNN50": {
+        "SETFNN50-EQ": "7353"
+    },
+    "SETFNIFBK": {
+        "SETFNIFBK-EQ": "7361"
+    },
+    "SETFNIF50": {
+        "SETFNIF50-EQ": "10176"
+    },
+    "SETFGOLD": {
+        "SETFGOLD-EQ": "17272"
+    },
+    "SETF10GILT": {
+        "SETF10GILT-EQ": "17395"
+    },
+    "SETCO": {
+        "SETCO-EQ": "17514"
+    },
+    "SESHAPAPER": {
+        "SESHAPAPER-EQ": "3066"
+    },
+    "SERVOTECH": {
+        "SERVOTECH-EQ": "5507"
+    },
+    "SEQUENT": {
+        "SEQUENT-EQ": "14296"
+    },
+    "SEPOWER": {
+        "SEPOWER-EQ": "27303"
+    },
+    "SEPC": {
+        "SEPC-EQ": "15308"
+    },
+    "SELAN": {
+        "SELAN-EQ": "13598"
+    },
+    "SECURKLOUD": {
+        "SECURKLOUD-EQ": "11058"
+    },
+    "SECURCRED": {
+        "SECURCRED-EQ": "11520"
+    },
+    "SEAMECLTD": {
+        "SEAMECLTD-EQ": "2616"
+    },
+    "SDL26BEES": {
+        "SDL26BEES-EQ": "3022"
+    },
+    "SDL24BEES": {
+        "SDL24BEES-EQ": "1143"
+    },
+    "SDBL": {
+        "SDBL-EQ": "1338"
+    },
+    "SCPL": {
+        "SCPL-EQ": "12072"
+    },
+    "SCI": {
+        "SCI-EQ": "3048"
+    },
+    "SCHNEIDER": {
+        "SCHNEIDER-EQ": "31234"
+    },
+    "SCHAND": {
+        "SCHAND-EQ": "20698"
+    },
+    "SCHAEFFLER": {
+        "SCHAEFFLER-EQ": "1011"
+    },
+    "SCAPDVR": {
+        "SCAPDVR-EQ": "17"
+    },
+    "SBIN": {
+        "SBIN-EQ": "3045"
+    },
+    "SBILIFE": {
+        "SBILIFE-EQ": "21808"
+    },
+    "SBIETFQLTY": {
+        "SBIETFQLTY-EQ": "7218"
+    },
+    "SBIETFPB": {
+        "SBIETFPB-EQ": "722"
+    },
+    "SBIETFIT": {
+        "SBIETFIT-EQ": "740"
+    },
+    "SBIETFCON": {
+        "SBIETFCON-EQ": "5168"
+    },
+    "SBICARD": {
+        "SBICARD-EQ": "17971"
+    },
+    "SBGLP": {
+        "SBGLP-EQ": "14139"
+    },
+    "SBCL": {
+        "SBCL-EQ": "4656"
+    },
+    "SBC": {
+        "SBC-EQ": "6792"
+    },
+    "SATINDLTD": {
+        "SATINDLTD-EQ": "12015"
+    },
+    "SATIN": {
+        "SATIN-EQ": "10453"
+    },
+    "SATIA": {
+        "SATIA-EQ": "11045"
+    },
+    "SASTASUNDR": {
+        "SASTASUNDR-EQ": "20063"
+    },
+    "SASKEN": {
+        "SASKEN-EQ": "11983"
+    },
+    "SARVESHWAR": {
+        "SARVESHWAR-EQ": "12913"
+    },
+    "SARLAPOLY": {
+        "SARLAPOLY-EQ": "14043"
+    },
+    "SAREGAMA": {
+        "SAREGAMA-EQ": "4892"
+    },
+    "SARDAEN": {
+        "SARDAEN-EQ": "17758"
+    },
+    "SAPPHIRE": {
+        "SAPPHIRE-EQ": "6718"
+    },
+    "SANSERA": {
+        "SANSERA-EQ": "5751"
+    },
+    "SANOFI": {
+        "SANOFI-EQ": "1442"
+    },
+    "SANGINITA": {
+        "SANGINITA-EQ": "11032"
+    },
+    "SANGHVIMOV": {
+        "SANGHVIMOV-EQ": "14058"
+    },
+    "SANGHIIND": {
+        "SANGHIIND-EQ": "2997"
+    },
+    "SANGAMIND": {
+        "SANGAMIND-EQ": "4184"
+    },
+    "SANDHAR": {
+        "SANDHAR-EQ": "2397"
+    },
+    "SANDESH": {
+        "SANDESH-EQ": "2988"
+    },
+    "SAMBHAAV": {
+        "SAMBHAAV-EQ": "4127"
+    },
+    "SALZERELEC": {
+        "SALZERELEC-EQ": "11399"
+    },
+    "SALSTEEL": {
+        "SALSTEEL-EQ": "11634"
+    },
+    "SALONA": {
+        "SALONA-EQ": "17351"
+    },
+    "SALASAR": {
+        "SALASAR-EQ": "21362"
+    },
+    "SAKUMA": {
+        "SAKUMA-EQ": "13251"
+    },
+    "SAKSOFT": {
+        "SAKSOFT-EQ": "11794"
+    },
+    "SAKHTISUG": {
+        "SAKHTISUG-EQ": "2969"
+    },
+    "SAKAR": {
+        "SAKAR-EQ": "9539"
+    },
+    "SAIL": {
+        "SAIL-EQ": "2963"
+    },
+    "SAHYADRI": {
+        "SAHYADRI-EQ": "14900"
+    },
+    "SAH": {
+        "SAH-EQ": "13689"
+    },
+    "SAGCEM": {
+        "SAGCEM-EQ": "14068"
+    },
+    "SAGARDEEP": {
+        "SAGARDEEP-EQ": "8175"
+    },
+    "SAFARI": {
+        "SAFARI-EQ": "13035"
+    },
+    "SADHNANIQ": {
+        "SADHNANIQ-EQ": "15343"
+    },
+    "SADBHIN": {
+        "SADBHIN-EQ": "10618"
+    },
+    "SADBHAV": {
+        "SADBHAV-EQ": "13236"
+    },
+    "RVNL": {
+        "RVNL-EQ": "9552"
+    },
+    "RVHL": {
+        "RVHL-EQ": "1565"
+    },
+    "RUSTOMJEE": {
+        "RUSTOMJEE-EQ": "12219"
+    },
+    "RUSHIL": {
+        "RUSHIL-EQ": "24595"
+    },
+    "RUPA": {
+        "RUPA-EQ": "25724"
+    },
+    "RUCHIRA": {
+        "RUCHIRA-EQ": "13821"
+    },
+    "RUBYMILLS": {
+        "RUBYMILLS-EQ": "2939"
+    },
+    "RTNPOWER": {
+        "RTNPOWER-EQ": "17520"
+    },
+    "RTNINDIA": {
+        "RTNINDIA-EQ": "27297"
+    },
+    "RSYSTEMS": {
+        "RSYSTEMS-EQ": "13414"
+    },
+    "RSWM": {
+        "RSWM-EQ": "2794"
+    },
+    "RPSGVENT": {
+        "RPSGVENT-EQ": "8119"
+    },
+    "RPPL": {
+        "RPPL-EQ": "6913"
+    },
+    "RPPINFRA": {
+        "RPPINFRA-EQ": "20760"
+    },
+    "RPOWER": {
+        "RPOWER-EQ": "15259"
+    },
+    "RPGLIFE": {
+        "RPGLIFE-EQ": "16725"
+    },
+    "ROUTE": {
+        "ROUTE-EQ": "128"
+    },
+    "ROTO": {
+        "ROTO-EQ": "9049"
+    },
+    "ROSSELLIND": {
+        "ROSSELLIND-EQ": "28913"
+    },
+    "ROSSARI": {
+        "ROSSARI-EQ": "19410"
+    },
+    "ROML": {
+        "ROML-EQ": "359"
+    },
+    "ROLLT": {
+        "ROLLT-EQ": "19104"
+    },
+    "ROLEXRINGS": {
+        "ROLEXRINGS-EQ": "5279"
+    },
+    "ROHLTD": {
+        "ROHLTD-EQ": "13182"
+    },
+    "RML": {
+        "RML-EQ": "11975"
+    },
+    "RKFORGE": {
+        "RKFORGE-EQ": "11411"
+    },
+    "RKEC": {
+        "RKEC-EQ": "1547"
+    },
+    "RITES": {
+        "RITES-EQ": "3761"
+    },
+    "RITCO": {
+        "RITCO-EQ": "8944"
+    },
+    "RIIL": {
+        "RIIL-EQ": "2912"
+    },
+    "RICOAUTO": {
+        "RICOAUTO-EQ": "2909"
+    },
+    "RHL": {
+        "RHL-EQ": "15157"
+    },
+    "RHIM": {
+        "RHIM-EQ": "31163"
+    },
+    "RHFL": {
+        "RHFL-EQ": "21733"
+    },
+    "RGL": {
+        "RGL-EQ": "15129"
+    },
+    "REVATHI": {
+        "REVATHI-EQ": "11961"
+    },
+    "RESPONIND": {
+        "RESPONIND-EQ": "20323"
+    },
+    "REPRO": {
+        "REPRO-EQ": "13126"
+    },
+    "REPL": {
+        "REPL-EQ": "1480"
+    },
+    "REPCOHOME": {
+        "REPCOHOME-EQ": "29598"
+    },
+    "RENUKA": {
+        "RENUKA-EQ": "12026"
+    },
+    "REMSONSIND": {
+        "REMSONSIND-EQ": "3965"
+    },
+    "RELINFRA": {
+        "RELINFRA-EQ": "553"
+    },
+    "RELIGARE": {
+        "RELIGARE-EQ": "15068"
+    },
+    "RELIANCE": {
+        "RELIANCE-EQ": "2885"
+    },
+    "RELCHEMQ": {
+        "RELCHEMQ-EQ": "9652"
+    },
+    "RELAXO": {
+        "RELAXO-EQ": "24225"
+    },
+    "REFEX": {
+        "REFEX-EQ": "17764"
+    },
+    "REDINGTON": {
+        "REDINGTON-EQ": "14255"
+    },
+    "RECLTD": {
+        "RECLTD-EQ": "15355"
+    },
+    "RCF": {
+        "RCF-EQ": "2866"
+    },
+    "RBLBANK": {
+        "RBLBANK-EQ": "18391"
+    },
+    "RBL": {
+        "RBL-EQ": "16745"
+    },
+    "RBA": {
+        "RBA-EQ": "1494"
+    },
+    "RAYMOND": {
+        "RAYMOND-EQ": "2859"
+    },
+    "RATNAMANI": {
+        "RATNAMANI-EQ": "13451"
+    },
+    "RATEGAIN": {
+        "RATEGAIN-EQ": "7177"
+    },
+    "RANEHOLDIN": {
+        "RANEHOLDIN-EQ": "2844"
+    },
+    "RANASUG": {
+        "RANASUG-EQ": "2837"
+    },
+    "RAMRAT": {
+        "RAMRAT-EQ": "10485"
+    },
+    "RAMKY": {
+        "RAMKY-EQ": "20134"
+    },
+    "RAMCOSYS": {
+        "RAMCOSYS-EQ": "7851"
+    },
+    "RAMCOIND": {
+        "RAMCOIND-EQ": "4587"
+    },
+    "RAMCOCEM": {
+        "RAMCOCEM-EQ": "2043"
+    },
+    "RAMASTEEL": {
+        "RAMASTEEL-EQ": "10300"
+    },
+    "RAMAPHO": {
+        "RAMAPHO-EQ": "10568"
+    },
+    "RAMANEWS": {
+        "RAMANEWS-EQ": "13565"
+    },
+    "RALLIS": {
+        "RALLIS-EQ": "2816"
+    },
+    "RAJTV": {
+        "RAJTV-EQ": "14403"
+    },
+    "RAJSREESUG": {
+        "RAJSREESUG-EQ": "2809"
+    },
+    "RAJRATAN": {
+        "RAJRATAN-EQ": "18962"
+    },
+    "RAJMET": {
+        "RAJMET-EQ": "2168"
+    },
+    "RAJESHEXPO": {
+        "RAJESHEXPO-EQ": "7401"
+    },
+    "RAINBOW": {
+        "RAINBOW-EQ": "9408"
+    },
+    "RAIN": {
+        "RAIN-EQ": "15337"
+    },
+    "RAILTEL": {
+        "RAILTEL-EQ": "2431"
+    },
+    "RADIOCITY": {
+        "RADIOCITY-EQ": "19877"
+    },
+    "RADICO": {
+        "RADICO-EQ": "10990"
+    },
+    "RADIANTCMS": {
+        "RADIANTCMS-EQ": "13580"
+    },
+    "RADHIKAJWE": {
+        "RADHIKAJWE-EQ": "10343"
+    },
+    "RACE": {
+        "RACE-EQ": "15391"
+    },
+    "QUICKHEAL": {
+        "QUICKHEAL-EQ": "13116"
+    },
+    "QUESS": {
+        "QUESS-EQ": "17704"
+    },
+    "QNIFTY": {
+        "QNIFTY-EQ": "16819"
+    },
+    "QGOLDHALF": {
+        "QGOLDHALF-EQ": "15330"
+    },
+    "PVRINOX": {
+        "PVRINOX-EQ": "13147"
+    },
+    "PVP": {
+        "PVP-EQ": "4010"
+    },
+    "PURVA": {
+        "PURVA-EQ": "14922"
+    },
+    "PUNJABCHEM": {
+        "PUNJABCHEM-EQ": "4344"
+    },
+    "PTL": {
+        "PTL-EQ": "14101"
+    },
+    "PTC": {
+        "PTC-EQ": "11355"
+    },
+    "PSUBNKBEES": {
+        "PSUBNKBEES-EQ": "15032"
+    },
+    "PSUBANKICI": {
+        "PSUBANKICI-EQ": "14584"
+    },
+    "PSPPROJECT": {
+        "PSPPROJECT-EQ": "20877"
+    },
+    "PSB": {
+        "PSB-EQ": "21001"
+    },
+    "PRUDENT": {
+        "PRUDENT-EQ": "9553"
+    },
+    "PRSMJOHNSN": {
+        "PRSMJOHNSN-EQ": "2739"
+    },
+    "PROZONINTU": {
+        "PROZONINTU-EQ": "28859"
+    },
+    "PRIVISCL": {
+        "PRIVISCL-EQ": "8825"
+    },
+    "PRITIKAUTO": {
+        "PRITIKAUTO-EQ": "5292"
+    },
+    "PRITI": {
+        "PRITI-EQ": "8304"
+    },
+    "PRINCEPIPE": {
+        "PRINCEPIPE-EQ": "16045"
+    },
+    "PRIMESECU": {
+        "PRIMESECU-EQ": "11864"
+    },
+    "PRICOLLTD": {
+        "PRICOLLTD-EQ": "19631"
+    },
+    "PRESTIGE": {
+        "PRESTIGE-EQ": "20302"
+    },
+    "PRESSMN": {
+        "PRESSMN-EQ": "11671"
+    },
+    "PREMIERPOL": {
+        "PREMIERPOL-EQ": "3908"
+    },
+    "PREMEXPLN": {
+        "PREMEXPLN-EQ": "17397"
+    },
+    "PRECWIRE": {
+        "PRECWIRE-EQ": "2717"
+    },
+    "PRECOT": {
+        "PRECOT-EQ": "2711"
+    },
+    "PRECAM": {
+        "PRECAM-EQ": "12603"
+    },
+    "PRAXIS": {
+        "PRAXIS-EQ": "1204"
+    },
+    "PRAKASHSTL": {
+        "PRAKASHSTL-EQ": "19599"
+    },
+    "PRAKASH": {
+        "PRAKASH-EQ": "2708"
+    },
+    "PRAJIND": {
+        "PRAJIND-EQ": "2705"
+    },
+    "PRAENG": {
+        "PRAENG-EQ": "13941"
+    },
+    "PPLPHARMA": {
+        "PPLPHARMA-EQ": "11571"
+    },
+    "PPL": {
+        "PPL-EQ": "10297"
+    },
+    "PPAP": {
+        "PPAP-EQ": "15209"
+    },
+    "POWERMECH": {
+        "POWERMECH-EQ": "10473"
+    },
+    "POWERINDIA": {
+        "POWERINDIA-EQ": "18457"
+    },
+    "POWERGRID": {
+        "POWERGRID-EQ": "14977"
+    },
+    "POONAWALLA": {
+        "POONAWALLA-EQ": "11403"
+    },
+    "PONNIERODE": {
+        "PONNIERODE-EQ": "10661"
+    },
+    "POLYPLEX": {
+        "POLYPLEX-EQ": "2687"
+    },
+    "POLYMED": {
+        "POLYMED-EQ": "25718"
+    },
+    "POLYCAB": {
+        "POLYCAB-EQ": "9590"
+    },
+    "POLICYBZR": {
+        "POLICYBZR-EQ": "6656"
+    },
+    "POKARNA": {
+        "POKARNA-EQ": "17651"
+    },
+    "PODDARMENT": {
+        "PODDARMENT-EQ": "19036"
+    },
+    "PODDARHOUS": {
+        "PODDARHOUS-EQ": "20446"
+    },
+    "POCL": {
+        "POCL-EQ": "14385"
+    },
+    "PNCINFRA": {
+        "PNCINFRA-EQ": "9385"
+    },
+    "PNC": {
+        "PNC-EQ": "9342"
+    },
+    "PNBHOUSING": {
+        "PNBHOUSING-EQ": "18908"
+    },
+    "PNBGILTS": {
+        "PNBGILTS-EQ": "8736"
+    },
+    "PNB": {
+        "PNB-EQ": "10666"
+    },
+    "PLASTIBLEN": {
+        "PLASTIBLEN-EQ": "13920"
+    },
+    "PIXTRANS": {
+        "PIXTRANS-EQ": "9087"
+    },
+    "PITTIENG": {
+        "PITTIENG-EQ": "14134"
+    },
+    "PIONEEREMB": {
+        "PIONEEREMB-EQ": "13463"
+    },
+    "PILITA": {
+        "PILITA-EQ": "30835"
+    },
+    "PILANIINVS": {
+        "PILANIINVS-EQ": "11445"
+    },
+    "PIIND": {
+        "PIIND-EQ": "24184"
+    },
+    "PIGL": {
+        "PIGL-EQ": "15716"
+    },
+    "PIDILITIND": {
+        "PIDILITIND-EQ": "2664"
+    },
+    "PHOENIXLTD": {
+        "PHOENIXLTD-EQ": "14552"
+    },
+    "PHARMABEES": {
+        "PHARMABEES-EQ": "4973"
+    },
+    "PGIL": {
+        "PGIL-EQ": "14260"
+    },
+    "PGHL": {
+        "PGHL-EQ": "940"
+    },
+    "PGHH": {
+        "PGHH-EQ": "2535"
+    },
+    "PGEL": {
+        "PGEL-EQ": "25358"
+    },
+    "PFS": {
+        "PFS-EQ": "22602"
+    },
+    "PFOCUS": {
+        "PFOCUS-EQ": "13496"
+    },
+    "PFIZER": {
+        "PFIZER-EQ": "2643"
+    },
+    "PFC": {
+        "PFC-EQ": "14299"
+    },
+    "PETRONET": {
+        "PETRONET-EQ": "11351"
+    },
+    "PERSISTENT": {
+        "PERSISTENT-EQ": "18365"
+    },
+    "PENINLAND": {
+        "PENINLAND-EQ": "2256"
+    },
+    "PENIND": {
+        "PENIND-EQ": "20621"
+    },
+    "PEL": {
+        "PEL-EQ": "2412"
+    },
+    "PEARLPOLY": {
+        "PEARLPOLY-EQ": "2610"
+    },
+    "PDSL": {
+        "PDSL-EQ": "5264"
+    },
+    "PDMJEPAPER": {
+        "PDMJEPAPER-EQ": "15377"
+    },
+    "PCJEWELLER": {
+        "PCJEWELLER-EQ": "29124"
+    },
+    "PCBL": {
+        "PCBL-EQ": "2649"
+    },
+    "PAYTM": {
+        "PAYTM-EQ": "6705"
+    },
+    "PATINTLOG": {
+        "PATINTLOG-EQ": "15219"
+    },
+    "PASUPTAC": {
+        "PASUPTAC-EQ": "6045"
+    },
+    "PARSVNATH": {
+        "PARSVNATH-EQ": "13791"
+    },
+    "PARAS": {
+        "PARAS-EQ": "5911"
+    },
+    "PARAGMILK": {
+        "PARAGMILK-EQ": "17130"
+    },
+    "PARADEEP": {
+        "PARADEEP-EQ": "9741"
+    },
+    "PARACABLES": {
+        "PARACABLES-EQ": "13951"
+    },
+    "PAR": {
+        "PAR-EQ": "5631"
+    },
+    "PANSARI": {
+        "PANSARI-EQ": "6141"
+    },
+    "PANAMAPET": {
+        "PANAMAPET-EQ": "25392"
+    },
+    "PANACHE": {
+        "PANACHE-EQ": "16292"
+    },
+    "PANACEABIO": {
+        "PANACEABIO-EQ": "4055"
+    },
+    "PALREDTEC": {
+        "PALREDTEC-EQ": "17062"
+    },
+    "PALASHSECU": {
+        "PALASHSECU-EQ": "21383"
+    },
+    "PAISALO": {
+        "PAISALO-EQ": "25468"
+    },
+    "PAGEIND": {
+        "PAGEIND-EQ": "14413"
+    },
+    "OSWALSEEDS": {
+        "OSWALSEEDS-EQ": "14305"
+    },
+    "OSWALGREEN": {
+        "OSWALGREEN-EQ": "471"
+    },
+    "OSWALAGRO": {
+        "OSWALAGRO-EQ": "2514"
+    },
+    "OSIAHYPER": {
+        "OSIAHYPER-EQ": "12635"
+    },
+    "ORTINLAB": {
+        "ORTINLAB-EQ": "2979"
+    },
+    "ORISSAMINE": {
+        "ORISSAMINE-EQ": "19931"
+    },
+    "ORIENTPPR": {
+        "ORIENTPPR-EQ": "2496"
+    },
+    "ORIENTLTD": {
+        "ORIENTLTD-EQ": "18208"
+    },
+    "ORIENTHOT": {
+        "ORIENTHOT-EQ": "2493"
+    },
+    "ORIENTELEC": {
+        "ORIENTELEC-EQ": "2972"
+    },
+    "ORIENTCEM": {
+        "ORIENTCEM-EQ": "30089"
+    },
+    "ORIENTBELL": {
+        "ORIENTBELL-EQ": "14278"
+    },
+    "ORIENTALTL": {
+        "ORIENTALTL-EQ": "14346"
+    },
+    "ORIENTABRA": {
+        "ORIENTABRA-EQ": "13111"
+    },
+    "ORICONENT": {
+        "ORICONENT-EQ": "10159"
+    },
+    "ORBTEXP": {
+        "ORBTEXP-EQ": "31475"
+    },
+    "OPTIEMUS": {
+        "OPTIEMUS-EQ": "21469"
+    },
+    "ONWARDTEC": {
+        "ONWARDTEC-EQ": "2481"
+    },
+    "ONMOBILE": {
+        "ONMOBILE-EQ": "15278"
+    },
+    "ONGC": {
+        "ONGC-EQ": "2475"
+    },
+    "ONEPOINT": {
+        "ONEPOINT-EQ": "9939"
+    },
+    "ONELIFECAP": {
+        "ONELIFECAP-EQ": "25492"
+    },
+    "OMINFRAL": {
+        "OMINFRAL-EQ": "24231"
+    },
+    "OMAXE": {
+        "OMAXE-EQ": "14853"
+    },
+    "OLECTRA": {
+        "OLECTRA-EQ": "10637"
+    },
+    "OILCOUNTUB": {
+        "OILCOUNTUB-EQ": "2472"
+    },
+    "OIL": {
+        "OIL-EQ": "17438"
+    },
+    "OFSS": {
+        "OFSS-EQ": "10738"
+    },
+    "OCCL": {
+        "OCCL-EQ": "12231"
+    },
+    "OBEROIRLTY": {
+        "OBEROIRLTY-EQ": "20242"
+    },
+    "OBCL": {
+        "OBCL-EQ": "8797"
+    },
+    "OAL": {
+        "OAL-EQ": "10768"
+    },
+    "NYKAA": {
+        "NYKAA-EQ": "6545"
+    },
+    "NV20BEES": {
+        "NV20BEES-EQ": "9847"
+    },
+    "NUVOCO": {
+        "NUVOCO-EQ": "5426"
+    },
+    "NURECA": {
+        "NURECA-EQ": "2350"
+    },
+    "NUCLEUS": {
+        "NUCLEUS-EQ": "10791"
+    },
+    "NTPC": {
+        "NTPC-EQ": "11630"
+    },
+    "NSLNISP": {
+        "NSLNISP-EQ": "14180"
+    },
+    "NSIL": {
+        "NSIL-EQ": "11239"
+    },
+    "NRL": {
+        "NRL-EQ": "13675"
+    },
+    "NRBBEARING": {
+        "NRBBEARING-EQ": "7553"
+    },
+    "NRAIL": {
+        "NRAIL-EQ": "20314"
+    },
+    "NPBET": {
+        "NPBET-EQ": "12978"
+    },
+    "NOVARTIND": {
+        "NOVARTIND-EQ": "9007"
+    },
+    "NORBTEAEXP": {
+        "NORBTEAEXP-EQ": "4160"
+    },
+    "NOIDATOLL": {
+        "NOIDATOLL-EQ": "10786"
+    },
+    "NOCIL": {
+        "NOCIL-EQ": "2442"
+    },
+    "NMDC": {
+        "NMDC-EQ": "15332"
+    },
+    "NLCINDIA": {
+        "NLCINDIA-EQ": "8585"
+    },
+    "NKIND": {
+        "NKIND-EQ": "2439"
+    },
+    "NITIRAJ": {
+        "NITIRAJ-EQ": "3247"
+    },
+    "NITINSPIN": {
+        "NITINSPIN-EQ": "13175"
+    },
+    "NITCO": {
+        "NITCO-EQ": "13300"
+    },
+    "NIRAJ": {
+        "NIRAJ-EQ": "255"
+    },
+    "NIPPOBATRY": {
+        "NIPPOBATRY-EQ": "6782"
+    },
+    "NINSYS": {
+        "NINSYS-EQ": "14194"
+    },
+    "NILKAMAL": {
+        "NILKAMAL-EQ": "2421"
+    },
+    "NILASPACES": {
+        "NILASPACES-EQ": "7411"
+    },
+    "NILAINFRA": {
+        "NILAINFRA-EQ": "9253"
+    },
+    "NIITLTD": {
+        "NIITLTD-EQ": "11522"
+    },
+    "NIFTYQLITY": {
+        "NIFTYQLITY-EQ": "10690"
+    },
+    "NIFTYBEES": {
+        "NIFTYBEES-EQ": "10576"
+    },
+    "NIF100BEES": {
+        "NIF100BEES-EQ": "29577"
+    },
+    "NIBL": {
+        "NIBL-EQ": "29733"
+    },
+    "NIACL": {
+        "NIACL-EQ": "399"
+    },
+    "NHPC": {
+        "NHPC-EQ": "17400"
+    },
+    "NH": {
+        "NH-EQ": "11840"
+    },
+    "NGLFINE": {
+        "NGLFINE-EQ": "10277"
+    },
+    "NGIL": {
+        "NGIL-EQ": "5401"
+    },
+    "NFL": {
+        "NFL-EQ": "13925"
+    },
+    "NEXTMEDIA": {
+        "NEXTMEDIA-EQ": "9867"
+    },
+    "NEWGEN": {
+        "NEWGEN-EQ": "1164"
+    },
+    "NEULANDLAB": {
+        "NEULANDLAB-EQ": "2406"
+    },
+    "NETWORK18": {
+        "NETWORK18-EQ": "14111"
+    },
+    "NETF": {
+        "NETF-EQ": "7838"
+    },
+    "NESTLEIND": {
+        "NESTLEIND-EQ": "17963"
+    },
+    "NESCO": {
+        "NESCO-EQ": "15409"
+    },
+    "NEOGEN": {
+        "NEOGEN-EQ": "9917"
+    },
+    "NELCO": {
+        "NELCO-EQ": "2388"
+    },
+    "NELCAST": {
+        "NELCAST-EQ": "14761"
+    },
+    "NECLIFE": {
+        "NECLIFE-EQ": "11927"
+    },
+    "NECCLTD": {
+        "NECCLTD-EQ": "13522"
+    },
+    "NDTV": {
+        "NDTV-EQ": "11427"
+    },
+    "NDRAUTO": {
+        "NDRAUTO-EQ": "22255"
+    },
+    "NDLVENTURE": {
+        "NDLVENTURE-EQ": "14547"
+    },
+    "NDL": {
+        "NDL-EQ": "31258"
+    },
+    "NCLIND": {
+        "NCLIND-EQ": "14490"
+    },
+    "NCC": {
+        "NCC-EQ": "2319"
+    },
+    "NBIFIN": {
+        "NBIFIN-EQ": "19111"
+    },
+    "NBCC": {
+        "NBCC-EQ": "31415"
+    },
+    "NAZARA": {
+        "NAZARA-EQ": "2987"
+    },
+    "NAVNETEDUL": {
+        "NAVNETEDUL-EQ": "2385"
+    },
+    "NAVKARCORP": {
+        "NAVKARCORP-EQ": "10557"
+    },
+    "NAVINFLUOR": {
+        "NAVINFLUOR-EQ": "14672"
+    },
+    "NAVA": {
+        "NAVA-EQ": "4014"
+    },
+    "NAUKRI": {
+        "NAUKRI-EQ": "13751"
+    },
+    "NATIONALUM": {
+        "NATIONALUM-EQ": "6364"
+    },
+    "NATHBIOGEN": {
+        "NATHBIOGEN-EQ": "11065"
+    },
+    "NATCOPHARM": {
+        "NATCOPHARM-EQ": "3918"
+    },
+    "NARMADA": {
+        "NARMADA-EQ": "11627"
+    },
+    "NAM-INDIA": {
+        "NAM-INDIA-EQ": "357"
+    },
+    "NAHARSPING": {
+        "NAHARSPING-EQ": "14440"
+    },
+    "NAHARPOLY": {
+        "NAHARPOLY-EQ": "14445"
+    },
+    "NAHARINDUS": {
+        "NAHARINDUS-EQ": "13106"
+    },
+    "NAHARCAP": {
+        "NAHARCAP-EQ": "15360"
+    },
+    "NAGREEKEXP": {
+        "NAGREEKEXP-EQ": "14702"
+    },
+    "NAGREEKCAP": {
+        "NAGREEKCAP-EQ": "14942"
+    },
+    "NAGAFERT": {
+        "NAGAFERT-EQ": "17295"
+    },
+    "NACLIND": {
+        "NACLIND-EQ": "20425"
+    },
+    "N1NSETEST": {
+        "N1NSETEST-EQ": "12848"
+    },
+    "MUTHOOTFIN": {
+        "MUTHOOTFIN-EQ": "23650"
+    },
+    "MUTHOOTCAP": {
+        "MUTHOOTCAP-EQ": "10415"
+    },
+    "MURUDCERA": {
+        "MURUDCERA-EQ": "2313"
+    },
+    "MUNJALSHOW": {
+        "MUNJALSHOW-EQ": "2307"
+    },
+    "MUNJALAU": {
+        "MUNJALAU-EQ": "13511"
+    },
+    "MUKTAARTS": {
+        "MUKTAARTS-EQ": "8687"
+    },
+    "MUKANDLTD": {
+        "MUKANDLTD-EQ": "11325"
+    },
+    "MTNL": {
+        "MTNL-EQ": "2294"
+    },
+    "MTARTECH": {
+        "MTARTECH-EQ": "2709"
+    },
+    "MSUMI": {
+        "MSUMI-EQ": "8596"
+    },
+    "MSTCLTD": {
+        "MSTCLTD-EQ": "9356"
+    },
+    "MSPL": {
+        "MSPL-EQ": "11919"
+    },
+    "MRPL": {
+        "MRPL-EQ": "2283"
+    },
+    "MRO-TEK": {
+        "MRO-TEK-EQ": "8998"
+    },
+    "MRF": {
+        "MRF-EQ": "2277"
+    },
+    "MPSLTD": {
+        "MPSLTD-EQ": "10578"
+    },
+    "MPHASIS": {
+        "MPHASIS-EQ": "4503"
+    },
+    "MOVALUE": {
+        "MOVALUE-EQ": "10825"
+    },
+    "MOTOGENFIN": {
+        "MOTOGENFIN-EQ": "2268"
+    },
+    "MOTILALOFS": {
+        "MOTILALOFS-EQ": "14947"
+    },
+    "MOTHERSON": {
+        "MOTHERSON-EQ": "4204"
+    },
+    "MOREPENLAB": {
+        "MOREPENLAB-EQ": "2259"
+    },
+    "MORARJEE": {
+        "MORARJEE-EQ": "28877"
+    },
+    "MOQUALITY": {
+        "MOQUALITY-EQ": "10822"
+    },
+    "MONTECARLO": {
+        "MONTECARLO-EQ": "5938"
+    },
+    "MONQ50": {
+        "MONQ50-EQ": "7422"
+    },
+    "MONARCH": {
+        "MONARCH-EQ": "7679"
+    },
+    "MON100": {
+        "MON100-EQ": "22739"
+    },
+    "MOMOMENTUM": {
+        "MOMOMENTUM-EQ": "8182"
+    },
+    "MOMENTUM": {
+        "MOMENTUM-EQ": "10693"
+    },
+    "MOM50": {
+        "MOM50-EQ": "19289"
+    },
+    "MOM100": {
+        "MOM100-EQ": "21423"
+    },
+    "MOLOWVOL": {
+        "MOLOWVOL-EQ": "8654"
+    },
+    "MOLDTKPAC": {
+        "MOLDTKPAC-EQ": "6713"
+    },
+    "MOLDTECH": {
+        "MOLDTECH-EQ": "17625"
+    },
+    "MOL": {
+        "MOL-EQ": "5394"
+    },
+    "MOKSH": {
+        "MOKSH-EQ": "3586"
+    },
+    "MOIL": {
+        "MOIL-EQ": "20830"
+    },
+    "MOHITIND": {
+        "MOHITIND-EQ": "29423"
+    },
+    "MOHEALTH": {
+        "MOHEALTH-EQ": "10508"
+    },
+    "MOGSEC": {
+        "MOGSEC-EQ": "1507"
+    },
+    "MODISONLTD": {
+        "MODISONLTD-EQ": "3316"
+    },
+    "MMTC": {
+        "MMTC-EQ": "17957"
+    },
+    "MMP": {
+        "MMP-EQ": "16395"
+    },
+    "MMFL": {
+        "MMFL-EQ": "13844"
+    },
+    "MITTAL": {
+        "MITTAL-EQ": "18562"
+    },
+    "MITCON": {
+        "MITCON-EQ": "8469"
+    },
+    "MIRCELECTR": {
+        "MIRCELECTR-EQ": "2202"
+    },
+    "MINDTECK": {
+        "MINDTECK-EQ": "18049"
+    },
+    "MINDACORP": {
+        "MINDACORP-EQ": "25897"
+    },
+    "MIDHANI": {
+        "MIDHANI-EQ": "2463"
+    },
+    "MID150BEES": {
+        "MID150BEES-EQ": "8506"
+    },
+    "MHRIL": {
+        "MHRIL-EQ": "17333"
+    },
+    "MHLXMIRU": {
+        "MHLXMIRU-EQ": "7886"
+    },
+    "MGL": {
+        "MGL-EQ": "17534"
+    },
+    "MFSL": {
+        "MFSL-EQ": "2142"
+    },
+    "MFL": {
+        "MFL-EQ": "5382"
+    },
+    "METROPOLIS": {
+        "METROPOLIS-EQ": "9581"
+    },
+    "METROBRAND": {
+        "METROBRAND-EQ": "7242"
+    },
+    "MEP": {
+        "MEP-EQ": "8771"
+    },
+    "MENONBE": {
+        "MENONBE-EQ": "6961"
+    },
+    "MEGASTAR": {
+        "MEGASTAR-EQ": "8153"
+    },
+    "MEGASOFT": {
+        "MEGASOFT-EQ": "14793"
+    },
+    "MEDPLUS": {
+        "MEDPLUS-EQ": "7254"
+    },
+    "MEDICO": {
+        "MEDICO-EQ": "9667"
+    },
+    "MEDICAMEQ": {
+        "MEDICAMEQ-EQ": "6278"
+    },
+    "MEDANTA": {
+        "MEDANTA-EQ": "11956"
+    },
+    "MCX": {
+        "MCX-EQ": "31181"
+    },
+    "MCLEODRUSS": {
+        "MCLEODRUSS-EQ": "11943"
+    },
+    "MCL": {
+        "MCL-EQ": "22360"
+    },
+    "MCDOWELL-N": {
+        "MCDOWELL-N-EQ": "10447"
+    },
+    "MBLINFRA": {
+        "MBLINFRA-EQ": "18029"
+    },
+    "MBAPL": {
+        "MBAPL-EQ": "12686"
+    },
+    "MAZDOCK": {
+        "MAZDOCK-EQ": "509"
+    },
+    "MAZDA": {
+        "MAZDA-EQ": "18866"
+    },
+    "MAYURUNIQ": {
+        "MAYURUNIQ-EQ": "28906"
+    },
+    "MAXVIL": {
+        "MAXVIL-EQ": "17468"
+    },
+    "MAXIND": {
+        "MAXIND-EQ": "22428"
+    },
+    "MAXHEALTH": {
+        "MAXHEALTH-EQ": "22377"
+    },
+    "MAWANASUG": {
+        "MAWANASUG-EQ": "17022"
+    },
+    "MATRIMONY": {
+        "MATRIMONY-EQ": "21726"
+    },
+    "MASTEK": {
+        "MASTEK-EQ": "2124"
+    },
+    "MASPTOP50": {
+        "MASPTOP50-EQ": "5782"
+    },
+    "MASFIN": {
+        "MASFIN-EQ": "199"
+    },
+    "MARUTI": {
+        "MARUTI-EQ": "10999"
+    },
+    "MARSHALL": {
+        "MARSHALL-EQ": "6757"
+    },
+    "MARKSANS": {
+        "MARKSANS-EQ": "10579"
+    },
+    "MARINE": {
+        "MARINE-EQ": "1328"
+    },
+    "MARICO": {
+        "MARICO-EQ": "4067"
+    },
+    "MARATHON": {
+        "MARATHON-EQ": "18659"
+    },
+    "MARALOVER": {
+        "MARALOVER-EQ": "2112"
+    },
+    "MAPMYINDIA": {
+        "MAPMYINDIA-EQ": "7227"
+    },
+    "MANYAVAR": {
+        "MANYAVAR-EQ": "8167"
+    },
+    "MANXT50": {
+        "MANXT50-EQ": "17181"
+    },
+    "MANV30F": {
+        "MANV30F-EQ": "14786"
+    },
+    "MANUGRAPH": {
+        "MANUGRAPH-EQ": "13572"
+    },
+    "MANORG": {
+        "MANORG-EQ": "6422"
+    },
+    "MANKIND": {
+        "MANKIND-EQ": "15380"
+    },
+    "MANINFRA": {
+        "MANINFRA-EQ": "18226"
+    },
+    "MANINDS": {
+        "MANINDS-EQ": "11884"
+    },
+    "MANGLMCEM": {
+        "MANGLMCEM-EQ": "2106"
+    },
+    "MANGCHEFER": {
+        "MANGCHEFER-EQ": "15007"
+    },
+    "MANGALAM": {
+        "MANGALAM-EQ": "11817"
+    },
+    "MANAPPURAM": {
+        "MANAPPURAM-EQ": "19061"
+    },
+    "MANALIPETC": {
+        "MANALIPETC-EQ": "13796"
+    },
+    "MANAKSTEEL": {
+        "MANAKSTEEL-EQ": "7463"
+    },
+    "MANAKSIA": {
+        "MANAKSIA-EQ": "15199"
+    },
+    "MANAKCOAT": {
+        "MANAKCOAT-EQ": "7413"
+    },
+    "MANAKALUCO": {
+        "MANAKALUCO-EQ": "7420"
+    },
+    "MAN50ETF": {
+        "MAN50ETF-EQ": "6353"
+    },
+    "MAMFGETF": {
+        "MAMFGETF-EQ": "7979"
+    },
+    "MAM150ETF": {
+        "MAM150ETF-EQ": "8413"
+    },
+    "MALUPAPER": {
+        "MALUPAPER-EQ": "13352"
+    },
+    "MALLCOM": {
+        "MALLCOM-EQ": "7965"
+    },
+    "MAITHANALL": {
+        "MAITHANALL-EQ": "24538"
+    },
+    "MAHSEAMLES": {
+        "MAHSEAMLES-EQ": "2088"
+    },
+    "MAHSCOOTER": {
+        "MAHSCOOTER-EQ": "2085"
+    },
+    "MAHLOG": {
+        "MAHLOG-EQ": "385"
+    },
+    "MAHLIFE": {
+        "MAHLIFE-EQ": "8050"
+    },
+    "MAHKTECH": {
+        "MAHKTECH-EQ": "7074"
+    },
+    "MAHINDCIE": {
+        "MAHINDCIE-EQ": "14937"
+    },
+    "MAHESHWARI": {
+        "MAHESHWARI-EQ": "9576"
+    },
+    "MAHEPC": {
+        "MAHEPC-EQ": "17603"
+    },
+    "MAHASTEEL": {
+        "MAHASTEEL-EQ": "17527"
+    },
+    "MAHAPEXLTD": {
+        "MAHAPEXLTD-EQ": "5239"
+    },
+    "MAHABANK": {
+        "MAHABANK-EQ": "11377"
+    },
+    "MAGS813ETF": {
+        "MAGS813ETF-EQ": "14938"
+    },
+    "MAGOLDETF": {
+        "MAGOLDETF-EQ": "14286"
+    },
+    "MAGNUM": {
+        "MAGNUM-EQ": "14957"
+    },
+    "MAGADSUGAR": {
+        "MAGADSUGAR-EQ": "21392"
+    },
+    "MAFSETF": {
+        "MAFSETF-EQ": "5220"
+    },
+    "MAFANG": {
+        "MAFANG-EQ": "3507"
+    },
+    "MAESGETF": {
+        "MAESGETF-EQ": "1200"
+    },
+    "MADRASFERT": {
+        "MADRASFERT-EQ": "4911"
+    },
+    "MADHUCON": {
+        "MADHUCON-EQ": "13671"
+    },
+    "MADHAV": {
+        "MADHAV-EQ": "15151"
+    },
+    "MACPOWER": {
+        "MACPOWER-EQ": "22347"
+    },
+    "MAANALU": {
+        "MAANALU-EQ": "15017"
+    },
+    "M&MFIN": {
+        "M&MFIN-EQ": "13285"
+    },
+    "M&M": {
+        "M&M-EQ": "2031"
+    },
+    "LYPSAGEMS": {
+        "LYPSAGEMS-EQ": "31468"
+    },
+    "LYKALABS": {
+        "LYKALABS-EQ": "2028"
+    },
+    "LXCHEM": {
+        "LXCHEM-EQ": "2841"
+    },
+    "LUXIND": {
+        "LUXIND-EQ": "11301"
+    },
+    "LUPIN": {
+        "LUPIN-EQ": "10440"
+    },
+    "LUMAXTECH": {
+        "LUMAXTECH-EQ": "14014"
+    },
+    "LUMAXIND": {
+        "LUMAXIND-EQ": "2018"
+    },
+    "LTTS": {
+        "LTTS-EQ": "18564"
+    },
+    "LTIM": {
+        "LTIM-EQ": "17818"
+    },
+    "LTGILTBEES": {
+        "LTGILTBEES-EQ": "17700"
+    },
+    "LT": {
+        "LT-EQ": "11483"
+    },
+    "LSIL": {
+        "LSIL-EQ": "17801"
+    },
+    "LPDC": {
+        "LPDC-EQ": "16863"
+    },
+    "LOYALTEX": {
+        "LOYALTEX-EQ": "10590"
+    },
+    "LOVABLE": {
+        "LOVABLE-EQ": "22415"
+    },
+    "LOTUSEYE": {
+        "LOTUSEYE-EQ": "16807"
+    },
+    "LOKESHMACH": {
+        "LOKESHMACH-EQ": "13436"
+    },
+    "LODHA": {
+        "LODHA-EQ": "3220"
+    },
+    "LIQUIDETF": {
+        "LIQUIDETF-EQ": "1927"
+    },
+    "LIQUIDBEES": {
+        "LIQUIDBEES-EQ": "11006"
+    },
+    "LINDEINDIA": {
+        "LINDEINDIA-EQ": "1627"
+    },
+    "LINCOLN": {
+        "LINCOLN-EQ": "11596"
+    },
+    "LINC": {
+        "LINC-EQ": "6951"
+    },
+    "LIKHITHA": {
+        "LIKHITHA-EQ": "578"
+    },
+    "LICNFNHGP": {
+        "LICNFNHGP-EQ": "15229"
+    },
+    "LICNETFSEN": {
+        "LICNETFSEN-EQ": "11441"
+    },
+    "LICNETFN50": {
+        "LICNETFN50-EQ": "11319"
+    },
+    "LICNETFGSC": {
+        "LICNETFGSC-EQ": "6062"
+    },
+    "LICI": {
+        "LICI-EQ": "9480"
+    },
+    "LICHSGFIN": {
+        "LICHSGFIN-EQ": "1997"
+    },
+    "LIBERTSHOE": {
+        "LIBERTSHOE-EQ": "1994"
+    },
+    "LIBAS": {
+        "LIBAS-EQ": "11082"
+    },
+    "LGBFORGE": {
+        "LGBFORGE-EQ": "16845"
+    },
+    "LGBBROSLTD": {
+        "LGBBROSLTD-EQ": "18321"
+    },
+    "LFIC": {
+        "LFIC-EQ": "7902"
+    },
+    "LEXUS": {
+        "LEXUS-EQ": "14459"
+    },
+    "LEMONTREE": {
+        "LEMONTREE-EQ": "2606"
+    },
+    "LCCINFOTEC": {
+        "LCCINFOTEC-EQ": "7529"
+    },
+    "LAXMIMACH": {
+        "LAXMIMACH-EQ": "1979"
+    },
+    "LAXMICOT": {
+        "LAXMICOT-EQ": "6568"
+    },
+    "LAURUSLABS": {
+        "LAURUSLABS-EQ": "19234"
+    },
+    "LATTEYS": {
+        "LATTEYS-EQ": "15840"
+    },
+    "LATENTVIEW": {
+        "LATENTVIEW-EQ": "6818"
+    },
+    "LASA": {
+        "LASA-EQ": "21713"
+    },
+    "LAOPALA": {
+        "LAOPALA-EQ": "14423"
+    },
+    "LANDMARK": {
+        "LANDMARK-EQ": "13276"
+    },
+    "LAMBODHARA": {
+        "LAMBODHARA-EQ": "6407"
+    },
+    "LALPATHLAB": {
+        "LALPATHLAB-EQ": "11654"
+    },
+    "LAGNAM": {
+        "LAGNAM-EQ": "5865"
+    },
+    "L&TFH": {
+        "L&TFH-EQ": "24948"
+    },
+    "KUANTUM": {
+        "KUANTUM-EQ": "13870"
+    },
+    "KTKBANK": {
+        "KTKBANK-EQ": "8054"
+    },
+    "KSOLVES": {
+        "KSOLVES-EQ": "11060"
+    },
+    "KSL": {
+        "KSL-EQ": "18889"
+    },
+    "KSHITIJPOL": {
+        "KSHITIJPOL-EQ": "10407"
+    },
+    "KSCL": {
+        "KSCL-EQ": "14972"
+    },
+    "KSB": {
+        "KSB-EQ": "1949"
+    },
+    "KRSNAA": {
+        "KRSNAA-EQ": "5359"
+    },
+    "KRITINUT": {
+        "KRITINUT-EQ": "11432"
+    },
+    "KRITIKA": {
+        "KRITIKA-EQ": "9288"
+    },
+    "KRITI": {
+        "KRITI-EQ": "6417"
+    },
+    "KRISHANA": {
+        "KRISHANA-EQ": "12847"
+    },
+    "KRIDHANINF": {
+        "KRIDHANINF-EQ": "11480"
+    },
+    "KREBSBIO": {
+        "KREBSBIO-EQ": "1937"
+    },
+    "KRBL": {
+        "KRBL-EQ": "10577"
+    },
+    "KPRMILL": {
+        "KPRMILL-EQ": "14912"
+    },
+    "KPITTECH": {
+        "KPITTECH-EQ": "9683"
+    },
+    "KPIGREEN": {
+        "KPIGREEN-EQ": "5108"
+    },
+    "KOVAI": {
+        "KOVAI-EQ": "5192"
+    },
+    "KOTHARIPRO": {
+        "KOTHARIPRO-EQ": "5528"
+    },
+    "KOTHARIPET": {
+        "KOTHARIPET-EQ": "4594"
+    },
+    "KOTARISUG": {
+        "KOTARISUG-EQ": "11647"
+    },
+    "KOTAKSILVE": {
+        "KOTAKSILVE-EQ": "13082"
+    },
+    "KOTAKPSUBK": {
+        "KOTAKPSUBK-EQ": "15061"
+    },
+    "KOTAKNV20": {
+        "KOTAKNV20-EQ": "11457"
+    },
+    "KOTAKNIFTY": {
+        "KOTAKNIFTY-EQ": "18102"
+    },
+    "KOTAKMNC": {
+        "KOTAKMNC-EQ": "10676"
+    },
+    "KOTAKMID50": {
+        "KOTAKMID50-EQ": "8077"
+    },
+    "KOTAKLOVOL": {
+        "KOTAKLOVOL-EQ": "8632"
+    },
+    "KOTAKLIQ": {
+        "KOTAKLIQ-EQ": "13950"
+    },
+    "KOTAKIT": {
+        "KOTAKIT-EQ": "2627"
+    },
+    "KOTAKGOLD": {
+        "KOTAKGOLD-EQ": "14858"
+    },
+    "KOTAKCONS": {
+        "KOTAKCONS-EQ": "10512"
+    },
+    "KOTAKBKETF": {
+        "KOTAKBKETF-EQ": "5851"
+    },
+    "KOTAKBANK": {
+        "KOTAKBANK-EQ": "1922"
+    },
+    "KOTAKALPHA": {
+        "KOTAKALPHA-EQ": "7412"
+    },
+    "KOPRAN": {
+        "KOPRAN-EQ": "1919"
+    },
+    "KOLTEPATIL": {
+        "KOLTEPATIL-EQ": "15124"
+    },
+    "KOKUYOCMLN": {
+        "KOKUYOCMLN-EQ": "16827"
+    },
+    "KNRCON": {
+        "KNRCON-EQ": "15283"
+    },
+    "KMSUGAR": {
+        "KMSUGAR-EQ": "14667"
+    },
+    "KKCL": {
+        "KKCL-EQ": "13381"
+    },
+    "KITEX": {
+        "KITEX-EQ": "28899"
+    },
+    "KIRLPNU": {
+        "KIRLPNU-EQ": "15180"
+    },
+    "KIRLOSIND": {
+        "KIRLOSIND-EQ": "19025"
+    },
+    "KIRLOSENG": {
+        "KIRLOSENG-EQ": "20936"
+    },
+    "KIRLOSBROS": {
+        "KIRLOSBROS-EQ": "18581"
+    },
+    "KIRLFER": {
+        "KIRLFER-EQ": "14466"
+    },
+    "KIRIINDUS": {
+        "KIRIINDUS-EQ": "16639"
+    },
+    "KIOCL": {
+        "KIOCL-EQ": "19126"
+    },
+    "KINGFA": {
+        "KINGFA-EQ": "18944"
+    },
+    "KIMS": {
+        "KIMS-EQ": "4847"
+    },
+    "KICL": {
+        "KICL-EQ": "21119"
+    },
+    "KHAITANLTD": {
+        "KHAITANLTD-EQ": "3912"
+    },
+    "KHAICHEM": {
+        "KHAICHEM-EQ": "896"
+    },
+    "KHADIM": {
+        "KHADIM-EQ": "425"
+    },
+    "KFINTECH": {
+        "KFINTECH-EQ": "13359"
+    },
+    "KEYFINSERV": {
+        "KEYFINSERV-EQ": "4157"
+    },
+    "KESORAMIND": {
+        "KESORAMIND-EQ": "1859"
+    },
+    "KENNAMET": {
+        "KENNAMET-EQ": "11841"
+    },
+    "KELLTONTEC": {
+        "KELLTONTEC-EQ": "13430"
+    },
+    "KEI": {
+        "KEI-EQ": "13310"
+    },
+    "KEC": {
+        "KEC-EQ": "13260"
+    },
+    "KDDL": {
+        "KDDL-EQ": "14908"
+    },
+    "KCPSUGIND": {
+        "KCPSUGIND-EQ": "4809"
+    },
+    "KCP": {
+        "KCP-EQ": "1841"
+    },
+    "KBCGLOBAL": {
+        "KBCGLOBAL-EQ": "2354"
+    },
+    "KAYNES": {
+        "KAYNES-EQ": "12092"
+    },
+    "KAYA": {
+        "KAYA-EQ": "10276"
+    },
+    "KAUSHALYA": {
+        "KAUSHALYA-EQ": "15136"
+    },
+    "KARURVYSYA": {
+        "KARURVYSYA-EQ": "1838"
+    },
+    "KARMAENG": {
+        "KARMAENG-EQ": "24385"
+    },
+    "KAPSTON": {
+        "KAPSTON-EQ": "18967"
+    },
+    "KANSAINER": {
+        "KANSAINER-EQ": "1196"
+    },
+    "KANPRPLA": {
+        "KANPRPLA-EQ": "1782"
+    },
+    "KANORICHEM": {
+        "KANORICHEM-EQ": "1835"
+    },
+    "KANANIIND": {
+        "KANANIIND-EQ": "25786"
+    },
+    "KAMOPAINTS": {
+        "KAMOPAINTS-EQ": "13814"
+    },
+    "KAMDHENU": {
+        "KAMDHENU-EQ": "13457"
+    },
+    "KALYANKJIL": {
+        "KALYANKJIL-EQ": "2955"
+    },
+    "KALPATPOWR": {
+        "KALPATPOWR-EQ": "1814"
+    },
+    "KAKATCEM": {
+        "KAKATCEM-EQ": "1811"
+    },
+    "KAJARIACER": {
+        "KAJARIACER-EQ": "1808"
+    },
+    "KABRAEXTRU": {
+        "KABRAEXTRU-EQ": "1805"
+    },
+    "JYOTHYLAB": {
+        "JYOTHYLAB-EQ": "15146"
+    },
+    "JWL": {
+        "JWL-EQ": "20224"
+    },
+    "JUSTDIAL": {
+        "JUSTDIAL-EQ": "29962"
+    },
+    "JUNIORBEES": {
+        "JUNIORBEES-EQ": "10939"
+    },
+    "JUBLPHARMA": {
+        "JUBLPHARMA-EQ": "3637"
+    },
+    "JUBLINGREA": {
+        "JUBLINGREA-EQ": "2783"
+    },
+    "JUBLINDS": {
+        "JUBLINDS-EQ": "21541"
+    },
+    "JUBLFOOD": {
+        "JUBLFOOD-EQ": "18096"
+    },
+    "JTLIND": {
+        "JTLIND-EQ": "7287"
+    },
+    "JTEKTINDIA": {
+        "JTEKTINDIA-EQ": "3237"
+    },
+    "JSWSTEEL": {
+        "JSWSTEEL-EQ": "11723"
+    },
+    "JSWISPL": {
+        "JSWISPL-EQ": "4671"
+    },
+    "JSWHL": {
+        "JSWHL-EQ": "11880"
+    },
+    "JSWENERGY": {
+        "JSWENERGY-EQ": "17869"
+    },
+    "JSL": {
+        "JSL-EQ": "11236"
+    },
+    "JPPOWER": {
+        "JPPOWER-EQ": "11763"
+    },
+    "JPOLYINVST": {
+        "JPOLYINVST-EQ": "31507"
+    },
+    "JPASSOCIAT": {
+        "JPASSOCIAT-EQ": "11460"
+    },
+    "JOCIL": {
+        "JOCIL-EQ": "16927"
+    },
+    "JMFINANCIL": {
+        "JMFINANCIL-EQ": "13637"
+    },
+    "JMA": {
+        "JMA-EQ": "7109"
+    },
+    "JKTYRE": {
+        "JKTYRE-EQ": "14435"
+    },
+    "JKPAPER": {
+        "JKPAPER-EQ": "11860"
+    },
+    "JKLAKSHMI": {
+        "JKLAKSHMI-EQ": "13491"
+    },
+    "JKIL": {
+        "JKIL-EQ": "15266"
+    },
+    "JKCEMENT": {
+        "JKCEMENT-EQ": "13270"
+    },
+    "JISLJALEQS": {
+        "JISLJALEQS-EQ": "10397"
+    },
+    "JISLDVREQS": {
+        "JISLDVREQS-EQ": "25684"
+    },
+    "JINDWORLD": {
+        "JINDWORLD-EQ": "20642"
+    },
+    "JINDRILL": {
+        "JINDRILL-EQ": "13875"
+    },
+    "JINDALSTEL": {
+        "JINDALSTEL-EQ": "6733"
+    },
+    "JINDALSAW": {
+        "JINDALSAW-EQ": "3024"
+    },
+    "JINDALPOLY": {
+        "JINDALPOLY-EQ": "1756"
+    },
+    "JINDALPHOT": {
+        "JINDALPHOT-EQ": "11743"
+    },
+    "JHS": {
+        "JHS-EQ": "13720"
+    },
+    "JETFREIGHT": {
+        "JETFREIGHT-EQ": "7211"
+    },
+    "JCHAC": {
+        "JCHAC-EQ": "4491"
+    },
+    "JBMA": {
+        "JBMA-EQ": "11655"
+    },
+    "JBCHEPHARM": {
+        "JBCHEPHARM-EQ": "1726"
+    },
+    "JAYSREETEA": {
+        "JAYSREETEA-EQ": "1720"
+    },
+    "JAYNECOIND": {
+        "JAYNECOIND-EQ": "2331"
+    },
+    "JAYBARMARU": {
+        "JAYBARMARU-EQ": "1708"
+    },
+    "JAYAGROGN": {
+        "JAYAGROGN-EQ": "4041"
+    },
+    "JASH": {
+        "JASH-EQ": "13982"
+    },
+    "JAMNAAUTO": {
+        "JAMNAAUTO-EQ": "20778"
+    },
+    "JAIPURKURT": {
+        "JAIPURKURT-EQ": "5516"
+    },
+    "JAICORPLTD": {
+        "JAICORPLTD-EQ": "5143"
+    },
+    "JAGSNPHARM": {
+        "JAGSNPHARM-EQ": "4410"
+    },
+    "JAGRAN": {
+        "JAGRAN-EQ": "13211"
+    },
+    "J&KBANK": {
+        "J&KBANK-EQ": "5633"
+    },
+    "IZMO": {
+        "IZMO-EQ": "14174"
+    },
+    "IWEL": {
+        "IWEL-EQ": "3776"
+    },
+    "IVZINNIFTY": {
+        "IVZINNIFTY-EQ": "24217"
+    },
+    "IVZINGOLD": {
+        "IVZINGOLD-EQ": "18292"
+    },
+    "IVC": {
+        "IVC-EQ": "6711"
+    },
+    "ITI": {
+        "ITI-EQ": "1675"
+    },
+    "ITDCEM": {
+        "ITDCEM-EQ": "5622"
+    },
+    "ITDC": {
+        "ITDC-EQ": "19299"
+    },
+    "ITC": {
+        "ITC-EQ": "1660"
+    },
+    "ITBEES": {
+        "ITBEES-EQ": "19084"
+    },
+    "ISMTLTD": {
+        "ISMTLTD-EQ": "14932"
+    },
+    "ISGEC": {
+        "ISGEC-EQ": "3329"
+    },
+    "ISFT": {
+        "ISFT-EQ": "18479"
+    },
+    "ISEC": {
+        "ISEC-EQ": "2489"
+    },
+    "IRISDOREME": {
+        "IRISDOREME-EQ": "2275"
+    },
+    "IRIS": {
+        "IRIS-EQ": "6489"
+    },
+    "IRFC": {
+        "IRFC-EQ": "2029"
+    },
+    "IRCTC": {
+        "IRCTC-EQ": "13611"
+    },
+    "IRCON": {
+        "IRCON-EQ": "4986"
+    },
+    "IRB": {
+        "IRB-EQ": "15313"
+    },
+    "IPL": {
+        "IPL-EQ": "4934"
+    },
+    "IPCALAB": {
+        "IPCALAB-EQ": "1633"
+    },
+    "IONEXCHANG": {
+        "IONEXCHANG-EQ": "1630"
+    },
+    "IOLCP": {
+        "IOLCP-EQ": "20413"
+    },
+    "IOC": {
+        "IOC-EQ": "1624"
+    },
+    "IOB": {
+        "IOB-EQ": "9348"
+    },
+    "INVENTURE": {
+        "INVENTURE-EQ": "24870"
+    },
+    "INTLCONV": {
+        "INTLCONV-EQ": "5606"
+    },
+    "INTENTECH": {
+        "INTENTECH-EQ": "20071"
+    },
+    "INTELLECT": {
+        "INTELLECT-EQ": "5926"
+    },
+    "INSPIRISYS": {
+        "INSPIRISYS-EQ": "13730"
+    },
+    "INSECTICID": {
+        "INSECTICID-EQ": "14657"
+    },
+    "INOXWIND": {
+        "INOXWIND-EQ": "7852"
+    },
+    "INOXGREEN": {
+        "INOXGREEN-EQ": "12188"
+    },
+    "INGERRAND": {
+        "INGERRAND-EQ": "1597"
+    },
+    "INFY": {
+        "INFY-EQ": "1594"
+    },
+    "INFRABEES": {
+        "INFRABEES-EQ": "20072"
+    },
+    "INFOBEAN": {
+        "INFOBEAN-EQ": "11027"
+    },
+    "INFIBEAM": {
+        "INFIBEAM-EQ": "16249"
+    },
+    "INDUSTOWER": {
+        "INDUSTOWER-EQ": "29135"
+    },
+    "INDUSINDBK": {
+        "INDUSINDBK-EQ": "5258"
+    },
+    "INDTERRAIN": {
+        "INDTERRAIN-EQ": "21957"
+    },
+    "INDSWFTLTD": {
+        "INDSWFTLTD-EQ": "11602"
+    },
+    "INDSWFTLAB": {
+        "INDSWFTLAB-EQ": "4870"
+    },
+    "INDOWIND": {
+        "INDOWIND-EQ": "14952"
+    },
+    "INDOTHAI": {
+        "INDOTHAI-EQ": "25608"
+    },
+    "INDOTECH": {
+        "INDOTECH-EQ": "13275"
+    },
+    "INDORAMA": {
+        "INDORAMA-EQ": "10993"
+    },
+    "INDOCO": {
+        "INDOCO-EQ": "11677"
+    },
+    "INDOBORAX": {
+        "INDOBORAX-EQ": "8614"
+    },
+    "INDOAMIN": {
+        "INDOAMIN-EQ": "9116"
+    },
+    "INDNIPPON": {
+        "INDNIPPON-EQ": "4747"
+    },
+    "INDIGOPNTS": {
+        "INDIGOPNTS-EQ": "2048"
+    },
+    "INDIGO": {
+        "INDIGO-EQ": "11195"
+    },
+    "INDIANHUME": {
+        "INDIANHUME-EQ": "1530"
+    },
+    "INDIANCARD": {
+        "INDIANCARD-EQ": "4422"
+    },
+    "INDIANB": {
+        "INDIANB-EQ": "14309"
+    },
+    "INDIAMART": {
+        "INDIAMART-EQ": "10726"
+    },
+    "INDIAGLYCO": {
+        "INDIAGLYCO-EQ": "1521"
+    },
+    "INDIACEM": {
+        "INDIACEM-EQ": "1515"
+    },
+    "INDHOTEL": {
+        "INDHOTEL-EQ": "1512"
+    },
+    "INDBANK": {
+        "INDBANK-EQ": "16933"
+    },
+    "INCREDIBLE": {
+        "INCREDIBLE-EQ": "17507"
+    },
+    "IMPEXFERRO": {
+        "IMPEXFERRO-EQ": "11681"
+    },
+    "IMPAL": {
+        "IMPAL-EQ": "12009"
+    },
+    "IMFA": {
+        "IMFA-EQ": "19235"
+    },
+    "IMAGICAA": {
+        "IMAGICAA-EQ": "7672"
+    },
+    "IITL": {
+        "IITL-EQ": "19525"
+    },
+    "IIFLSEC": {
+        "IIFLSEC-EQ": "13072"
+    },
+    "IIFL": {
+        "IIFL-EQ": "11809"
+    },
+    "IGPL": {
+        "IGPL-EQ": "14086"
+    },
+    "IGL": {
+        "IGL-EQ": "11262"
+    },
+    "IGARASHI": {
+        "IGARASHI-EQ": "634"
+    },
+    "IFGLEXPOR": {
+        "IFGLEXPOR-EQ": "436"
+    },
+    "IFCI": {
+        "IFCI-EQ": "1491"
+    },
+    "IFBIND": {
+        "IFBIND-EQ": "1485"
+    },
+    "IFBAGRO": {
+        "IFBAGRO-EQ": "1482"
+    },
+    "IEX": {
+        "IEX-EQ": "220"
+    },
+    "IEL": {
+        "IEL-EQ": "13303"
+    },
+    "IDFNIFTYET": {
+        "IDFNIFTYET-EQ": "18783"
+    },
+    "IDFCFIRSTB": {
+        "IDFCFIRSTB-EQ": "11184"
+    },
+    "IDFC": {
+        "IDFC-EQ": "11957"
+    },
+    "IDEA": {
+        "IDEA-EQ": "14366"
+    },
+    "IDBIGOLD": {
+        "IDBIGOLD-EQ": "25640"
+    },
+    "IDBI": {
+        "IDBI-EQ": "1476"
+    },
+    "ICRA": {
+        "ICRA-EQ": "14523"
+    },
+    "ICIL": {
+        "ICIL-EQ": "11987"
+    },
+    "ICICITECH": {
+        "ICICITECH-EQ": "22365"
+    },
+    "ICICISILVE": {
+        "ICICISILVE-EQ": "7942"
+    },
+    "ICICISENSX": {
+        "ICICISENSX-EQ": "4378"
+    },
+    "ICICIPRULI": {
+        "ICICIPRULI-EQ": "18652"
+    },
+    "ICICIPHARM": {
+        "ICICIPHARM-EQ": "3626"
+    },
+    "ICICINXT50": {
+        "ICICINXT50-EQ": "4529"
+    },
+    "ICICINV20": {
+        "ICICINV20-EQ": "17475"
+    },
+    "ICICINIFTY": {
+        "ICICINIFTY-EQ": "29553"
+    },
+    "ICICINF100": {
+        "ICICINF100-EQ": "30392"
+    },
+    "ICICIMOM30": {
+        "ICICIMOM30-EQ": "10585"
+    },
+    "ICICIMCAP": {
+        "ICICIMCAP-EQ": "17702"
+    },
+    "ICICIM150": {
+        "ICICIM150-EQ": "17152"
+    },
+    "ICICILOVOL": {
+        "ICICILOVOL-EQ": "21254"
+    },
+    "ICICILIQ": {
+        "ICICILIQ-EQ": "4838"
+    },
+    "ICICIINFRA": {
+        "ICICIINFRA-EQ": "10723"
+    },
+    "ICICIGOLD": {
+        "ICICIGOLD-EQ": "19679"
+    },
+    "ICICIGI": {
+        "ICICIGI-EQ": "21770"
+    },
+    "ICICIFMCG": {
+        "ICICIFMCG-EQ": "5306"
+    },
+    "ICICIFIN": {
+        "ICICIFIN-EQ": "12578"
+    },
+    "ICICICONSU": {
+        "ICICICONSU-EQ": "6446"
+    },
+    "ICICICOMMO": {
+        "ICICICOMMO-EQ": "13198"
+    },
+    "ICICIBANKP": {
+        "ICICIBANKP-EQ": "11386"
+    },
+    "ICICIBANKN": {
+        "ICICIBANKN-EQ": "11037"
+    },
+    "ICICIBANK": {
+        "ICICIBANK-EQ": "4963"
+    },
+    "ICICIB22": {
+        "ICICIB22-EQ": "522"
+    },
+    "ICICIAUTO": {
+        "ICICIAUTO-EQ": "7844"
+    },
+    "ICICIALPLV": {
+        "ICICIALPLV-EQ": "22344"
+    },
+    "ICICI5GSEC": {
+        "ICICI5GSEC-EQ": "8342"
+    },
+    "ICICI500": {
+        "ICICI500-EQ": "3001"
+    },
+    "ICICI10GS": {
+        "ICICI10GS-EQ": "13143"
+    },
+    "ICEMAKE": {
+        "ICEMAKE-EQ": "489"
+    },
+    "IBULHSGFIN": {
+        "IBULHSGFIN-EQ": "30125"
+    },
+    "IBREALEST": {
+        "IBREALEST-EQ": "14450"
+    },
+    "IBMFNIFTY": {
+        "IBMFNIFTY-EQ": "9937"
+    },
+    "HUHTAMAKI": {
+        "HUHTAMAKI-EQ": "2562"
+    },
+    "HUDCO": {
+        "HUDCO-EQ": "20825"
+    },
+    "HUBTOWN": {
+        "HUBTOWN-EQ": "14203"
+    },
+    "HTMEDIA": {
+        "HTMEDIA-EQ": "11979"
+    },
+    "HSCL": {
+        "HSCL-EQ": "14334"
+    },
+    "HPL": {
+        "HPL-EQ": "18679"
+    },
+    "HPIL": {
+        "HPIL-EQ": "11796"
+    },
+    "HPAL": {
+        "HPAL-EQ": "7376"
+    },
+    "HOVS": {
+        "HOVS-EQ": "13592"
+    },
+    "HONDAPOWER": {
+        "HONDAPOWER-EQ": "3138"
+    },
+    "HONAUT": {
+        "HONAUT-EQ": "3417"
+    },
+    "HOMEFIRST": {
+        "HOMEFIRST-EQ": "2056"
+    },
+    "HNGSNGBEES": {
+        "HNGSNGBEES-EQ": "18284"
+    },
+    "HNDFDS": {
+        "HNDFDS-EQ": "12173"
+    },
+    "HMVL": {
+        "HMVL-EQ": "19211"
+    },
+    "HLVLTD": {
+        "HLVLTD-EQ": "1448"
+    },
+    "HLEGLAS": {
+        "HLEGLAS-EQ": "2289"
+    },
+    "HITECHGEAR": {
+        "HITECHGEAR-EQ": "4433"
+    },
+    "HITECHCORP": {
+        "HITECHCORP-EQ": "15161"
+    },
+    "HITECH": {
+        "HITECH-EQ": "2868"
+    },
+    "HISARMETAL": {
+        "HISARMETAL-EQ": "19322"
+    },
+    "HIRECT": {
+        "HIRECT-EQ": "13890"
+    },
+    "HINDZINC": {
+        "HINDZINC-EQ": "1424"
+    },
+    "HINDWAREAP": {
+        "HINDWAREAP-EQ": "15883"
+    },
+    "HINDUNILVR": {
+        "HINDUNILVR-EQ": "1394"
+    },
+    "HINDPETRO": {
+        "HINDPETRO-EQ": "1406"
+    },
+    "HINDOILEXP": {
+        "HINDOILEXP-EQ": "1403"
+    },
+    "HINDMOTORS": {
+        "HINDMOTORS-EQ": "21676"
+    },
+    "HINDCOPPER": {
+        "HINDCOPPER-EQ": "17939"
+    },
+    "HINDCON": {
+        "HINDCON-EQ": "4920"
+    },
+    "HINDCOMPOS": {
+        "HINDCOMPOS-EQ": "1372"
+    },
+    "HINDALCO": {
+        "HINDALCO-EQ": "1363"
+    },
+    "HIMATSEIDE": {
+        "HIMATSEIDE-EQ": "1360"
+    },
+    "HILTON": {
+        "HILTON-EQ": "14627"
+    },
+    "HIL": {
+        "HIL-EQ": "1455"
+    },
+    "HIKAL": {
+        "HIKAL-EQ": "9668"
+    },
+    "HGS": {
+        "HGS-EQ": "14712"
+    },
+    "HGINFRA": {
+        "HGINFRA-EQ": "1672"
+    },
+    "HFCL": {
+        "HFCL-EQ": "21951"
+    },
+    "HEXATRADEX": {
+        "HEXATRADEX-EQ": "27008"
+    },
+    "HEUBACHIND": {
+        "HEUBACHIND-EQ": "715"
+    },
+    "HESTERBIO": {
+        "HESTERBIO-EQ": "7048"
+    },
+    "HEROMOTOCO": {
+        "HEROMOTOCO-EQ": "1348"
+    },
+    "HERITGFOOD": {
+        "HERITGFOOD-EQ": "4598"
+    },
+    "HERCULES": {
+        "HERCULES-EQ": "15288"
+    },
+    "HERANBA": {
+        "HERANBA-EQ": "2614"
+    },
+    "HEMIPROP": {
+        "HEMIPROP-EQ": "701"
+    },
+    "HEIDELBERG": {
+        "HEIDELBERG-EQ": "2316"
+    },
+    "HEG": {
+        "HEG-EQ": "1336"
+    },
+    "HECPROJECT": {
+        "HECPROJECT-EQ": "7425"
+    },
+    "HEALTHY": {
+        "HEALTHY-EQ": "6297"
+    },
+    "HEADSUP": {
+        "HEADSUP-EQ": "19205"
+    },
+    "HDFCVALUE": {
+        "HDFCVALUE-EQ": "11260"
+    },
+    "HDFCSML250": {
+        "HDFCSML250-EQ": "14233"
+    },
+    "HDFCSILVER": {
+        "HDFCSILVER-EQ": "10876"
+    },
+    "HDFCSENETF": {
+        "HDFCSENETF-EQ": "11593"
+    },
+    "HDFCQUAL": {
+        "HDFCQUAL-EQ": "11255"
+    },
+    "HDFCPVTBAN": {
+        "HDFCPVTBAN-EQ": "12108"
+    },
+    "HDFCNIFIT": {
+        "HDFCNIFIT-EQ": "12101"
+    },
+    "HDFCNIFETF": {
+        "HDFCNIFETF-EQ": "11591"
+    },
+    "HDFCNIF100": {
+        "HDFCNIF100-EQ": "10633"
+    },
+    "HDFCNEXT50": {
+        "HDFCNEXT50-EQ": "10619"
+    },
+    "HDFCMOMENT": {
+        "HDFCMOMENT-EQ": "11538"
+    },
+    "HDFCMID150": {
+        "HDFCMID150-EQ": "14236"
+    },
+    "HDFCMFGETF": {
+        "HDFCMFGETF-EQ": "19543"
+    },
+    "HDFCLOWVOL": {
+        "HDFCLOWVOL-EQ": "11547"
+    },
+    "HDFCLIFE": {
+        "HDFCLIFE-EQ": "467"
+    },
+    "HDFCGROWTH": {
+        "HDFCGROWTH-EQ": "11241"
+    },
+    "HDFCBSE500": {
+        "HDFCBSE500-EQ": "14230"
+    },
+    "HDFCBANK": {
+        "HDFCBANK-EQ": "1333"
+    },
+    "HDFCAMC": {
+        "HDFCAMC-EQ": "4244"
+    },
+    "HDFC": {
+        "HDFC-EQ": "1330"
+    },
+    "HCLTECH": {
+        "HCLTECH-EQ": "7229"
+    },
+    "HCL-INSYS": {
+        "HCL-INSYS-EQ": "1327"
+    },
+    "HCG": {
+        "HCG-EQ": "15555"
+    },
+    "HCC": {
+        "HCC-EQ": "1375"
+    },
+    "HBSL": {
+        "HBSL-EQ": "4116"
+    },
+    "HBLPOWER": {
+        "HBLPOWER-EQ": "13966"
+    },
+    "HBANKETF": {
+        "HBANKETF-EQ": "22433"
+    },
+    "HAVELLS": {
+        "HAVELLS-EQ": "9819"
+    },
+    "HATSUN": {
+        "HATSUN-EQ": "3892"
+    },
+    "HATHWAY": {
+        "HATHWAY-EQ": "18154"
+    },
+    "HARSHA": {
+        "HARSHA-EQ": "11162"
+    },
+    "HARRMALAYA": {
+        "HARRMALAYA-EQ": "1313"
+    },
+    "HARIOMPIPE": {
+        "HARIOMPIPE-EQ": "8968"
+    },
+    "HARDWYN": {
+        "HARDWYN-EQ": "8962"
+    },
+    "HAPPSTMNDS": {
+        "HAPPSTMNDS-EQ": "48"
+    },
+    "HAL": {
+        "HAL-EQ": "2303"
+    },
+    "GVKPIL": {
+        "GVKPIL-EQ": "13226"
+    },
+    "GULPOLY": {
+        "GULPOLY-EQ": "6286"
+    },
+    "GULFPETRO": {
+        "GULFPETRO-EQ": "11581"
+    },
+    "GULFOILLUB": {
+        "GULFOILLUB-EQ": "4391"
+    },
+    "GUJGASLTD": {
+        "GUJGASLTD-EQ": "10599"
+    },
+    "GUJAPOLLO": {
+        "GUJAPOLLO-EQ": "14677"
+    },
+    "GUJALKALI": {
+        "GUJALKALI-EQ": "1267"
+    },
+    "GUFICBIO": {
+        "GUFICBIO-EQ": "11606"
+    },
+    "GTPL": {
+        "GTPL-EQ": "21195"
+    },
+    "GTLINFRA": {
+        "GTLINFRA-EQ": "13745"
+    },
+    "GTL": {
+        "GTL-EQ": "1162"
+    },
+    "GSS": {
+        "GSS-EQ": "15347"
+    },
+    "GSPL": {
+        "GSPL-EQ": "13197"
+    },
+    "GSLSU": {
+        "GSLSU-EQ": "14599"
+    },
+    "GSFC": {
+        "GSFC-EQ": "1247"
+    },
+    "GRWRHITECH": {
+        "GRWRHITECH-EQ": "7982"
+    },
+    "GRSE": {
+        "GRSE-EQ": "5475"
+    },
+    "GRPLTD": {
+        "GRPLTD-EQ": "6543"
+    },
+    "GROBTEA": {
+        "GROBTEA-EQ": "17770"
+    },
+    "GRMOVER": {
+        "GRMOVER-EQ": "10871"
+    },
+    "GRINFRA": {
+        "GRINFRA-EQ": "5054"
+    },
+    "GRINDWELL": {
+        "GRINDWELL-EQ": "13560"
+    },
+    "GREENPOWER": {
+        "GREENPOWER-EQ": "20110"
+    },
+    "GREENPLY": {
+        "GREENPLY-EQ": "3987"
+    },
+    "GREENPANEL": {
+        "GREENPANEL-EQ": "13810"
+    },
+    "GREENLAM": {
+        "GREENLAM-EQ": "6848"
+    },
+    "GREAVESCOT": {
+        "GREAVESCOT-EQ": "1235"
+    },
+    "GRAVITA": {
+        "GRAVITA-EQ": "20534"
+    },
+    "GRAUWEIL": {
+        "GRAUWEIL-EQ": "5200"
+    },
+    "GRASIM": {
+        "GRASIM-EQ": "1232"
+    },
+    "GRAPHITE": {
+        "GRAPHITE-EQ": "592"
+    },
+    "GRANULES": {
+        "GRANULES-EQ": "11872"
+    },
+    "GPTINFRA": {
+        "GPTINFRA-EQ": "17685"
+    },
+    "GPPL": {
+        "GPPL-EQ": "19731"
+    },
+    "GPIL": {
+        "GPIL-EQ": "13409"
+    },
+    "GOYALALUM": {
+        "GOYALALUM-EQ": "11787"
+    },
+    "GOODYEAR": {
+        "GOODYEAR-EQ": "1205"
+    },
+    "GOODLUCK": {
+        "GOODLUCK-EQ": "6125"
+    },
+    "GOLDTECH": {
+        "GOLDTECH-EQ": "9874"
+    },
+    "GOLDSHARE": {
+        "GOLDSHARE-EQ": "14535"
+    },
+    "GOLDIAM": {
+        "GOLDIAM-EQ": "11971"
+    },
+    "GOLDBEES": {
+        "GOLDBEES-EQ": "14428"
+    },
+    "GOKULAGRO": {
+        "GOKULAGRO-EQ": "14480"
+    },
+    "GOKUL": {
+        "GOKUL-EQ": "16705"
+    },
+    "GOKEX": {
+        "GOKEX-EQ": "11778"
+    },
+    "GODREJPROP": {
+        "GODREJPROP-EQ": "17875"
+    },
+    "GODREJIND": {
+        "GODREJIND-EQ": "10925"
+    },
+    "GODREJCP": {
+        "GODREJCP-EQ": "10099"
+    },
+    "GODREJAGRO": {
+        "GODREJAGRO-EQ": "144"
+    },
+    "GODHA": {
+        "GODHA-EQ": "1607"
+    },
+    "GODFRYPHLP": {
+        "GODFRYPHLP-EQ": "1181"
+    },
+    "GOCOLORS": {
+        "GOCOLORS-EQ": "6964"
+    },
+    "GOCLCORP": {
+        "GOCLCORP-EQ": "3963"
+    },
+    "GOACARBON": {
+        "GOACARBON-EQ": "14687"
+    },
+    "GNFC": {
+        "GNFC-EQ": "1174"
+    },
+    "GNA": {
+        "GNA-EQ": "18571"
+    },
+    "GMRP&UI": {
+        "GMRP&UI-EQ": "8529"
+    },
+    "GMRINFRA": {
+        "GMRINFRA-EQ": "13528"
+    },
+    "GMMPFAUDLR": {
+        "GMMPFAUDLR-EQ": "1570"
+    },
+    "GMDCLTD": {
+        "GMDCLTD-EQ": "5204"
+    },
+    "GMBREW": {
+        "GMBREW-EQ": "1168"
+    },
+    "GLS": {
+        "GLS-EQ": "5265"
+    },
+    "GLOBUSSPR": {
+        "GLOBUSSPR-EQ": "17424"
+    },
+    "GLOBE": {
+        "GLOBE-EQ": "393"
+    },
+    "GLOBALVECT": {
+        "GLOBALVECT-EQ": "13735"
+    },
+    "GLOBAL": {
+        "GLOBAL-EQ": "1415"
+    },
+    "GLFL": {
+        "GLFL-EQ": "1156"
+    },
+    "GLENMARK": {
+        "GLENMARK-EQ": "7406"
+    },
+    "GLAXO": {
+        "GLAXO-EQ": "1153"
+    },
+    "GLAND": {
+        "GLAND-EQ": "1186"
+    },
+    "GKWLIMITED": {
+        "GKWLIMITED-EQ": "17357"
+    },
+    "GIPCL": {
+        "GIPCL-EQ": "1145"
+    },
+    "GINNIFILA": {
+        "GINNIFILA-EQ": "1142"
+    },
+    "GILT5YBEES": {
+        "GILT5YBEES-EQ": "3172"
+    },
+    "GILLETTE": {
+        "GILLETTE-EQ": "1576"
+    },
+    "GILLANDERS": {
+        "GILLANDERS-EQ": "17839"
+    },
+    "GICRE": {
+        "GICRE-EQ": "277"
+    },
+    "GICHSGFIN": {
+        "GICHSGFIN-EQ": "1139"
+    },
+    "GHCL": {
+        "GHCL-EQ": "1127"
+    },
+    "GFLLIMITED": {
+        "GFLLIMITED-EQ": "1289"
+    },
+    "GESHIP": {
+        "GESHIP-EQ": "13776"
+    },
+    "GEPIL": {
+        "GEPIL-EQ": "7862"
+    },
+    "GEOJITFSL": {
+        "GEOJITFSL-EQ": "11896"
+    },
+    "GENUSPOWER": {
+        "GENUSPOWER-EQ": "11905"
+    },
+    "GENUSPAPER": {
+        "GENUSPAPER-EQ": "6600"
+    },
+    "GENESYS": {
+        "GENESYS-EQ": "10905"
+    },
+    "GENCON": {
+        "GENCON-EQ": "2188"
+    },
+    "GEEKAYWIRE": {
+        "GEEKAYWIRE-EQ": "17922"
+    },
+    "GEECEE": {
+        "GEECEE-EQ": "13658"
+    },
+    "GATI": {
+        "GATI-EQ": "13688"
+    },
+    "GATEWAY": {
+        "GATEWAY-EQ": "8510"
+    },
+    "GARFIBRES": {
+        "GARFIBRES-EQ": "1100"
+    },
+    "GANGESSECU": {
+        "GANGESSECU-EQ": "21399"
+    },
+    "GANGAFORGE": {
+        "GANGAFORGE-EQ": "4957"
+    },
+    "GANESHHOUC": {
+        "GANESHHOUC-EQ": "14339"
+    },
+    "GANESHBE": {
+        "GANESHBE-EQ": "5614"
+    },
+    "GANECOS": {
+        "GANECOS-EQ": "6944"
+    },
+    "GANDHITUBE": {
+        "GANDHITUBE-EQ": "14116"
+    },
+    "GALLANTT": {
+        "GALLANTT-EQ": "13337"
+    },
+    "GALAXYSURF": {
+        "GALAXYSURF-EQ": "1315"
+    },
+    "GAL": {
+        "GAL-EQ": "20296"
+    },
+    "GAIL": {
+        "GAIL-EQ": "4717"
+    },
+    "GAEL": {
+        "GAEL-EQ": "8828"
+    },
+    "GABRIEL": {
+        "GABRIEL-EQ": "1085"
+    },
+    "G1NSETEST": {
+        "G1NSETEST-EQ": "12842"
+    },
+    "FUSION": {
+        "FUSION-EQ": "11932"
+    },
+    "FSL": {
+        "FSL-EQ": "14304"
+    },
+    "FOSECOIND": {
+        "FOSECOIND-EQ": "1073"
+    },
+    "FORTIS": {
+        "FORTIS-EQ": "14592"
+    },
+    "FORCEMOT": {
+        "FORCEMOT-EQ": "11573"
+    },
+    "FOODSIN": {
+        "FOODSIN-EQ": "6673"
+    },
+    "FOCUS": {
+        "FOCUS-EQ": "6836"
+    },
+    "FMNL": {
+        "FMNL-EQ": "21017"
+    },
+    "FMGOETZE": {
+        "FMGOETZE-EQ": "1190"
+    },
+    "FLUOROCHEM": {
+        "FLUOROCHEM-EQ": "13750"
+    },
+    "FLEXITUFF": {
+        "FLEXITUFF-EQ": "25512"
+    },
+    "FIVESTAR": {
+        "FIVESTAR-EQ": "12032"
+    },
+    "FINPIPE": {
+        "FINPIPE-EQ": "1041"
+    },
+    "FINOPB": {
+        "FINOPB-EQ": "6579"
+    },
+    "FINEORG": {
+        "FINEORG-EQ": "3744"
+    },
+    "FINCABLES": {
+        "FINCABLES-EQ": "1038"
+    },
+    "FILATEX": {
+        "FILATEX-EQ": "24532"
+    },
+    "FIEMIND": {
+        "FIEMIND-EQ": "13710"
+    },
+    "FIBERWEB": {
+        "FIBERWEB-EQ": "8159"
+    },
+    "FEDERALBNK": {
+        "FEDERALBNK-EQ": "1023"
+    },
+    "FDC": {
+        "FDC-EQ": "4898"
+    },
+    "FCSSOFT": {
+        "FCSSOFT-EQ": "11999"
+    },
+    "FCL": {
+        "FCL-EQ": "6198"
+    },
+    "FAZE3Q": {
+        "FAZE3Q-EQ": "12000"
+    },
+    "FAIRCHEMOR": {
+        "FAIRCHEMOR-EQ": "1614"
+    },
+    "FACT": {
+        "FACT-EQ": "1008"
+    },
+    "EXXARO": {
+        "EXXARO-EQ": "5352"
+    },
+    "EXPLEOSOL": {
+        "EXPLEOSOL-EQ": "17486"
+    },
+    "EXIDEIND": {
+        "EXIDEIND-EQ": "676"
+    },
+    "EXCELINDUS": {
+        "EXCELINDUS-EQ": "11471"
+    },
+    "EXCEL": {
+        "EXCEL-EQ": "17376"
+    },
+    "EVERESTIND": {
+        "EVERESTIND-EQ": "993"
+    },
+    "EVEREADY": {
+        "EVEREADY-EQ": "11782"
+    },
+    "EUROTEXIND": {
+        "EUROTEXIND-EQ": "999"
+    },
+    "ETHOSLTD": {
+        "ETHOSLTD-EQ": "9750"
+    },
+    "ESTER": {
+        "ESTER-EQ": "24265"
+    },
+    "ESSENTIA": {
+        "ESSENTIA-EQ": "30323"
+    },
+    "ESSARSHPNG": {
+        "ESSARSHPNG-EQ": "25634"
+    },
+    "ESCORTS": {
+        "ESCORTS-EQ": "958"
+    },
+    "ESABINDIA": {
+        "ESABINDIA-EQ": "955"
+    },
+    "EROSMEDIA": {
+        "EROSMEDIA-EQ": "20080"
+    },
+    "ERIS": {
+        "ERIS-EQ": "21154"
+    },
+    "EQUITASBNK": {
+        "EQUITASBNK-EQ": "913"
+    },
+    "EPL": {
+        "EPL-EQ": "981"
+    },
+    "ENIL": {
+        "ENIL-EQ": "13192"
+    },
+    "ENGINERSIN": {
+        "ENGINERSIN-EQ": "4907"
+    },
+    "ENERGYDEV": {
+        "ENERGYDEV-EQ": "15049"
+    },
+    "ENDURANCE": {
+        "ENDURANCE-EQ": "18822"
+    },
+    "EMUDHRA": {
+        "EMUDHRA-EQ": "9756"
+    },
+    "EMMBI": {
+        "EMMBI-EQ": "18142"
+    },
+    "EMKAY": {
+        "EMKAY-EQ": "13421"
+    },
+    "EMIL": {
+        "EMIL-EQ": "11530"
+    },
+    "EMAMIREAL": {
+        "EMAMIREAL-EQ": "19277"
+    },
+    "EMAMIPAP": {
+        "EMAMIPAP-EQ": "10074"
+    },
+    "EMAMILTD": {
+        "EMAMILTD-EQ": "13517"
+    },
+    "ELIN": {
+        "ELIN-EQ": "13423"
+    },
+    "ELGIRUBCO": {
+        "ELGIRUBCO-EQ": "24924"
+    },
+    "ELGIEQUIP": {
+        "ELGIEQUIP-EQ": "937"
+    },
+    "ELECTHERM": {
+        "ELECTHERM-EQ": "4469"
+    },
+    "ELECTCAST": {
+        "ELECTCAST-EQ": "928"
+    },
+    "ELECON": {
+        "ELECON-EQ": "13643"
+    },
+    "ELDEHSG": {
+        "ELDEHSG-EQ": "8953"
+    },
+    "EKC": {
+        "EKC-EQ": "13091"
+    },
+    "EIHOTEL": {
+        "EIHOTEL-EQ": "919"
+    },
+    "EIHAHOTELS": {
+        "EIHAHOTELS-EQ": "15399"
+    },
+    "EIFFL": {
+        "EIFFL-EQ": "6040"
+    },
+    "EIDPARRY": {
+        "EIDPARRY-EQ": "916"
+    },
+    "EICHERMOT": {
+        "EICHERMOT-EQ": "910"
+    },
+    "EDELWEISS": {
+        "EDELWEISS-EQ": "15119"
+    },
+    "ECLERX": {
+        "ECLERX-EQ": "15179"
+    },
+    "EBBETF0433": {
+        "EBBETF0433-EQ": "13139"
+    },
+    "EBBETF0431": {
+        "EBBETF0431-EQ": "22239"
+    },
+    "EBBETF0430": {
+        "EBBETF0430-EQ": "16253"
+    },
+    "EBBETF0425": {
+        "EBBETF0425-EQ": "22243"
+    },
+    "EBANK": {
+        "EBANK-EQ": "11625"
+    },
+    "EASEMYTRIP": {
+        "EASEMYTRIP-EQ": "2792"
+    },
+    "E2E": {
+        "E2E-EQ": "8937"
+    },
+    "DYNPRO": {
+        "DYNPRO-EQ": "21314"
+    },
+    "DYNAMATECH": {
+        "DYNAMATECH-EQ": "4525"
+    },
+    "DYCL": {
+        "DYCL-EQ": "10417"
+    },
+    "DWARKESH": {
+        "DWARKESH-EQ": "11667"
+    },
+    "DVL": {
+        "DVL-EQ": "15214"
+    },
+    "DUCON": {
+        "DUCON-EQ": "28952"
+    },
+    "DTIL": {
+        "DTIL-EQ": "6227"
+    },
+    "DSSL": {
+        "DSSL-EQ": "25690"
+    },
+    "DSPSILVETF": {
+        "DSPSILVETF-EQ": "10761"
+    },
+    "DSPQ50ETF": {
+        "DSPQ50ETF-EQ": "7456"
+    },
+    "DSPNEWETF": {
+        "DSPNEWETF-EQ": "6606"
+    },
+    "DSPN50ETF": {
+        "DSPN50ETF-EQ": "7451"
+    },
+    "DSPGOLDETF": {
+        "DSPGOLDETF-EQ": "15356"
+    },
+    "DSPBANKETF": {
+        "DSPBANKETF-EQ": "13644"
+    },
+    "DRREDDY": {
+        "DRREDDY-EQ": "881"
+    },
+    "DREDGECORP": {
+        "DREDGECORP-EQ": "11271"
+    },
+    "DREAMFOLKS": {
+        "DREAMFOLKS-EQ": "10859"
+    },
+    "DRCSYSTEMS": {
+        "DRCSYSTEMS-EQ": "2645"
+    },
+    "DPWIRES": {
+        "DPWIRES-EQ": "16900"
+    },
+    "DPSCLTD": {
+        "DPSCLTD-EQ": "15419"
+    },
+    "DPABHUSHAN": {
+        "DPABHUSHAN-EQ": "936"
+    },
+    "DONEAR": {
+        "DONEAR-EQ": "13839"
+    },
+    "DOLLAR": {
+        "DOLLAR-EQ": "20560"
+    },
+    "DOLATALGO": {
+        "DOLATALGO-EQ": "12124"
+    },
+    "DODLA": {
+        "DODLA-EQ": "4822"
+    },
+    "DNAMEDIA": {
+        "DNAMEDIA-EQ": "641"
+    },
+    "DMCC": {
+        "DMCC-EQ": "6973"
+    },
+    "DMART": {
+        "DMART-EQ": "19913"
+    },
+    "DLINKINDIA": {
+        "DLINKINDIA-EQ": "17851"
+    },
+    "DLF": {
+        "DLF-EQ": "14732"
+    },
+    "DJML": {
+        "DJML-EQ": "12749"
+    },
+    "DIXON": {
+        "DIXON-EQ": "21690"
+    },
+    "DIVOPPBEES": {
+        "DIVOPPBEES-EQ": "2636"
+    },
+    "DIVISLAB": {
+        "DIVISLAB-EQ": "10940"
+    },
+    "DIVGIITTS": {
+        "DIVGIITTS-EQ": "14479"
+    },
+    "DISHTV": {
+        "DISHTV-EQ": "14537"
+    },
+    "DIL": {
+        "DIL-EQ": "8657"
+    },
+    "DIGISPICE": {
+        "DIGISPICE-EQ": "16683"
+    },
+    "DICIND": {
+        "DICIND-EQ": "703"
+    },
+    "DIAMONDYD": {
+        "DIAMONDYD-EQ": "21840"
+    },
+    "DHUNINV": {
+        "DHUNINV-EQ": "22233"
+    },
+    "DHRUV": {
+        "DHRUV-EQ": "6858"
+    },
+    "DHARMAJ": {
+        "DHARMAJ-EQ": "13001"
+    },
+    "DHANUKA": {
+        "DHANUKA-EQ": "24409"
+    },
+    "DHANI": {
+        "DHANI-EQ": "15384"
+    },
+    "DHANBANK": {
+        "DHANBANK-EQ": "11359"
+    },
+    "DHAMPURSUG": {
+        "DHAMPURSUG-EQ": "857"
+    },
+    "DGCONTENT": {
+        "DGCONTENT-EQ": "10346"
+    },
+    "DEVYANI": {
+        "DEVYANI-EQ": "5373"
+    },
+    "DEVIT": {
+        "DEVIT-EQ": "8146"
+    },
+    "DENORA": {
+        "DENORA-EQ": "4279"
+    },
+    "DEN": {
+        "DEN-EQ": "17722"
+    },
+    "DELTAMAGNT": {
+        "DELTAMAGNT-EQ": "1214"
+    },
+    "DELTACORP": {
+        "DELTACORP-EQ": "15044"
+    },
+    "DELPHIFX": {
+        "DELPHIFX-EQ": "24391"
+    },
+    "DELHIVERY": {
+        "DELHIVERY-EQ": "9599"
+    },
+    "DEEPINDS": {
+        "DEEPINDS-EQ": "3292"
+    },
+    "DEEPENR": {
+        "DEEPENR-EQ": "18244"
+    },
+    "DEEPAKNTR": {
+        "DEEPAKNTR-EQ": "19943"
+    },
+    "DEEPAKFERT": {
+        "DEEPAKFERT-EQ": "827"
+    },
+    "DECCANCE": {
+        "DECCANCE-EQ": "14838"
+    },
+    "DCXINDIA": {
+        "DCXINDIA-EQ": "11895"
+    },
+    "DCW": {
+        "DCW-EQ": "817"
+    },
+    "DCMSRIND": {
+        "DCMSRIND-EQ": "7325"
+    },
+    "DCMSHRIRAM": {
+        "DCMSHRIRAM-EQ": "811"
+    },
+    "DCMNVL": {
+        "DCMNVL-EQ": "11039"
+    },
+    "DCMFINSERV": {
+        "DCMFINSERV-EQ": "4775"
+    },
+    "DCM": {
+        "DCM-EQ": "805"
+    },
+    "DCI": {
+        "DCI-EQ": "11566"
+    },
+    "DCBBANK": {
+        "DCBBANK-EQ": "13725"
+    },
+    "DCAL": {
+        "DCAL-EQ": "21704"
+    },
+    "DBSTOCKBRO": {
+        "DBSTOCKBRO-EQ": "31107"
+    },
+    "DBREALTY": {
+        "DBREALTY-EQ": "18124"
+    },
+    "DBOL": {
+        "DBOL-EQ": "10893"
+    },
+    "DBL": {
+        "DBL-EQ": "18086"
+    },
+    "DBCORP": {
+        "DBCORP-EQ": "17881"
+    },
+    "DATAPATTNS": {
+        "DATAPATTNS-EQ": "7358"
+    },
+    "DATAMATICS": {
+        "DATAMATICS-EQ": "11423"
+    },
+    "DANGEE": {
+        "DANGEE-EQ": "1110"
+    },
+    "DAMODARIND": {
+        "DAMODARIND-EQ": "17541"
+    },
+    "DALMIASUG": {
+        "DALMIASUG-EQ": "781"
+    },
+    "DALBHARAT": {
+        "DALBHARAT-EQ": "8075"
+    },
+    "DABUR": {
+        "DABUR-EQ": "772"
+    },
+    "DAAWAT": {
+        "DAAWAT-EQ": "13816"
+    },
+    "CYIENT": {
+        "CYIENT-EQ": "5748"
+    },
+    "CYBERTECH": {
+        "CYBERTECH-EQ": "6051"
+    },
+    "CYBERMEDIA": {
+        "CYBERMEDIA-EQ": "11842"
+    },
+    "CUPID": {
+        "CUPID-EQ": "18520"
+    },
+    "CUMMINSIND": {
+        "CUMMINSIND-EQ": "1901"
+    },
+    "CUB": {
+        "CUB-EQ": "5701"
+    },
+    "CTE": {
+        "CTE-EQ": "14218"
+    },
+    "CSLFINANCE": {
+        "CSLFINANCE-EQ": "10350"
+    },
+    "CSBBANK": {
+        "CSBBANK-EQ": "14966"
+    },
+    "CROWN": {
+        "CROWN-EQ": "8083"
+    },
+    "CROMPTON": {
+        "CROMPTON-EQ": "17094"
+    },
+    "CRISIL": {
+        "CRISIL-EQ": "757"
+    },
+    "CREST": {
+        "CREST-EQ": "13900"
+    },
+    "CREDITACC": {
+        "CREDITACC-EQ": "4421"
+    },
+    "CREATIVEYE": {
+        "CREATIVEYE-EQ": "9384"
+    },
+    "CREATIVE": {
+        "CREATIVE-EQ": "11155"
+    },
+    "CRAFTSMAN": {
+        "CRAFTSMAN-EQ": "2854"
+    },
+    "CPSEETF": {
+        "CPSEETF-EQ": "2328"
+    },
+    "COUNCODOS": {
+        "COUNCODOS-EQ": "16986"
+    },
+    "COSMOFIRST": {
+        "COSMOFIRST-EQ": "742"
+    },
+    "COROMANDEL": {
+        "COROMANDEL-EQ": "739"
+    },
+    "CORDSCABLE": {
+        "CORDSCABLE-EQ": "15271"
+    },
+    "CORALFINAC": {
+        "CORALFINAC-EQ": "4007"
+    },
+    "CONTROLPR": {
+        "CONTROLPR-EQ": "17477"
+    },
+    "CONSUMBEES": {
+        "CONSUMBEES-EQ": "2435"
+    },
+    "CONSOFINVT": {
+        "CONSOFINVT-EQ": "11731"
+    },
+    "CONFIPET": {
+        "CONFIPET-EQ": "10238"
+    },
+    "CONCOR": {
+        "CONCOR-EQ": "4749"
+    },
+    "COMPUSOFT": {
+        "COMPUSOFT-EQ": "31138"
+    },
+    "COMPINFO": {
+        "COMPINFO-EQ": "17632"
+    },
+    "COLPAL": {
+        "COLPAL-EQ": "15141"
+    },
+    "COFORGE": {
+        "COFORGE-EQ": "11543"
+    },
+    "COFFEEDAY": {
+        "COFFEEDAY-EQ": "11165"
+    },
+    "COCHINSHIP": {
+        "COCHINSHIP-EQ": "21508"
+    },
+    "COASTCORP": {
+        "COASTCORP-EQ": "6006"
+    },
+    "COALINDIA": {
+        "COALINDIA-EQ": "20374"
+    },
+    "CMSINFO": {
+        "CMSINFO-EQ": "7603"
+    },
+    "CLSEL": {
+        "CLSEL-EQ": "3482"
+    },
+    "CLEDUCATE": {
+        "CLEDUCATE-EQ": "20223"
+    },
+    "CLEAN": {
+        "CLEAN-EQ": "5049"
+    },
+    "CIPLA": {
+        "CIPLA-EQ": "694"
+    },
+    "CINEVISTA": {
+        "CINEVISTA-EQ": "8024"
+    },
+    "CINELINE": {
+        "CINELINE-EQ": "27161"
+    },
+    "CIGNITITEC": {
+        "CIGNITITEC-EQ": "5142"
+    },
+    "CHOLAHLDNG": {
+        "CHOLAHLDNG-EQ": "21740"
+    },
+    "CHOLAFIN": {
+        "CHOLAFIN-EQ": "685"
+    },
+    "CHOICEIN": {
+        "CHOICEIN-EQ": "8866"
+    },
+    "CHEVIOT": {
+        "CHEVIOT-EQ": "9879"
+    },
+    "CHENNPETRO": {
+        "CHENNPETRO-EQ": "2049"
+    },
+    "CHEMPLASTS": {
+        "CHEMPLASTS-EQ": "5449"
+    },
+    "CHEMFAB": {
+        "CHEMFAB-EQ": "2799"
+    },
+    "CHEMCON": {
+        "CHEMCON-EQ": "270"
+    },
+    "CHEMBOND": {
+        "CHEMBOND-EQ": "14618"
+    },
+    "CHAMBLFERT": {
+        "CHAMBLFERT-EQ": "637"
+    },
+    "CHALET": {
+        "CHALET-EQ": "8546"
+    },
+    "CGPOWER": {
+        "CGPOWER-EQ": "760"
+    },
+    "CGCL": {
+        "CGCL-EQ": "20329"
+    },
+    "CESC": {
+        "CESC-EQ": "628"
+    },
+    "CEREBRAINT": {
+        "CEREBRAINT-EQ": "30012"
+    },
+    "CERA": {
+        "CERA-EQ": "15039"
+    },
+    "CENTURYTEX": {
+        "CENTURYTEX-EQ": "625"
+    },
+    "CENTURYPLY": {
+        "CENTURYPLY-EQ": "13305"
+    },
+    "CENTUM": {
+        "CENTUM-EQ": "14982"
+    },
+    "CENTRUM": {
+        "CENTRUM-EQ": "2454"
+    },
+    "CENTRALBK": {
+        "CENTRALBK-EQ": "14894"
+    },
+    "CENTEXT": {
+        "CENTEXT-EQ": "11511"
+    },
+    "CENTENKA": {
+        "CENTENKA-EQ": "619"
+    },
+    "CELEBRITY": {
+        "CELEBRITY-EQ": "13162"
+    },
+    "CEATLTD": {
+        "CEATLTD-EQ": "15254"
+    },
+    "CDSL": {
+        "CDSL-EQ": "21174"
+    },
+    "CCL": {
+        "CCL-EQ": "11452"
+    },
+    "CCHHL": {
+        "CCHHL-EQ": "6385"
+    },
+    "CASTROLIND": {
+        "CASTROLIND-EQ": "1250"
+    },
+    "CARYSIL": {
+        "CARYSIL-EQ": "1879"
+    },
+    "CARTRADE": {
+        "CARTRADE-EQ": "5407"
+    },
+    "CARERATING": {
+        "CARERATING-EQ": "29113"
+    },
+    "CAREERP": {
+        "CAREERP-EQ": "20086"
+    },
+    "CARBORUNIV": {
+        "CARBORUNIV-EQ": "595"
+    },
+    "CAPTRUST": {
+        "CAPTRUST-EQ": "19447"
+    },
+    "CAPLIPOINT": {
+        "CAPLIPOINT-EQ": "3906"
+    },
+    "CAPACITE": {
+        "CAPACITE-EQ": "21749"
+    },
+    "CANTABIL": {
+        "CANTABIL-EQ": "20160"
+    },
+    "CANFINHOME": {
+        "CANFINHOME-EQ": "583"
+    },
+    "CANBK": {
+        "CANBK-EQ": "10794"
+    },
+    "CAMS": {
+        "CAMS-EQ": "342"
+    },
+    "CAMPUS": {
+        "CAMPUS-EQ": "9362"
+    },
+    "CAMLINFINE": {
+        "CAMLINFINE-EQ": "6216"
+    },
+    "BYKE": {
+        "BYKE-EQ": "7919"
+    },
+    "BVCL": {
+        "BVCL-EQ": "15073"
+    },
+    "BUTTERFLY": {
+        "BUTTERFLY-EQ": "2716"
+    },
+    "BURNPUR": {
+        "BURNPUR-EQ": "15194"
+    },
+    "BTML": {
+        "BTML-EQ": "14150"
+    },
+    "BSOFT": {
+        "BSOFT-EQ": "6994"
+    },
+    "BSLSENETFG": {
+        "BSLSENETFG-EQ": "5957"
+    },
+    "BSLNIFTY": {
+        "BSLNIFTY-EQ": "24781"
+    },
+    "BSLGOLDETF": {
+        "BSLGOLDETF-EQ": "23804"
+    },
+    "BSL": {
+        "BSL-EQ": "559"
+    },
+    "BSE": {
+        "BSE-EQ": "19585"
+    },
+    "BROOKS": {
+        "BROOKS-EQ": "25136"
+    },
+    "BRNL": {
+        "BRNL-EQ": "21683"
+    },
+    "BRITANNIA": {
+        "BRITANNIA-EQ": "547"
+    },
+    "BRIGADE": {
+        "BRIGADE-EQ": "15184"
+    },
+    "BPL": {
+        "BPL-EQ": "530"
+    },
+    "BPCL": {
+        "BPCL-EQ": "526"
+    },
+    "BOSCHLTD": {
+        "BOSCHLTD-EQ": "2181"
+    },
+    "BORORENEW": {
+        "BORORENEW-EQ": "3149"
+    },
+    "BOROLTD": {
+        "BOROLTD-EQ": "19401"
+    },
+    "BOMDYEING": {
+        "BOMDYEING-EQ": "513"
+    },
+    "BOHRAIND": {
+        "BOHRAIND-EQ": "11640"
+    },
+    "BODALCHEM": {
+        "BODALCHEM-EQ": "25017"
+    },
+    "BLUESTARCO": {
+        "BLUESTARCO-EQ": "8311"
+    },
+    "BLUEDART": {
+        "BLUEDART-EQ": "495"
+    },
+    "BLS": {
+        "BLS-EQ": "17279"
+    },
+    "BLKASHYAP": {
+        "BLKASHYAP-EQ": "13290"
+    },
+    "BLISSGVS": {
+        "BLISSGVS-EQ": "19265"
+    },
+    "BLBLIMITED": {
+        "BLBLIMITED-EQ": "8132"
+    },
+    "BLAL": {
+        "BLAL-EQ": "15067"
+    },
+    "BIRLAMONEY": {
+        "BIRLAMONEY-EQ": "15239"
+    },
+    "BIRLACORPN": {
+        "BIRLACORPN-EQ": "480"
+    },
+    "BIRLACABLE": {
+        "BIRLACABLE-EQ": "477"
+    },
+    "BIOFILCHEM": {
+        "BIOFILCHEM-EQ": "4136"
+    },
+    "BIOCON": {
+        "BIOCON-EQ": "11373"
+    },
+    "BINANIIND": {
+        "BINANIIND-EQ": "13625"
+    },
+    "BIL": {
+        "BIL-EQ": "7848"
+    },
+    "BIKAJI": {
+        "BIKAJI-EQ": "11966"
+    },
+    "BIGBLOC": {
+        "BIGBLOC-EQ": "18431"
+    },
+    "BHEL": {
+        "BHEL-EQ": "438"
+    },
+    "BHARTIARTL": {
+        "BHARTIARTL-EQ": "10604"
+    },
+    "BHARATWIRE": {
+        "BHARATWIRE-EQ": "16123"
+    },
+    "BHARATRAS": {
+        "BHARATRAS-EQ": "3834"
+    },
+    "BHARATGEAR": {
+        "BHARATGEAR-EQ": "426"
+    },
+    "BHARATFORG": {
+        "BHARATFORG-EQ": "422"
+    },
+    "BHANDARI": {
+        "BHANDARI-EQ": "19556"
+    },
+    "BHAGYANGR": {
+        "BHAGYANGR-EQ": "20776"
+    },
+    "BHAGERIA": {
+        "BHAGERIA-EQ": "13400"
+    },
+    "BHAGCHEM": {
+        "BHAGCHEM-EQ": "6164"
+    },
+    "BGRENERGY": {
+        "BGRENERGY-EQ": "15189"
+    },
+    "BFUTILITIE": {
+        "BFUTILITIE-EQ": "14567"
+    },
+    "BFINVEST": {
+        "BFINVEST-EQ": "21113"
+    },
+    "BESTAGRO": {
+        "BESTAGRO-EQ": "2306"
+    },
+    "BERGEPAINT": {
+        "BERGEPAINT-EQ": "404"
+    },
+    "BEPL": {
+        "BEPL-EQ": "419"
+    },
+    "BEML": {
+        "BEML-EQ": "395"
+    },
+    "BEL": {
+        "BEL-EQ": "383"
+    },
+    "BEDMUTHA": {
+        "BEDMUTHA-EQ": "20196"
+    },
+    "BECTORFOOD": {
+        "BECTORFOOD-EQ": "1628"
+    },
+    "BEARDSELL": {
+        "BEARDSELL-EQ": "17933"
+    },
+    "BDL": {
+        "BDL-EQ": "2144"
+    },
+    "BCONCEPTS": {
+        "BCONCEPTS-EQ": "7780"
+    },
+    "BCLIND": {
+        "BCLIND-EQ": "2513"
+    },
+    "BCG": {
+        "BCG-EQ": "8833"
+    },
+    "BBTCL": {
+        "BBTCL-EQ": "12153"
+    },
+    "BBTC": {
+        "BBTC-EQ": "380"
+    },
+    "BBOX": {
+        "BBOX-EQ": "3435"
+    },
+    "BBL": {
+        "BBL-EQ": "13761"
+    },
+    "BBETF0432": {
+        "BBETF0432-EQ": "7196"
+    },
+    "BAYERCROP": {
+        "BAYERCROP-EQ": "17927"
+    },
+    "BATAINDIA": {
+        "BATAINDIA-EQ": "371"
+    },
+    "BASML": {
+        "BASML-EQ": "12034"
+    },
+    "BASF": {
+        "BASF-EQ": "368"
+    },
+    "BARBEQUE": {
+        "BARBEQUE-EQ": "3127"
+    },
+    "BANSWRAS": {
+        "BANSWRAS-EQ": "14511"
+    },
+    "BANKINDIA": {
+        "BANKINDIA-EQ": "4745"
+    },
+    "BANKBEES": {
+        "BANKBEES-EQ": "11439"
+    },
+    "BANKBARODA": {
+        "BANKBARODA-EQ": "4668"
+    },
+    "BANKA": {
+        "BANKA-EQ": "822"
+    },
+    "BANG": {
+        "BANG-EQ": "15303"
+    },
+    "BANDHANBNK": {
+        "BANDHANBNK-EQ": "2263"
+    },
+    "BANCOINDIA": {
+        "BANCOINDIA-EQ": "13880"
+    },
+    "BANARISUG": {
+        "BANARISUG-EQ": "350"
+    },
+    "BANARBEADS": {
+        "BANARBEADS-EQ": "347"
+    },
+    "BALRAMCHIN": {
+        "BALRAMCHIN-EQ": "341"
+    },
+    "BALPHARMA": {
+        "BALPHARMA-EQ": "13441"
+    },
+    "BALMLAWRIE": {
+        "BALMLAWRIE-EQ": "338"
+    },
+    "BALKRISIND": {
+        "BALKRISIND-EQ": "335"
+    },
+    "BALKRISHNA": {
+        "BALKRISHNA-EQ": "10181"
+    },
+    "BALAXI": {
+        "BALAXI-EQ": "11309"
+    },
+    "BALAMINES": {
+        "BALAMINES-EQ": "14501"
+    },
+    "BALAJITELE": {
+        "BALAJITELE-EQ": "9158"
+    },
+    "BAJFINANCE": {
+        "BAJFINANCE-EQ": "317"
+    },
+    "BAJAJHLDNG": {
+        "BAJAJHLDNG-EQ": "305"
+    },
+    "BAJAJHIND": {
+        "BAJAJHIND-EQ": "308"
+    },
+    "BAJAJHCARE": {
+        "BAJAJHCARE-EQ": "6863"
+    },
+    "BAJAJFINSV": {
+        "BAJAJFINSV-EQ": "16675"
+    },
+    "BAJAJELEC": {
+        "BAJAJELEC-EQ": "15034"
+    },
+    "BAJAJCON": {
+        "BAJAJCON-EQ": "19531"
+    },
+    "BAJAJ-AUTO": {
+        "BAJAJ-AUTO-EQ": "16669"
+    },
+    "BAIDFIN": {
+        "BAIDFIN-EQ": "13794"
+    },
+    "BAGFILMS": {
+        "BAGFILMS-EQ": "11226"
+    },
+    "AYMSYNTEX": {
+        "AYMSYNTEX-EQ": "10285"
+    },
+    "AXSENSEX": {
+        "AXSENSEX-EQ": "14742"
+    },
+    "AXITA": {
+        "AXITA-EQ": "9902"
+    },
+    "AXISTECETF": {
+        "AXISTECETF-EQ": "3010"
+    },
+    "AXISNIFTY": {
+        "AXISNIFTY-EQ": "21252"
+    },
+    "AXISILVER": {
+        "AXISILVER-EQ": "11193"
+    },
+    "AXISHCETF": {
+        "AXISHCETF-EQ": "3608"
+    },
+    "AXISGOLD": {
+        "AXISGOLD-EQ": "20532"
+    },
+    "AXISCETF": {
+        "AXISCETF-EQ": "5732"
+    },
+    "AXISCADES": {
+        "AXISCADES-EQ": "9436"
+    },
+    "AXISBPSETF": {
+        "AXISBPSETF-EQ": "3530"
+    },
+    "AXISBNKETF": {
+        "AXISBNKETF-EQ": "1044"
+    },
+    "AXISBANK": {
+        "AXISBANK-EQ": "5900"
+    },
+    "AWL": {
+        "AWL-EQ": "8110"
+    },
+    "AWHCL": {
+        "AWHCL-EQ": "1797"
+    },
+    "AVTNPL": {
+        "AVTNPL-EQ": "14008"
+    },
+    "AVROIND": {
+        "AVROIND-EQ": "8827"
+    },
+    "AVONMORE": {
+        "AVONMORE-EQ": "13557"
+    },
+    "AVG": {
+        "AVG-EQ": "15589"
+    },
+    "AVANTIFEED": {
+        "AVANTIFEED-EQ": "7936"
+    },
+    "AVALON": {
+        "AVALON-EQ": "15058"
+    },
+    "AVADHSUGAR": {
+        "AVADHSUGAR-EQ": "21406"
+    },
+    "AUTOIND": {
+        "AUTOIND-EQ": "14106"
+    },
+    "AUTOBEES": {
+        "AUTOBEES-EQ": "7880"
+    },
+    "AUTOAXLES": {
+        "AUTOAXLES-EQ": "278"
+    },
+    "AUSOMENT": {
+        "AUSOMENT-EQ": "4037"
+    },
+    "AURUM": {
+        "AURUM-EQ": "10310"
+    },
+    "AUROPHARMA": {
+        "AUROPHARMA-EQ": "275"
+    },
+    "AUBANK": {
+        "AUBANK-EQ": "21238"
+    },
+    "ATULAUTO": {
+        "ATULAUTO-EQ": "30023"
+    },
+    "ATUL": {
+        "ATUL-EQ": "263"
+    },
+    "ATLANTA": {
+        "ATLANTA-EQ": "13585"
+    },
+    "ATGL": {
+        "ATGL-EQ": "6066"
+    },
+    "ATFL": {
+        "ATFL-EQ": "1663"
+    },
+    "ATALREAL": {
+        "ATALREAL-EQ": "15649"
+    },
+    "ASTRON": {
+        "ASTRON-EQ": "874"
+    },
+    "ASTRAZEN": {
+        "ASTRAZEN-EQ": "5610"
+    },
+    "ASTRAMICRO": {
+        "ASTRAMICRO-EQ": "11618"
+    },
+    "ASTRAL": {
+        "ASTRAL-EQ": "14418"
+    },
+    "ASTERDM": {
+        "ASTERDM-EQ": "1508"
+    },
+    "ASTEC": {
+        "ASTEC-EQ": "17728"
+    },
+    "ASPINWALL": {
+        "ASPINWALL-EQ": "17270"
+    },
+    "ASIANTILES": {
+        "ASIANTILES-EQ": "14889"
+    },
+    "ASIANPAINT": {
+        "ASIANPAINT-EQ": "236"
+    },
+    "ASIANHOTNR": {
+        "ASIANHOTNR-EQ": "18422"
+    },
+    "ASIANENE": {
+        "ASIANENE-EQ": "7030"
+    },
+    "ASHOKLEY": {
+        "ASHOKLEY-EQ": "212"
+    },
+    "ASHOKA": {
+        "ASHOKA-EQ": "20182"
+    },
+    "ASHIMASYN": {
+        "ASHIMASYN-EQ": "206"
+    },
+    "ASHIANA": {
+        "ASHIANA-EQ": "24403"
+    },
+    "ASHAPURMIN": {
+        "ASHAPURMIN-EQ": "203"
+    },
+    "ASALCBR": {
+        "ASALCBR-EQ": "17598"
+    },
+    "ASAL": {
+        "ASAL-EQ": "10634"
+    },
+    "ASAHISONG": {
+        "ASAHISONG-EQ": "25088"
+    },
+    "ASAHIINDIA": {
+        "ASAHIINDIA-EQ": "5378"
+    },
+    "ARVSMART": {
+        "ARVSMART-EQ": "10457"
+    },
+    "ARVINDFASN": {
+        "ARVINDFASN-EQ": "9111"
+    },
+    "ARVIND": {
+        "ARVIND-EQ": "193"
+    },
+    "ARVEE": {
+        "ARVEE-EQ": "2814"
+    },
+    "ARTNIRMAN": {
+        "ARTNIRMAN-EQ": "6156"
+    },
+    "ARTEMISMED": {
+        "ARTEMISMED-EQ": "16913"
+    },
+    "ARSHIYA": {
+        "ARSHIYA-EQ": "17821"
+    },
+    "ARROWGREEN": {
+        "ARROWGREEN-EQ": "9260"
+    },
+    "AROGRANITE": {
+        "AROGRANITE-EQ": "14557"
+    },
+    "ARMANFIN": {
+        "ARMANFIN-EQ": "17263"
+    },
+    "ARIHANTSUP": {
+        "ARIHANTSUP-EQ": "20159"
+    },
+    "ARIHANTCAP": {
+        "ARIHANTCAP-EQ": "3813"
+    },
+    "ARIES": {
+        "ARIES-EQ": "15204"
+    },
+    "ARENTERP": {
+        "ARENTERP-EQ": "181"
+    },
+    "ARCHIES": {
+        "ARCHIES-EQ": "5688"
+    },
+    "ARCHIDPLY": {
+        "ARCHIDPLY-EQ": "16795"
+    },
+    "APTUS": {
+        "APTUS-EQ": "5435"
+    },
+    "APTECHT": {
+        "APTECHT-EQ": "10755"
+    },
+    "APOLSINHOT": {
+        "APOLSINHOT-EQ": "6302"
+    },
+    "APOLLOTYRE": {
+        "APOLLOTYRE-EQ": "163"
+    },
+    "APOLLOPIPE": {
+        "APOLLOPIPE-EQ": "14361"
+    },
+    "APOLLOHOSP": {
+        "APOLLOHOSP-EQ": "157"
+    },
+    "APOLLO": {
+        "APOLLO-EQ": "1134"
+    },
+    "APLLTD": {
+        "APLLTD-EQ": "25328"
+    },
+    "APLAPOLLO": {
+        "APLAPOLLO-EQ": "25780"
+    },
+    "APEX": {
+        "APEX-EQ": "21623"
+    },
+    "APCOTEXIND": {
+        "APCOTEXIND-EQ": "154"
+    },
+    "APCL": {
+        "APCL-EQ": "20453"
+    },
+    "APARINDS": {
+        "APARINDS-EQ": "11491"
+    },
+    "ANURAS": {
+        "ANURAS-EQ": "2829"
+    },
+    "ANUP": {
+        "ANUP-EQ": "9014"
+    },
+    "ANTGRAPHIC": {
+        "ANTGRAPHIC-EQ": "5194"
+    },
+    "PAVNAIND": {
+        "PAVNAIND-EQ": "16192"
+    },
+    "KAVVERITEL": {
+        "KAVVERITEL-EQ": "15244"
+    },
+    "KPIL": {
+        "KPIL-EQ": "1814"
+    },
+    "SIGMA": {
+        "SIGMA-EQ": "16658"
+    },
+    "PTCIL": {
+        "PTCIL-EQ": "16682"
+    },
+    "S&SPOWER": {
+        "S&SPOWER-EQ": "2951"
+    },
+    "RADAAN": {
+        "RADAAN-EQ": "10932"
+    },
+    "INFOMEDIA": {
+        "INFOMEDIA-EQ": "13693"
+    },
+    "GAYAHWS": {
+        "GAYAHWS-EQ": "3693"
+    },
+    "BLUECOAST": {
+        "BLUECOAST-EQ": "7480"
+    },
+    "MKPL": {
+        "MKPL-EQ": "16736"
+    },
+    "MASILVER": {
+        "MASILVER-EQ": "16777"
+    },
+    "IKIO": {
+        "IKIO-EQ": "16822"
+    },
+    "HDFCSENSEX": {
+        "HDFCSENSEX-EQ": "11593"
+    },
+    "HDFCNIFTY": {
+        "HDFCNIFTY-EQ": "11591"
+    },
+    "HDFCNIFBAN": {
+        "HDFCNIFBAN-EQ": "22433"
+    },
+    "HDFCGOLD": {
+        "HDFCGOLD-EQ": "19543"
+    },
+    "TITAGARH": {
+        "TITAGARH-EQ": "15414"
+    },
+    "CIEINDIA": {
+        "CIEINDIA-EQ": "14937"
+    },
+    "TRU": {
+        "TRU-EQ": "9378"
+    },
+    "SINDHUTRAD": {
+        "SINDHUTRAD-EQ": "16859"
+    },
+    "KEERTI": {
+        "KEERTI-EQ": "1129"
+    },
+    "BLUECHIP": {
+        "BLUECHIP-EQ": "4681"
+    },
+    "GHCLTEXTIL": {
+        "GHCLTEXTIL-EQ": "16696"
+    },
+    "ASHOKAMET": {
+        "ASHOKAMET-EQ": "16943"
+    },
+    "ANMOL": {
+        "ANMOL-EQ": "3727"
+    },
+    "ANIKINDS": {
+        "ANIKINDS-EQ": "16657"
+    },
+    "ANGELONE": {
+        "ANGELONE-EQ": "324"
+    },
+    "SHAH": {
+        "SHAH-EQ": "20296"
+    },
+    "SELMC": {
+        "SELMC-EQ": "6262"
+    },
+    "GENSOL": {
+        "GENSOL-EQ": "17010"
+    },
+    "HMAAGRO": {
+        "HMAAGRO-EQ": "17053"
+    },
+    "URAVI": {
+        "URAVI-EQ": "17071"
+    },
+    "ANDREWYU": {
+        "ANDREWYU-EQ": "5206"
+    },
+    "IDEAFORGE": {
+        "IDEAFORGE-EQ": "17140"
+    },
+    "ANDHRSUGAR": {
+        "ANDHRSUGAR-EQ": "136"
+    },
+    "CYIENTDLM": {
+        "CYIENTDLM-EQ": "17187"
+    },
+    "PAKKA": {
+        "PAKKA-EQ": "17197"
+    },
+    "ANDHRAPAP": {
+        "ANDHRAPAP-EQ": "166"
+    },
+    "ANANTRAJ": {
+        "ANANTRAJ-EQ": "13620"
+    },
+    "ANANDRATHI": {
+        "ANANDRATHI-EQ": "7145"
+    },
+    "AMRUTANJAN": {
+        "AMRUTANJAN-EQ": "17547"
+    },
+    "AMJLAND": {
+        "AMJLAND-EQ": "2598"
+    },
+    "DSPITETF": {
+        "DSPITETF-EQ": "17207"
+    },
+    "SENCO": {
+        "SENCO-EQ": "17271"
+    },
+    "AMIORG": {
+        "AMIORG-EQ": "5578"
+    },
+    "LLOYDSME": {
+        "LLOYDSME-EQ": "17313"
+    },
+    "AMBUJACEM": {
+        "AMBUJACEM-EQ": "1270"
+    },
+    "AMBIKCO": {
+        "AMBIKCO-EQ": "15234"
+    },
+    "AMBER": {
+        "AMBER-EQ": "1185"
+    },
+    "AMARAJABAT": {
+        "AMARAJABAT-EQ": "100"
+    },
+    "UTKARSHBNK": {
+        "UTKARSHBNK-EQ": "17358"
+    },
+    "ALPHAGEO": {
+        "ALPHAGEO-EQ": "14597"
+    },
+    "ALPA": {
+        "ALPA-EQ": "14848"
+    },
+    "UCAL": {
+        "UCAL-EQ": "3570"
+    },
+    "BANKETF": {
+        "BANKETF-EQ": "17419"
+    },
+    "NETWEB": {
+        "NETWEB-EQ": "17433"
+    },
+    "LIQUID": {
+        "LIQUID-EQ": "17572"
+    },
+    "LICMFGOLD": {
+        "LICMFGOLD-EQ": "25640"
+    },
+    "DSPSENXETF": {
+        "DSPSENXETF-EQ": "17613"
+    },
+    "DSPPVBKETF": {
+        "DSPPVBKETF-EQ": "17576"
+    },
+    "DSPPSBKETF": {
+        "DSPPSBKETF-EQ": "17616"
+    },
+    "PROZONER": {
+        "PROZONER-EQ": "28859"
+    },
+    "YATHARTH": {
+        "YATHARTH-EQ": "17738"
+    },
+    "RKDL": {
+        "RKDL-EQ": "20950"
+    },
+    "TVSHLTD": {
+        "TVSHLTD-EQ": "29008"
+    },
+    "ICICIQTY30": {
+        "ICICIQTY30-EQ": "17808"
+    },
+    "THEINVEST": {
+        "THEINVEST-EQ": "21427"
+    },
+    "TGBHOTELS": {
+        "TGBHOTELS-EQ": "14607"
+    },
+    "SHIVAMILLS": {
+        "SHIVAMILLS-EQ": "1497"
+    },
+    "SBFC": {
+        "SBFC-EQ": "18026"
+    },
+    "PATELENG": {
+        "PATELENG-EQ": "11699"
+    },
+    "OMAXAUTO": {
+        "OMAXAUTO-EQ": "10922"
+    },
+    "NDGL": {
+        "NDGL-EQ": "18371"
+    },
+    "MIRZAINT": {
+        "MIRZAINT-EQ": "4394"
+    },
+    "MANORAMA": {
+        "MANORAMA-EQ": "10227"
+    },
+    "MANOMAY": {
+        "MANOMAY-EQ": "13753"
+    },
+    "KECL": {
+        "KECL-EQ": "18220"
+    },
+    "IVP": {
+        "IVP-EQ": "1681"
+    },
+    "GET&D": {
+        "GET&D-EQ": "16783"
+    },
+    "CALSOFT": {
+        "CALSOFT-EQ": "8341"
+    },
+    "AURIONPRO": {
+        "AURIONPRO-EQ": "12022"
+    },
+    "ATAM": {
+        "ATAM-EQ": "15404"
+    },
+    "CONCORDBIO": {
+        "CONCORDBIO-EQ": "18060"
+    },
+    "YASHO": {
+        "YASHO-EQ": "18131"
+    },
+    "SRGHFL": {
+        "SRGHFL-EQ": "18119"
+    },
+    "BSHSL": {
+        "BSHSL-EQ": "809"
+    },
+    "TVSSCS": {
+        "TVSSCS-EQ": "18151"
+    },
+    "NIITMTS": {
+        "NIITMTS-EQ": "17747"
+    },
+    "TREL": {
+        "TREL-EQ": "17795"
+    },
+    "ATL": {
+        "ATL-EQ": "17778"
+    },
+    "REDTAPE": {
+        "REDTAPE-EQ": "17859"
+    },
+    "LORDSCHLO": {
+        "LORDSCHLO-EQ": "18232"
+    },
+    "VLEGOV": {
+        "VLEGOV-EQ": "18012"
+    },
+    "HDFCLIQUID": {
+        "HDFCLIQUID-EQ": "18279"
+    },
+    "SILVRETF": {
+        "SILVRETF-EQ": "16777"
+    },
+    "NIFTYETF": {
+        "NIFTYETF-EQ": "6353"
+    },
+    "NEXT50": {
+        "NEXT50-EQ": "17181"
+    },
+    "MIDCAPETF": {
+        "MIDCAPETF-EQ": "8413"
+    },
+    "MAKEINDIA": {
+        "MAKEINDIA-EQ": "7979"
+    },
+    "LOWVOL": {
+        "LOWVOL-EQ": "14786"
+    },
+    "GSEC10YEAR": {
+        "GSEC10YEAR-EQ": "14938"
+    },
+    "GOLDETF": {
+        "GOLDETF-EQ": "14286"
+    },
+    "ESG": {
+        "ESG-EQ": "1200"
+    },
+    "BFSI": {
+        "BFSI-EQ": "5220"
+    },
+    "JIOFIN": {
+        "JIOFIN-EQ": "18143"
+    },
+    "DOLPHIN": {
+        "DOLPHIN-EQ": "18139"
+    },
+    "VPRPL": {
+        "VPRPL-EQ": "18341"
+    },
+    "NIFMID150": {
+        "NIFMID150-EQ": "18347"
+    },
+    "SANDUMA": {
+        "SANDUMA-EQ": "18359"
+    },
+    "RISHABH": {
+        "RISHABH-EQ": "18417"
+    },
+    "KOHINOOR": {
+        "KOHINOOR-EQ": "3009"
+    },
+    "KAMATHOTEL": {
+        "KAMATHOTEL-EQ": "1826"
+    },
+    "EPIGRAL": {
+        "EPIGRAL-EQ": "5382"
+    },
+    "EIMCOELECO": {
+        "EIMCOELECO-EQ": "4040"
+    },
+    "CUBEXTUB": {
+        "CUBEXTUB-EQ": "4064"
+    },
+    "PYRAMID": {
+        "PYRAMID-EQ": "18250"
+    },
+    "ALPSINDUS": {
+        "ALPSINDUS-EQ": "4060"
+    },
+    "UNIVAFOODS": {
+        "UNIVAFOODS-EQ": "4020"
+    },
+    "JLHL": {
+        "JLHL-EQ": "18553"
+    },
+    "RRKABEL": {
+        "RRKABEL-EQ": "18566"
+    },
+    "AMDIND": {
+        "AMDIND-EQ": "14398"
+    },
+    "EMSLIMITED": {
+        "EMSLIMITED-EQ": "18593"
+    },
+    "ZAGGLE": {
+        "ZAGGLE-EQ": "18608"
+    },
+    "SAMHI": {
+        "SAMHI-EQ": "18614"
+    },
+    "NAVINIFTY": {
+        "NAVINIFTY-EQ": "18668"
+    },
+    "DIAMINESQ": {
+        "DIAMINESQ-EQ": "18644"
+    },
+    "RATNAVEER": {
+        "RATNAVEER-EQ": "18423"
+    },
+    "SIGNATURE": {
+        "SIGNATURE-EQ": "18743"
+    },
+    "KALAMANDIR": {
+        "KALAMANDIR-EQ": "18755"
+    },
+    "YATRA": {
+        "YATRA-EQ": "18760"
+    },
+    "WINSOME": {
+        "WINSOME-EQ": "25041"
+    },
+    "ORCHPHARMA": {
+        "ORCHPHARMA-EQ": "926"
+    },
+    "MVGJL": {
+        "MVGJL-EQ": "19015"
+    },
+    "MICEL": {
+        "MICEL-EQ": "7169"
+    },
+    "JSWINFRA": {
+        "JSWINFRA-EQ": "19020"
+    },
+    "UDS": {
+        "UDS-EQ": "19113"
+    },
+    "DIACABS": {
+        "DIACABS-EQ": "18543"
+    },
+    "SENSEXETF": {
+        "SENSEXETF-EQ": "19224"
+    },
+    "MONIFTY500": {
+        "MONIFTY500-EQ": "19237"
+    },
+    "KHANDSE": {
+        "KHANDSE-EQ": "9641"
+    },
+    "THEJO": {
+        "THEJO-EQ": "19279"
+    },
+    "NUVAMA": {
+        "NUVAMA-EQ": "18721"
+    },
+    "SECMARK": {
+        "SECMARK-EQ": "19496"
+    },
+    "ORIENTCER": {
+        "ORIENTCER-EQ": "13111"
+    },
+    "UJAAS": {
+        "UJAAS-EQ": "25536"
+    },
+    "VALIANTLAB": {
+        "VALIANTLAB-EQ": "19218"
+    },
+    "MGEL": {
+        "MGEL-EQ": "1593"
+    },
+    "IRMENERGY": {
+        "IRMENERGY-EQ": "19597"
+    },
+    "SICALLOG": {
+        "SICALLOG-EQ": "19434"
+    },
+    "PLAZACABLE": {
+        "PLAZACABLE-EQ": "19458"
+    },
+    "ITETF": {
+        "ITETF-EQ": "19633"
+    },
+    "ARE&M": {
+        "ARE&M-EQ": "100"
+    },
+    "SAMPANN": {
+        "SAMPANN-EQ": "27303"
+    },
+    "RANEENGINE": {
+        "RANEENGINE-EQ": "16751"
+    },
+    "TCLCONS": {
+        "TCLCONS-EQ": "19501"
+    },
+    "PATANJALI": {
+        "PATANJALI-EQ": "17029"
+    },
+    "BLUEJET": {
+        "BLUEJET-EQ": "19686"
+    },
+    "LIQUIDSBI": {
+        "LIQUIDSBI-EQ": "19705"
+    },
+    "LTFOODS": {
+        "LTFOODS-EQ": "13816"
+    },
+    "CELLO": {
+        "CELLO-EQ": "19795"
+    },
+    "MUFIN": {
+        "MUFIN-EQ": "19783"
+    },
+    "JAIBALAJI": {
+        "JAIBALAJI-EQ": "11256"
+    },
+    "HONASA": {
+        "HONASA-EQ": "19813"
+    },
+    "ESAFSFB": {
+        "ESAFSFB-EQ": "19878"
+    },
+    "EGOLD": {
+        "EGOLD-EQ": "19933"
+    },
+    "SPYL": {
+        "SPYL-EQ": "21095"
+    },
+    "LLOYDSENGG": {
+        "LLOYDSENGG-EQ": "17801"
+    },
+    "MAXESTATES": {
+        "MAXESTATES-EQ": "19646"
+    },
+    "INDEX2 NSETEST": {
+        "INDEX2 NSETEST": "26501"
+    },
+    "INDEX1 NSETEST": {
+        "INDEX1 NSETEST": "26500"
+    },
+    "ASKAUTOLTD": {
+        "ASKAUTOLTD-EQ": "20152"
+    },
+    "SUPREMEENG": {
+        "SUPREMEENG-EQ": "1389"
+    },
+    "TNTELE": {
+        "TNTELE-EQ": "3512"
+    },
+    "JITFINFRA": {
+        "JITFINFRA-EQ": "19691"
+    },
+    "ESILVER": {
+        "ESILVER-EQ": "20257"
+    },
+    "IREDA": {
+        "IREDA-EQ": "20261"
+    },
+    "TATATECH": {
+        "TATATECH-EQ": "20293"
+    },
+    "GANDHAR": {
+        "GANDHAR-EQ": "20303"
+    },
+    "FEDFINA": {
+        "FEDFINA-EQ": "20322"
+    },
+    "AMNPLST": {
+        "AMNPLST-EQ": "19867"
+    },
+    "ALPHAETF": {
+        "ALPHAETF-EQ": "19640"
+    },
+    "ALOKINDS": {
+        "ALOKINDS-EQ": "17675"
+    },
+    "ALMONDZ": {
+        "ALMONDZ-EQ": "16719"
+    },
+    "ALLSEC": {
+        "ALLSEC-EQ": "11798"
+    },
+    "ALLCARGO": {
+        "ALLCARGO-EQ": "13501"
+    },
+    "ALKYLAMINE": {
+        "ALKYLAMINE-EQ": "4487"
+    },
+    "ALKEM": {
+        "ALKEM-EQ": "11703"
+    },
+    "ALKALI": {
+        "ALKALI-EQ": "16959"
+    },
+    "ALICON": {
+        "ALICON-EQ": "13656"
+    },
+    "ALEMBICLTD": {
+        "ALEMBICLTD-EQ": "79"
+    },
+    "ALBERTDAVD": {
+        "ALBERTDAVD-EQ": "17256"
+    },
+    "ALANKIT": {
+        "ALANKIT-EQ": "9921"
+    },
+    "AKZOINDIA": {
+        "AKZOINDIA-EQ": "1467"
+    },
+    "AKSHARCHEM": {
+        "AKSHARCHEM-EQ": "20178"
+    },
+    "AKSHAR": {
+        "AKSHAR-EQ": "9558"
+    },
+    "AKG": {
+        "AKG-EQ": "2176"
+    },
+    "AKASH": {
+        "AKASH-EQ": "13510"
+    },
+    "AJOONI": {
+        "AJOONI-EQ": "3403"
+    },
+    "AJMERA": {
+        "AJMERA-EQ": "17307"
+    },
+    "AJANTPHARM": {
+        "AJANTPHARM-EQ": "8124"
+    },
+    "AIROLAM": {
+        "AIROLAM-EQ": "6068"
+    },
+    "AIAENG": {
+        "AIAENG-EQ": "13086"
+    },
+    "AHLUCONT": {
+        "AHLUCONT-EQ": "17833"
+    },
+    "AHLEAST": {
+        "AHLEAST-EQ": "19438"
+    },
+    "AHLADA": {
+        "AHLADA-EQ": "2004"
+    },
+    "AHL": {
+        "AHL-EQ": "13288"
+    },
+    "AGSTRA": {
+        "AGSTRA-EQ": "7927"
+    },
+    "AGROPHOS": {
+        "AGROPHOS-EQ": "9046"
+    },
+    "AGRITECH": {
+        "AGRITECH-EQ": "11072"
+    },
+    "AGI": {
+        "AGI-EQ": "1412"
+    },
+    "AGARIND": {
+        "AGARIND-EQ": "3389"
+    },
+    "AFFLE": {
+        "AFFLE-EQ": "11343"
+    },
+    "AETHER": {
+        "AETHER-EQ": "9810"
+    },
+    "AEROFLEX": {
+        "AEROFLEX-EQ": "18268"
+    },
+    "AEGISCHEM": {
+        "AEGISCHEM-EQ": "40"
+    },
+    "ADVENZYMES": {
+        "ADVENZYMES-EQ": "18039"
+    },
+    "ADVANIHOTR": {
+        "ADVANIHOTR-EQ": "14745"
+    },
+    "ADSL": {
+        "ADSL-EQ": "14813"
+    },
+    "ADORWELD": {
+        "ADORWELD-EQ": "34"
+    },
+    "ADFFOODS": {
+        "ADFFOODS-EQ": "19761"
+    },
+    "ADANIPOWER": {
+        "ADANIPOWER-EQ": "17388"
+    },
+    "ADANIPORTS": {
+        "ADANIPORTS-EQ": "15083"
+    },
+    "ADANIGREEN": {
+        "ADANIGREEN-EQ": "3563"
+    },
+    "ADANIENT": {
+        "ADANIENT-EQ": "25"
+    },
+    "ADANIENSOL": {
+        "ADANIENSOL-EQ": "10217"
+    },
+    "ACLGATI": {
+        "ACLGATI-EQ": "13688"
+    },
+    "ACL": {
+        "ACL-EQ": "15420"
+    },
+    "ACI": {
+        "ACI-EQ": "12024"
+    },
+    "ACEINTEG": {
+        "ACEINTEG-EQ": "11779"
+    },
+    "ACE": {
+        "ACE-EQ": "13587"
+    },
+    "ACCELYA": {
+        "ACCELYA-EQ": "7053"
+    },
+    "ACC": {
+        "ACC-EQ": "22"
+    },
+    "ABSLNN50ET": {
+        "ABSLNN50ET-EQ": "7339"
+    },
+    "ABSLLIQUID": {
+        "ABSLLIQUID-EQ": "14518"
+    },
+    "ABSLBANETF": {
+        "ABSLBANETF-EQ": "13987"
+    },
+    "ABSLAMC": {
+        "ABSLAMC-EQ": "6018"
+    },
+    "ABFRL": {
+        "ABFRL-EQ": "30108"
+    },
+    "ABCAPITAL": {
+        "ABCAPITAL-EQ": "21614"
+    },
+    "ABBOTINDIA": {
+        "ABBOTINDIA-EQ": "17903"
+    },
+    "ABB": {
+        "ABB-EQ": "13"
+    },
+    "AAVAS": {
+        "AAVAS-EQ": "5385"
+    },
+    "AARVI": {
+        "AARVI-EQ": "19073"
+    },
+    "AARVEEDEN": {
+        "AARVEEDEN-EQ": "13771"
+    },
+    "AARTISURF": {
+        "AARTISURF-EQ": "19233"
+    },
+    "AARTIPHARM": {
+        "AARTIPHARM-EQ": "13868"
+    },
+    "AARTIIND": {
+        "AARTIIND-EQ": "7"
+    },
+    "AARTIDRUGS": {
+        "AARTIDRUGS-EQ": "4481"
+    },
+    "AARON": {
+        "AARON-EQ": "1030"
+    },
+    "AAKASH": {
+        "AAKASH-EQ": "235"
+    },
+    "AAATECH": {
+        "AAATECH-EQ": "12533"
+    },
+    "63MOONS": {
+        "63MOONS-EQ": "11868"
+    },
+    "5PAISA": {
+        "5PAISA-EQ": "445"
+    },
+    "3PLAND": {
+        "3PLAND-EQ": "2595"
+    },
+    "3MINDIA": {
+        "3MINDIA-EQ": "474"
+    },
+    "3IINFOLTD": {
+        "3IINFOLTD-EQ": "6232"
+    },
+    "360ONE": {
+        "360ONE-EQ": "13061"
+    },
+    "21STCENMGM": {
+        "21STCENMGM-EQ": "4"
+    },
+    "20MICRONS": {
+        "20MICRONS-EQ": "16921"
+    },
+    "161NSETEST": {
+        "161NSETEST-EQ": "14784"
+    },
+    "151NSETEST": {
+        "151NSETEST-EQ": "14782"
+    },
+    "141NSETEST": {
+        "141NSETEST-EQ": "14781"
+    },
+    "131NSETEST": {
+        "131NSETEST-EQ": "14778"
+    },
+    "121NSETEST": {
+        "121NSETEST-EQ": "14777"
+    },
+    "11NSETEST": {
+        "11NSETEST-EQ": "12841"
+    },
+    "111NSETEST": {
+        "111NSETEST-EQ": "14774"
+    },
+    "101NSETEST": {
+        "101NSETEST-EQ": "14772"
+    },
+    "091NSETEST": {
+        "091NSETEST-EQ": "14769"
+    },
+    "081NSETEST": {
+        "081NSETEST-EQ": "14767"
+    },
+    "071NSETEST": {
+        "071NSETEST-EQ": "14764"
+    },
+    "061NSETEST": {
+        "061NSETEST-EQ": "14762"
+    },
+    "051NSETEST": {
+        "051NSETEST-EQ": "14758"
+    },
+    "041NSETEST": {
+        "041NSETEST-EQ": "14755"
+    },
+    "031NSETEST": {
+        "031NSETEST-EQ": "14753"
+    },
+    "021NSETEST": {
+        "021NSETEST-EQ": "14751"
+    },
+    "011NSETEST": {
+        "011NSETEST-EQ": "14747"
+    },
+    "FLAIR": {
+        "FLAIR-EQ": "20372"
+    },
+    "LAL": {
+        "LAL-EQ": "14924"
+    },
+    "RSSOFTWARE": {
+        "RSSOFTWARE-EQ": "6429"
+    },
+    "GATECHDVR": {
+        "GATECHDVR-EQ": "17"
+    },
+    "AMBICAAGAR": {
+        "AMBICAAGAR-EQ": "11496"
+    },
+    "GATECH": {
+        "GATECH-EQ": "17888"
+    },
+    "WELSPUNLIV": {
+        "WELSPUNLIV-EQ": "11253"
+    },
+    "AARTECH": {
+        "AARTECH-EQ": "17145"
+    },
+    "BBNPPGOLD": {
+        "BBNPPGOLD-EQ": "20547"
+    },
+    "SILVERIETF": {
+        "SILVERIETF-EQ": "7942"
+    },
+    "SENSEXIETF": {
+        "SENSEXIETF-EQ": "4378"
+    },
+    "QUAL30IETF": {
+        "QUAL30IETF-EQ": "17808"
+    },
+    "PVTBANIETF": {
+        "PVTBANIETF-EQ": "11386"
+    },
+    "PSUBNKIETF": {
+        "PSUBNKIETF-EQ": "14584"
+    },
+    "NV20IETF": {
+        "NV20IETF-EQ": "17475"
+    },
+    "NIFTYIETF": {
+        "NIFTYIETF-EQ": "29553"
+    },
+    "NIF100IETF": {
+        "NIF100IETF-EQ": "30392"
+    },
+    "NEXT50IETF": {
+        "NEXT50IETF-EQ": "4529"
+    },
+    "MOM30IETF": {
+        "MOM30IETF-EQ": "10585"
+    },
+    "MIDSELIETF": {
+        "MIDSELIETF-EQ": "17702"
+    },
+    "MIDCAPIETF": {
+        "MIDCAPIETF-EQ": "17152"
+    },
+    "LOWVOLIETF": {
+        "LOWVOLIETF-EQ": "21254"
+    },
+    "LIQUIDIETF": {
+        "LIQUIDIETF-EQ": "4838"
+    },
+    "ITIETF": {
+        "ITIETF-EQ": "22365"
+    },
+    "INFRAIETF": {
+        "INFRAIETF-EQ": "10723"
+    },
+    "INDIASHLTR": {
+        "INDIASHLTR-EQ": "20556"
+    },
+    "HEALTHIETF": {
+        "HEALTHIETF-EQ": "3626"
+    },
+    "GSEC5IETF": {
+        "GSEC5IETF-EQ": "8342"
+    },
+    "GSEC10IETF": {
+        "GSEC10IETF-EQ": "13143"
+    },
+    "GOLDIETF": {
+        "GOLDIETF-EQ": "19679"
+    },
+    "FMCGIETF": {
+        "FMCGIETF-EQ": "5306"
+    },
+    "FINIETF": {
+        "FINIETF-EQ": "12578"
+    },
+    "DOMS": {
+        "DOMS-EQ": "20551"
+    },
+    "CONSUMIETF": {
+        "CONSUMIETF-EQ": "6446"
+    },
+    "COMMOIETF": {
+        "COMMOIETF-EQ": "13198"
+    },
+    "BSE500IETF": {
+        "BSE500IETF-EQ": "3001"
+    },
+    "BANKIETF": {
+        "BANKIETF-EQ": "11037"
+    },
+    "AUTOIETF": {
+        "AUTOIETF-EQ": "7844"
+    },
+    "ALPL30IETF": {
+        "ALPL30IETF-EQ": "22344"
+    },
+    "INOXINDIA": {
+        "INOXINDIA-EQ": "20607"
+    },
+    "SURAJEST": {
+        "SURAJEST-EQ": "20822"
+    },
+    "MUTHOOTMF": {
+        "MUTHOOTMF-EQ": "20831"
+    },
+    "GTECJAINX": {
+        "GTECJAINX-EQ": "1129"
+    },
+    "MUFTI": {
+        "MUFTI-EQ": "20878"
+    },
+    "HAPPYFORGE": {
+        "HAPPYFORGE-EQ": "20854"
+    },
+    "AZAD": {
+        "AZAD-EQ": "20905"
+    },
+    "INNOVACAP": {
+        "INNOVACAP-EQ": "21062"
+    },
+    "KILITCH": {
+        "KILITCH-EQ": "19937"
+    },
+    "AKSHOPTFBR": {
+        "AKSHOPTFBR-EQ": "8591"
+    },
+    "AIRAN": {
+        "AIRAN-EQ": "9897"
+    },
+    "AAREYDRUGS": {
+        "AAREYDRUGS-EQ": "5245"
+    },
+    "BAJEL": {
+        "BAJEL-EQ": "20531"
+    },
+    "WSI": {
+        "WSI-EQ": "14828"
+    },
+    "NiftyM150Momntm50": {
+        "NiftyM150Momntm50": "26082"
+    },
+    "Nifty200 Alpha 30": {
+        "Nifty200 Alpha 30": "26081"
+    },
+    "MOTISONS": {
+        "MOTISONS-EQ": "20788"
+    },
+    "RBZJEWEL": {
+        "RBZJEWEL-EQ": "20874"
+    },
+    "SUNCLAY": {
+        "SUNCLAY-EQ": "20956"
+    },
+    "SEMAC": {
+        "SEMAC-EQ": "11961"
+    },
+    "JYOTICNC": {
+        "JYOTICNC-EQ": "21334"
+    },
+    "TATSILV": {
+        "TATSILV-EQ": "21428"
+    },
+    "TATAGOLD": {
+        "TATAGOLD-EQ": "21401"
+    },
+    "JYOTISTRUC": {
+        "JYOTISTRUC-EQ": "1802"
+    },
+    "MEDIASSIST": {
+        "MEDIASSIST-EQ": "21705"
+    },
+    "COMSYN": {
+        "COMSYN-EQ": "21578"
+    },
+    "LIQUIDCASE": {
+        "LIQUIDCASE-EQ": "21750"
+    },
+    "DIGIDRIVE": {
+        "DIGIDRIVE-EQ": "21247"
+    },
+    "DAVANGERE": {
+        "DAVANGERE-EQ": "21794"
+    },
+    "SONAMLTD": {
+        "SONAMLTD-EQ": "8806"
+    },
+    "NIFTYBETF": {
+        "NIFTYBETF-EQ": "21959"
+    },
+    "BANKBETF": {
+        "BANKBETF-EQ": "21986"
+    },
+    "ABAN": {
+        "ABAN-EQ": "10"
+    },
+    "EPACK": {
+        "EPACK-EQ": "22463"
+    },
+    "LGHL": {
+        "LGHL-EQ": "19876"
+    },
+    "ASMS": {
+        "ASMS-EQ": "14064"
+    },
+    "ABMINTLLTD": {
+        "ABMINTLLTD-EQ": "5549"
+    },
+    "NIFITETF": {
+        "NIFITETF-EQ": "22488"
+    },
+    "NIF5GETF": {
+        "NIF5GETF-EQ": "22521"
+    },
+    "NIF10GETF": {
+        "NIF10GETF-EQ": "22524"
+    },
+    "BLSE": {
+        "BLSE-EQ": "22566"
+    },
+    "HEALTHADD": {
+        "HEALTHADD-EQ": "22592"
+    },
+    "HDFCPSUBK": {
+        "HDFCPSUBK-EQ": "22595"
+    },
+    "PARKHOTELS": {
+        "PARKHOTELS-EQ": "22649"
+    },
+    "RPTECH": {
+        "RPTECH-EQ": "22670"
+    },
+    "NOVAAGRI": {
+        "NOVAAGRI-EQ": "22477"
+    },
+    "JSFB": {
+        "JSFB-EQ": "22663"
+    },
+    "CAPITALSFB": {
+        "CAPITALSFB-EQ": "22675"
+    },
+    "SILVERADD": {
+        "SILVERADD-EQ": "10761"
+    },
+    "SENSEXADD": {
+        "SENSEXADD-EQ": "17613"
+    },
+    "PVTBANKADD": {
+        "PVTBANKADD-EQ": "17576"
+    },
+    "PSUBANKADD": {
+        "PSUBANKADD-EQ": "17616"
+    },
+    "NIFTY50ADD": {
+        "NIFTY50ADD-EQ": "7451"
+    },
+    "MIDQ50ADD": {
+        "MIDQ50ADD-EQ": "7456"
+    },
+    "ITETFADD": {
+        "ITETFADD-EQ": "17207"
+    },
+    "GOLDETFADD": {
+        "GOLDETFADD-EQ": "15356"
+    },
+    "EQUAL50ADD": {
+        "EQUAL50ADD-EQ": "6606"
+    },
+    "BANKETFADD": {
+        "BANKETFADD-EQ": "13644"
+    },
+    "ENTERO": {
+        "ENTERO-EQ": "22717"
+    },
+    "LICNMID100": {
+        "LICNMID100-EQ": "22722"
+    },
+    "KALYANIFRG": {
+        "KALYANIFRG-EQ": "15156"
+    },
+    "SVPGLOB": {
+        "SVPGLOB-EQ": "5020"
+    },
+    "SAURASHCEM": {
+        "SAURASHCEM-EQ": "3018"
+    },
+    "SIGNPOST": {
+        "SIGNPOST-EQ": "22656"
+    },
+    "JUNIPER": {
+        "JUNIPER-EQ": "22824"
+    },
+    "SMALLCAP": {
+        "SMALLCAP-EQ": "22832"
+    },
+    "GPTHEALTH": {
+        "GPTHEALTH-EQ": "22846"
+    },
+    "GOLDCASE": {
+        "GOLDCASE-EQ": "22901"
+    },
+    "VSTL": {
+        "VSTL-EQ": "22730"
+    },
+    "EXICOM": {
+        "EXICOM-EQ": "22947"
+    },
+    "SIL": {
+        "SIL-EQ": "11297"
+    },
+    "PRUDMOULI": {
+        "PRUDMOULI-EQ": "20527"
+    },
+    "PKTEA": {
+        "PKTEA-EQ": "10321"
+    },
+    "MODIRUBBER": {
+        "MODIRUBBER-EQ": "2229"
+    },
+    "KERNEX": {
+        "KERNEX-EQ": "13121"
+    },
+    "INDRAMEDCO": {
+        "INDRAMEDCO-EQ": "4751"
+    },
+    "INDOSTAR": {
+        "INDOSTAR-EQ": "3088"
+    },
+    "ADL": {
+        "ADL-EQ": "245"
+    },
+    "RKSWAMY": {
+        "RKSWAMY-EQ": "23043"
+    },
+    "REGENCERAM": {
+        "REGENCERAM-EQ": "4130"
+    },
+    "JGCHEM": {
+        "JGCHEM-EQ": "23056"
+    },
+    "GOPAL": {
+        "GOPAL-EQ": "23066"
+    },
+    "ANKITMETAL": {
+        "ANKITMETAL-EQ": "29430"
+    },
+    "SPMLINFRA": {
+        "SPMLINFRA-EQ": "3321"
+    },
+    "KEEPLEARN": {
+        "KEEPLEARN-EQ": "778"
+    },
+    "ATLANTAA": {
+        "ATLANTAA-EQ": "13585"
+    },
+    "PVSL": {
+        "PVSL-EQ": "23142"
+    },
+    "PSUBANK": {
+        "PSUBANK-EQ": "15061"
+    },
+    "PLATIND": {
+        "PLATIND-EQ": "22930"
+    },
+    "NV20": {
+        "NV20-EQ": "11457"
+    },
+    "NIFTY1": {
+        "NIFTY1-EQ": "18102"
+    },
+    "MNC": {
+        "MNC-EQ": "10676"
+    },
+    "MIDCAP": {
+        "MIDCAP-EQ": "8077"
+    },
+    "LOWVOL1": {
+        "LOWVOL1-EQ": "8632"
+    },
+    "LIQUID1": {
+        "LIQUID1-EQ": "13950"
+    },
+    "IT": {
+        "IT-EQ": "2627"
+    },
+    "CONS": {
+        "CONS-EQ": "10512"
+    },
+    "BANKNIFTY1": {
+        "BANKNIFTY1-EQ": "5851"
+    },
+    "ALPHA": {
+        "ALPHA-EQ": "7412"
+    },
+    "MOSMALL250": {
+        "MOSMALL250-EQ": "23181"
+    },
+    "MOREALTY": {
+        "MOREALTY-EQ": "23184"
+    },
+    "KRYSTAL": {
+        "KRYSTAL-EQ": "23175"
+    },
+    "MUKKA": {
+        "MUKKA-EQ": "22980"
+    },
+    "RUCHINFRA": {
+        "RUCHINFRA-EQ": "4566"
+    },
+    "GVPTECH": {
+        "GVPTECH-EQ": "10865"
+    },
+    "LIQUIDADD": {
+        "LIQUIDADD-EQ": "23407"
+    },
+    "SCILAL": {
+        "SCILAL-EQ": "23127"
+    },
+    "WANBURY": {
+        "WANBURY-EQ": "14063"
+    },
+    "MASKINVEST": {
+        "MASKINVEST-EQ": "18727"
+    },
+    "181NSETEST": {
+        "181NSETEST-EQ": "23447"
+    },
+    "171NSETEST": {
+        "171NSETEST-EQ": "23446"
+    },
+    "Nifty Multi Infra": {
+        "Nifty Multi Infra": "26086"
+    },
+    "Nifty Multi Mfg": {
+        "Nifty Multi Mfg": "26085"
+    },
+    "Nifty MidSml Hlth": {
+        "Nifty MidSml Hlth": "26084"
+    },
+    "Nifty Tata 25 Cap": {
+        "Nifty Tata 25 Cap": "26083"
+    },
+    "SINCLAIR": {
+        "SINCLAIR-EQ": "23480"
+    },
+    "BHARTIHEXA": {
+        "BHARTIHEXA-EQ": "23489"
+    },
+    "TARACHAND": {
+        "TARACHAND-EQ": "23512"
+    },
+    "SILVER1": {
+        "SILVER1-EQ": "13082"
+    },
+    "GOLD1": {
+        "GOLD1-EQ": "14858"
+    },
+    "SABTNL": {
+        "SABTNL-EQ": "23365"
+    },
+    "SRM": {
+        "SRM-EQ": "23402"
+    },
+    "WIPL": {
+        "WIPL-EQ": "20481"
+    },
+    "MBECL": {
+        "MBECL-EQ": "13683"
+    },
+    "LTF": {
+        "LTF-EQ": "24948"
+    },
+    "LANCORHOL": {
+        "LANCORHOL-EQ": "23027"
+    },
+    "HYBRIDFIN": {
+        "HYBRIDFIN-EQ": "12809"
+    },
+    "HAVISHA": {
+        "HAVISHA-EQ": "7457"
+    },
+    "FCONSUMER": {
+        "FCONSUMER-EQ": "30038"
+    },
+    "AKI": {
+        "AKI-EQ": "14890"
+    },
+    "AIIL": {
+        "AIIL-EQ": "23553"
+    },
+    "ADROITINFO": {
+        "ADROITINFO-EQ": "4953"
+    },
+    "NIFTYNXT50": {
+        "Nifty Next 50": "26013"
+    },
+    "GLOSTERLTD": {
+        "GLOSTERLTD-EQ": "23590"
+    },
+    "GUJRAFFIA": {
+        "GUJRAFFIA-EQ": "4548"
+    },
+    "BALUFORGE": {
+        "BALUFORGE-EQ": "23607"
+    },
+    "JNKINDIA": {
+        "JNKINDIA-EQ": "23621"
+    },
+    "FILATFASH": {
+        "FILATFASH-EQ": "23647"
+    },
+    "INDGN": {
+        "INDGN-EQ": "23693"
+    },
+    "TBOTEK": {
+        "TBOTEK-EQ": "23740"
+    },
+    "AADHARHFC": {
+        "AADHARHFC-EQ": "23729"
+    },
+    "ACCURACY": {
+        "ACCURACY-EQ": "1465"
+    },
+    "GODIGIT": {
+        "GODIGIT-EQ": "23799"
+    },
+    "ABSLPSE": {
+        "ABSLPSE-EQ": "23806"
+    },
+    "FIRSTCRY": {
+        "FIRSTCRY-EQ": "24814"
+    },
+    "PREMIERENE": {
+        "PREMIERENE-EQ": "25049"
+    }
+}
